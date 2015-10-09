@@ -1,0 +1,267 @@
+ID;UNIDAD;FECHA INICIO;FECHA FIN;TÉRMINO MUNICIPAL;PROVINCIA;COMUNIDAD AUTÓNOMA;OBJETO;EFECTIVOS;COSTE;MES;AÑO;MES + AÑO
+1;BIEM I, II, III y IV;27/07/2007;02/08/2007;;Gran Canaria;Canarias;Incendios;140;867;julio;2007;jul-07
+2;BIEM II;30/07/2007;31/07/2007;;Córdoba;Andalucía;Incendios;169;11.498,77;julio;2007;jul-07
+3;BIEM I, II, III y IV;31/07/2007;03/08/2007;;Santa Cruz de Tenerife;Canarias;Incendios;300;867.552,23;julio;2007;jul-07
+4;BIEM I, III y IV;28/08/2007;31/08/2007;;Castellón;Comunidad Valenciana;Incendios;423;67.567,31;agosto;2007;ago-07
+5;BIEM II y RAEM;19/12/2007;20/12/2007;Algeciras;Cádiz;Andalucía;Paso del Estrecho;22;206,66;diciembre;2007;dic-07
+6;BIEM I, III y RAEM;13/10/2007;20/10/2007;El Vergel;Alicante;Comunidad Valenciana;Inundaciones;106;26.405,02;octubre;2007;oct-07
+7;BIEM II;20/11/2007;21/11/2007;Utrera;Sevilla;Andalucía;Inundaciones;60;2.952,69;noviembre;2007;nov-07
+8;BIEM I, II, AGRUMEDA;27/04/2008;01/05/2008;La Gomera;Santa Cruz de Tenerife;Canarias;Incendios;235;189.620,00;abril;2008;abr-08
+9;BIEM V;24/07/2008;25/07/2008;Villafranca del Bierzo;León;Castilla y León;Incendios;47;1.802,95;julio;2008;jul-08
+10;BIEM I, III, IV, RAEM, AGRUMEDA;05/08/2008;09/08/2008;Zuera;Zaragoza;Aragón;Incendios;388;55.915,28;agosto;2008;ago-08
+11;BIEM III, V;06/08/2008;08/08/2008;Honrubia de la Cuesta;Segovia;Castilla y León;Incendios;219;31.288,60;agosto;2008;ago-08
+12;BIEM II;03/09/2008;04/09/2008;Tarifa;Cádiz;Andalucía;Incendios;132;10.887,42;septiembre;2008;sep-08
+13;BIEM IV;08/12/2008;09/12/2008;Benasque ;Huesca;Aragón;Invernal;48;4.164,00;diciembre;2008;dic-08
+14;BIEM II;29/09/2008;01/10/2008;Ceuta;Ceuta;Ceuta;Inundaciones;150;16.123,63;septiembre;2008;sep-08
+15;BIEM I;12/10/2008;12/10/2008;Rivas Vaciamadrid;Madrid;Madrid;Inundaciones;11;364;octubre;2008;oct-08
+16;BIEM V;14/12/2008;15/12/2008;León;León;Castilla y León;Inundaciones;158;18.800,00;diciembre;2008;dic-08
+17;BIEM III y I;16/12/2008;18/12/2008;Mallorca;Baleares;Baleares;Inundaciones;58;248.175,00;diciembre;2008;dic-08
+18;BIEM I Y III;24/01/2009;25/01/2009;;Valencia, Alicante;Comunidad Valenciana;Incendios;488;50.040,77;enero;2009;ene-09
+19;BIEM II Y BIEM III;14/07/2009;17/07/2009;;Almería;Andalucía;Incendios;253;71.463,59;julio;2009;jul-09
+20;BIEM I Y BIEM III;15/07/2009;17/07/2009;;Albacete;Castilla-La Mancha;Incendios;129;6.273,52;julio;2009;jul-09
+21;BIEM V ;17/07/2009;18/07/2009;;León;Castilla y León;Incendios;122;9.984,04;julio;2009;jul-09
+22;BIEM II;18/07/2009;20/07/2009;;Cádiz;Andalucía;Incendios;139;14.462,67;julio;2009;jul-09
+23;BIEM IV;17/07/2009;19/07/2009;;Zaragoza;Aragón;Incendios;133;24.938,72;julio;2009;jul-09
+24;BIEM I Y BIEM V;21/07/2009;22/07/2009;;Madrid;Madrid;Incendios;223;7.348,79;julio;2009;jul-09
+25;BIEM IV y BIEM III;21/07/2009;24/07/2009;;Tarragona;Cataluña;Incendios;176;29.785,03;julio;2009;jul-09
+26;BIEM IV y BIEM III;22/07/2009;27/07/2009;;Teruel;Aragón;Incendios;310;46.753,53;julio;2009;jul-09
+27;BIEM I Y BIEM V;21/07/2009;25/07/2009;;Cuenca;Castilla-La Mancha;Incendios;234;103.324,39;julio;2009;jul-09
+28;BIEM V ;22/07/2009;24/07/2009;;Navarra;Navarra;Incendios;67;11.207,61;julio;2009;jul-09
+29;BIEM V ;22/07/2009;24/07/2009;;Burgos;Castilla y León;Incendios;44;3.995,80;julio;2009;jul-09
+30;BIEM I;22/07/2009;24/07/2009;;Soria;Castilla-La Mancha;Incendios;52;3.514,54;julio;2009;jul-09
+31;BIEM III;22/07/2009;24/07/2009;;Alicante;Comunidad Valenciana;Incendios;71;5.017,64;julio;2009;jul-09
+32;BIEM II;23/07/2009;25/07/2009;;Almería;Andalucía;Incendios;216;32.396,57;julio;2009;jul-09
+33;BIEM III;23/07/2009;24/07/2009;;Castellón;Comunidad Valenciana;Incendios;219;42.915,42;julio;2009;jul-09
+34;BIEM I, BIEM II Y BIEM V;25/07/2009;29/07/2009;;Cáceres;Extremadura;Incendios;334;119.469,38;julio;2009;jul-09
+35;BIEM I Y BIEM V;28/07/2009;31/07/2009;;Ávila;Castilla y León;Incendios;388;55.907,65;julio;2009;jul-09
+36;BIEM III Y BIEM IV;29/07/2009;31/07/2009;;Zaragoza;Aragón;Incendios;205;16.409,69;julio;2009;jul-09
+37;BIEM II Y RODEOS;01/08/2009;04/08/2009;;Santa Cruz de Tenerife;Canarias;Incendios;113;113.528,38;agosto;2009;ago-09
+38;BIEM IV y BIEM III;01/08/2009;02/08/2009;;Zaragoza;Aragón;Incendios;149;8.941,29;agosto;2009;ago-09
+39;BIEM V;17/08/2009;18/08/2009;;León;Castilla y León;Incendios;120;11.365,40;agosto;2009;ago-09
+40;BIEM IV y BIEM I;18/08/2009;21/08/2009;;Zaragoza;Aragón;Incendios;259;28.443,94;agosto;2009;ago-09
+41;BIEM V;19/08/2009;20/08/2009;;Salamanca;Castilla y León;Incendios;142;6.023,28;agosto;2009;ago-09
+42;BIEM V;23/08/2009;24/08/2009;;Zamora;Castilla y León;Incendios;186;6.517,88;agosto;2009;ago-09
+43;BIEM IV;28/08/2009;29/08/2009;;La Rioja;La Rioja;Incendios;46;4.350,01;agosto;2009;ago-09
+44;BIEM II;10/09/2009;11/09/2009;;Málaga;Andalucía;Incendios;229;18.043,21;septiembre;2009;sep-09
+45;BIEM II;10/09/2009;11/09/2009;;Jaén;Andalucía;Incendios;25;2.422,00;septiembre;2009;sep-09
+46;BIEM V y BIEM I;10/09/2009;14/09/2009;;León;Castilla y León;Incendios;490;292.715,19;septiembre;2009;sep-09
+47;BIEM V;15/09/2009;16/09/2009;;Salamanca;Castilla y León;Incendios;117;8.091,98;septiembre;2009;sep-09
+48;BIEM IV;02/10/2009;02/10/2009;;Zaragoza;Aragón;Incendios;27;914,9;octubre;2009;oct-09
+49;BIEM II;04/11/2009;06/11/2009;;Almería;Andalucía;Incendios;110;11.764,91;noviembre;2009;nov-09
+50;BIEM I, III, IV, V Y RAEM;09/01/2009;10/01/2009;Nevadas Zona Centro;Madrid, Burgos y Zaragoza;Madrid, Castilla y León, Aragón;Invernal;131;5.120,30;enero;2009;ene-09
+51;BIEM IV;14/12/2009;15/12/2009;;Teruel;Aragón;Invernal;6;998,92;diciembre;2009;dic-09
+52;BIEM,s I y V;17/12/2009;18/12/2009;León;León;Castilla y León;Invernal;119;6.035,00;diciembre;2009;dic-09
+53;BIEM II;20/02/2009;21/02/2009;Montellano;Sevilla;Andalucía;Inundaciones;14;462,7;febrero;2009;feb-09
+54;BIEM III;28/08/2009;29/08/2009;Los Alcázares;Murcia;Murcia;Inundaciones;59;16.091,43;agosto;2009;ago-09
+55;BIEM II;16/11/2009;18/11/2009;Norte Santa Cruz de Tenerife;Santa Cruz de Tenerife;Canarias;Inundaciones;57;370,5;noviembre;2009;nov-09
+56;BIEM II;26/12/2009;27/12/2009;Jerez de la Frontera;Cádiz;Andalucía;Inundaciones;15;15.273,58;diciembre;2009;dic-09
+57;BIEM I Y RAEM;31/12/2009;14/01/2010;Mestanza;Ciudad Real;Castilla-La Mancha;Inundaciones;99;35.288,18;diciembre;2009;dic-09
+58;BIEM III;07/01/2010;08/01/2010;Barracas;Castellón;Comunidad Valenciana;Invernal;52;19.96,55;enero;2010;ene-10
+59;BIEM IV;08/01/2010;11/01/2010;Montalbán;Teruel;Aragón;Incendios;57;4.211,64;enero;2010;ene-10
+60;BIEM V;08/01/2010;09/01/2010;Miranda de Ebro;Burgos;Castilla y León;Invernal;35;2.725,10;enero;2010;ene-10
+61;BIEM I Y V;10/01/2010;11/01/2010;Madrid;Madrid;Madrid;Invernal;42;2.520,04;enero;2010;ene-10
+62;BIEM IV;11/01/2010;12/01/2010;Used;Zaragoza;Aragón;Incendios;35;1.441,87;enero;2010;ene-10
+63; CG, BIEM I, BIEM III, BIEM V, UCG Y ET;13/01/2010;02/02/2010;Puerto Príncipe;Haití;Haití;Exterior;37;113.579,95;enero;2010;ene-10
+64;BIEM II (UIEN RODEOS Y UIEN GANDO);01/02/2010;03/02/2010;Santa Cruz De Tenerife;Santa Cruz de Tenerife;Canarias;Inundaciones;87;8.438,91;febrero;2010;feb-10
+65;BIEM V;02/03/2010;04/03/2010;Ponferrada;León;Castilla y León;Inundaciones;102;0;marzo;2010;mar-10
+66;BIEM IV Y BIEM III;08/03/2010;10/03/2010;Gerona;Girona;Cataluña;Inundaciones;146;7.865,72;marzo;2010;mar-10
+67;BIEM IV;17/03/2010;18/03/2010;Sos del Rey Católico;Zaragoza;Aragón;Incendios;88;3.359,44;marzo;2010;mar-10
+68;BIEM II;25/05/2010;26/05/2010;La Unión;Murcia;Murcia;Incendios;55;867,08;mayo;2010;may-10
+69;BIEM V;16/06/2010;17/06/2010;Arriondas y Prabia;Asturias;Asturias;Inundaciones;181;12.426,85;junio;2010;jun-10
+70;BIEM IV;11/08/2010;13/08/2010;Peralta;Navarra;Navarra;Incendios;36;17.192,46;agosto;2010;ago-10
+71;BIEM V;12/08/2010;15/08/2010;Barjas;León;Castilla y León;Incendios;15;6.789,66;agosto;2010;ago-10
+72;BIEM II;13/08/2010;14/08/2010;El Sauzal;Santa Cruz de Tenerife;Canarias;Incendios;6;960,28;agosto;2010;ago-10
+73;BIEN V;14/08/2010;15/08/2010;Negreira;A Coruña;Galicia;Incendios;10;1.714,18;agosto;2010;ago-10
+74;BIEM V;15/08/2010;18/08/2010;Bazar-Muxia;A Coruña;Galicia;Incendios;89;61.312,28;agosto;2010;ago-10
+75;BIEM III;17/08/2010;18/08/2010;Aguilas;Murcia;Murcia;Inundaciones;74;10.582,02;agosto;2010;ago-10
+76;BIEM III AGRUMEDA;22/08/2010;24/08/2010;San Joan de Labritja;Baleares;Baleares;Incendios;111;41.411,05;agosto;2010;ago-10
+77;BIEM V, I  AGRUMEDA;31/08/2010;06/09/2010;Laza ;Ourense;Galicia;Incendios;351;141.161,11;agosto;2010;ago-10
+78;BIEM I, BIEM III, BIEM IV, AGRUMEDA;07/09/2010;10/09/2010;Onteniente, Barcheta;Valencia;Comunidad Valenciana;Incendios;562;77.564,22;septiembre;2010;sep-10
+79;BIEM I, BIEM II, BIEM III AGRUMEDA;07/09/2010;10/09/2010;Calasparra;Murcia;Murcia;Incendios;341;38.216,66;septiembre;2010;sep-10
+80;BIEM V;02/10/2010;03/10/2010;Paramos de Sil;León;Castilla y León;Incendios;38;2.508,00;octubre;2010;oct-10
+81;BIEM I RAEM;03/12/2010;04/12/2010;Barajas;Madrid;Madrid;Apoyo;21;13.780,00;diciembre;2010;dic-10
+82;BIEM I, BIEM II BIEM III;07/09/2010;09/12/2010;Écija;Sevilla;Andalucía;Inundaciones;246;3.961,23;septiembre;2010;sep-10
+83;BIEM I, BIEM II BIEM III;21/12/2010;22/12/2011;Écija 2;Sevilla;Andalucía;Inundaciones;106;30.478,77;diciembre;2010;dic-10
+84;BIEM V;04/03/2011;07/03/2011;Pajares;León;Castilla y León;Invernal;18;2.179,16;marzo;2011;mar-11
+85;"BIEM III
+BIEM I";09/04/2011;11/04/2011;Benicolet;Valencia;Comunidad Valenciana;Incendios;416;44.352,78;abril;2011;abr-11
+86;BIEM IV               BIEM I           BHELEME II;28/04/2011;11/05/2011;Aínsa;Huesca;Aragón;Búsqueda;91;0;abril;2011;abr-11
+87;"BIEM I, II y III
+RAEM AGRUMEDA     UCG";11/05/2011;11/05/2011;Lorca;Murcia;Murcia;Seísmo;607;866.162,00;mayo;2011;may-11
+88;BIEM III, BIEM IV, AGRUMEDA Y BHELEME II;25/05/2011;29/05/2011;Sant Joan de Labritja;Baleares;Baleares;Incendios;311;157.144,51;mayo;2011;may-11
+89;BIEM I, IV, UCG Y  BHELEME II;25/06/2011;02/07/2011;Boiro, Amoeiro, As Pontes, A Cañiza, Ribeira, Ponteareas, A Baña, Cabana y Cotobade;A Coruña, Pontevedra, Lugo y Ourense;Galicia;Incendios;378;123.353,70;junio;2011;jun-11
+90;BIEM IV           ;05/07/2011;06/07/2011;Zabalza;Navarra;Navarra;Incendios;117;6.308,23;julio;2011;jul-11
+91;BIEM III             BHELEM II;13/07/2011;14/07/2011;Calvia;Baleares;Baleares;Incendios;89;13.191,38;julio;2011;jul-11
+92;BIEM V;25/07/2011;26/07/2011;Trabadelo;León;Castilla y León;Incendios;48;2.313,09;julio;2011;jul-11
+93;BIEM IV;10/08/2011;10/08/2011;Gurrea de Gállego;Huesca;Aragón;Incendios;32;834,5;agosto;2011;ago-11
+94;BIEM III             ;11/08/2011;11/08/2011;Peguera;Baleares;Baleares;Incendios;30;1.273,06;agosto;2011;ago-11
+95;BIEM V;13/08/2011;15/08/2011;Carballeda;Ourense;Galicia;Incendios;54;6.195,32;agosto;2011;ago-11
+96;BIEM I, BIEM III, AGRUMEDA Y BHELEME II;19/08/2011;22/08/2011;Atamaría;Murcia;Murcia;Incendios;351;35.965,42;agosto;2011;ago-11
+97;BIEM I, BIEMV, AGRUMEDA Y BHELEME II;19/08/2011;22/08/2011;Navalacruz;Ávila;Castilla y León;Incendios;246;17.532,52;agosto;2011;ago-11
+98;BIEM III Y BHELEME II;25/08/2011;26/08/2011;Calvia ;Baleares;Baleares;Incendios;38;5.268,49;agosto;2011;ago-11
+99;BIEM V;31/08/2011;31/08/2011;Castrillo de Cabrera;León;Castilla y León;Incendios;26;1.528,47;agosto;2011;ago-11
+100;BIEM V;09/09/2011;10/09/2011;Encinedo;León;Castilla y León;Incendios;151;8.482,55;septiembre;2011;sep-11
+101;BIEM III AGRUMEDA BHELEME II;19/09/2011;20/09/2011;Santa Eulalia;Baleares;Baleares;Incendios;61;10.189,60;septiembre;2011;sep-11
+102;BIEM II Y RAEM;28/09/2011;;El Hierro;Santa Cruz de Tenerife;Canarias;Seísmo;45;150.201,04;septiembre;2011;sep-11
+103;BIEM V;30/09/2011;30/09/2011;Oia;Pontevedra;Galicia;Incendios;34;1.002,98;septiembre;2011;sep-11
+104;Todos BIEM, RAEM y BHELEME II;02/10/2011;23/10/2011;Viana do Bolo, Monterrey, Distrito Forestal XIV, Castrelo do Miño, A Cañiza, Piñor / O Irixo, San Cristovo de Cea, Arbo, Vilariño, Chandrexa de Queixa, Paderne, Campañó, A Peroxa, Lobios, Viana do Bolo, Villafranca del Bierzo, Maceda, Baltar, Motederramo, Sistín, Calvos de Randín, Villar del Puerto, Castrillo de Cabrera, Oencia, Vega de Espinareda, Chandrexa de Queixa, Castro Caldelas, Manzaneda;Ourense, Pontevedra, León;Galicia, Castilla y León;Incendios;940;416.634,70;octubre;2011;oct-11
+105;BIEM II           BHELEME II;05/02/2012;06/02/2012;Pujerra;Málaga;Andalucía;Incendios;265;32.065,36;febrero;2012;feb-12
+106;BIEM V;05/02/2012;07/02/2012;Burgos;Burgos;Castilla y León;Invernal;16;2.141,30;febrero;2012;feb-12
+107;BIEM V;24/02/2012;25/02/2012;San Martín de Falamosa;León;Castilla y León;Incendios;74;3.288,60;febrero;2012;feb-12
+108;BIEM V;26/02/2012;26/02/2012;Magaz de Cepeda;León;Castilla y León;Incendios;75;4.172,25;febrero;2012;feb-12
+109;BIEM IV, AGRUMEDA Y BHELEME II;08/03/2012;13/03/2012;Castanesa;Huesca;Aragón;Incendios;227;104.886,67;marzo;2012;mar-12
+110;BIEM V;09/03/2012;09/03/2012;Balboa;León;Castilla y León;Incendios;18;870,39;marzo;2012;mar-12
+111;BIEM V;10/03/2012;12/03/2012;Truchas;León;Castilla y León;Incendios;95;9.374,21;marzo;2012;mar-12
+112;BIEM V;27/03/2012;28/03/2012;Castrelo do Val;Ourense;Galicia;Incendios;114;38.077,89;marzo;2012;mar-12
+113;BIEM V;27/03/2012;28/03/2012;Corrales de Buelna;Cantabria;Cantabria;Incendios;106;17.612,96;marzo;2012;mar-12
+114;BIEM I y V;28/03/2012;30/03/2012;Valles de Cantabria, Vilar de Astrés, Mondariz, Truchas, Fornelos de Montes, Entrimo;Cantabria, Ourense, Pontevedra, León;Cantabria, Galicia y Castilla y León;Incendios;630;31.887,60;marzo;2012;mar-12
+115;BIEM I yV ;31/03/2012;09/04/2012;A Capela, As Pontes de García Rodríguez;A Coruña, Pontevedra;Galicia;Incendios;419;52.544,20;marzo;2012;mar-12
+116;AGRUMEDA BHELEME II;17/05/2012;18/05/2012;Rasquera;Tarragona;Cataluña;Incendios;7;1.320,00;mayo;2012;may-12
+117;BIEM III BHELEME II;23/05/2012;24/05/2012;Llombai;Valencia;Comunidad Valenciana;Incendios;33;6.324,94;mayo;2012;may-12
+118;BIEM III BHELEME II;01/06/2012;04/06/2012;Tuéjar;Valencia;Comunidad Valenciana;Incendios;269;46.405,09;junio;2012;jun-12
+119;BIEM II;06/06/2012;07/06/2012;San  Mateo;Gran Canaria;Canarias;Incendios;46;2.351,01;junio;2012;jun-12
+120;BIEM III  ;10/06/2012;10/06/2012;Galifa-La Muela;Murcia;Murcia;Incendios;52;6.603,31;junio;2012;jun-12
+121;BIEM I, BIEM III y BHELEME II;12/06/2012;15/06/2012;Llocnou de Sant Jeroní;Valencia;Comunidad Valenciana;Incendios;333;33.664,14;junio;2012;jun-12
+122;BIEM I,II, III y IV, RAEM, UCG, BHELEME II;28/06/2012;05/07/2012;Cortes de Pallás;Valencia;Comunidad Valenciana;Incendios;622;522.550,60;junio;2012;jun-12
+123;BIEM I, II,III y IV, RAEM, UCG y BHELEME II;29/06/2012;05/07/2012;Andilla;Valencia;Comunidad Valenciana;Incendios;384;107.158,07;junio;2012;jun-12
+124;BIEM I, BIEM II, BIEM III, BIEM V;01/07/2012;03/07/2012;Calasparra;Murcia;Murcia;Incendios;378;61.192,09;julio;2012;jul-12
+125;BIEM IV y V;02/07/2012;03/07/2012;Valpalmas;Zaragoza;Aragón;Incendios;61;7.449,72;julio;2012;jul-12
+126;BIEM III;12/07/2012;14/07/2012;Alcoy;Alicante;Comunidad Valenciana;Incendios;120;13.539,95;julio;2012;jul-12
+127;BIEM II;15/07/2012;20/07/2012;Adeje;Santa Cruz de Tenerife;Canarias;Incendios;245;23.477,29;julio;2012;jul-12
+128;BIEM IV;19/07/2012;20/07/2012;La Portellada;Teruel;Aragón;Incendios;59;4.935,49;julio;2012;jul-12
+129;BIEM I, III, IV y BHELEME II;22/07/2012;26/07/2012;La Junquera;Girona;Cataluña;Incendios;428;157.034,57;julio;2012;jul-12
+130;BIEM I y V;23/07/2012;24/07/2012;Caminomorisco;Cáceres;Extremadura;Incendios;232;15.660,15;julio;2012;jul-12
+131;BIEM V;25/07/2012;26/07/2012;Santervás de la Vega;Palencia;Castilla y León;Incendios;52;3.214,79;julio;2012;jul-12
+132;BIEM I Y IV;01/08/2012;03/08/2012;Checa;Guadalajara;Castilla-La Mancha;Incendios;257;26.389,37;agosto;2012;ago-12
+133;BIEM I, BIEM V Y RAEM;04/08/2012;05/08/2012;Gata;Cáceres;Extremadura;Incendios;268;198.722,23;agosto;2012;ago-12
+134;BIEM II;04/08/2012;07/08/2012;Villa de Mazo (La Palma);Santa Cruz de Tenerife;Canarias;Incendios;124;18.186,97;agosto;2012;ago-12
+135;BIEM II;04/08/2012;08/08/2012;La Gomera;Santa Cruz de Tenerife;Canarias;Incendios;201;22.529,26;agosto;2012;ago-12
+136;BIEM I, BIEM II;09/08/2012;10/08/2012;Reillo;Cuenca;Castilla-La Mancha;Incendios;122;15.294,88;agosto;2012;ago-12
+137;BIEM II;10/08/2012;20/08/2012;La Gomera 2;Santa Cruz de Tenerife;Canarias;Incendios;257;449.352,98;agosto;2012;ago-12
+138;BIEM V;10/08/2012;11/08/2012;León;León;Castilla y León;Incendios;35;4.587,04;agosto;2012;ago-12
+139;BIEM V;10/08/2012;13/08/2012;O Barco de Valdeorras;Ourense;Galicia;Incendios;186;23.209,72;agosto;2012;ago-12
+140;BIEM II;11/08/2012;13/08/2012;El Tanque;Santa Cruz de Tenerife;Canarias;Incendios;117;9.526,60;agosto;2012;ago-12
+141;BIEM I;11/08/2012;12/08/2012;Navas de Estena;Ciudad Real;Castilla-La Mancha;Incendios;72;11.620,48;agosto;2012;ago-12
+142;BIEM V;11/08/2012;12/08/2012;Valdehijaderos;Salamanca;Castilla y León;Incendios;86;5.013,46;agosto;2012;ago-12
+143;BIEM I, IV;11/08/2012;12/08/2012;Casas de Uceda;Guadalajara;Castilla-La Mancha;Incendios;143;15.239,80;agosto;2012;ago-12
+144;BIEM II;12/08/2012;14/08/2012;Torremanzanas;Alicante;Comunidad Valenciana;Incendios;239;22.599,54;agosto;2012;ago-12
+145;BIEM V, BIEM I;18/08/2012;20/08/2012;Solana de Ávila;Ávila;Castilla y León;Incendios;125;10.423,90;agosto;2012;ago-12
+146;BIEM V;18/08/2012;19/08/2012;Cubo de Benavente;Zamora;Castilla y León;Incendios;103;14.706,81;agosto;2012;ago-12
+147;BIEM V;19/08/2012;19/08/2012;Villaobispo de Otero;León;Castilla y León;Incendios;24;15.582,62;agosto;2012;ago-12
+148;BIEM V, I , II y IV;19/08/2012;24/08/2012;Castrocontrigo;León;Castilla y León;Incendios;442;34.669,83;agosto;2012;ago-12
+149;BIEM III Y BHELEME II;19/08/2012;20/08/2012;Capdepera;Baleares;Baleares;Incendios;45;5.971,34;agosto;2012;ago-12
+150;BIEM IV;21/08/2012;22/08/2012;Aras;Navarra;Navarra;Incendios;109;8.013,74;agosto;2012;ago-12
+151;BIEM II;25/08/2012;26/08/2012;Los Gallardos-Bédar;Almería;Andalucía;Incendios;72;7.823,88;agosto;2012;ago-12
+152;BIEM I y V;27/08/2012;30/08/2012;Valdemaqueda;Madrid;Madrid;Incendios;346;33.601,84;agosto;2012;ago-12
+153;BIEM IV;27/08/2012;30/08/2012;Calcena;Zaragoza;Aragón;Incendios;120;29.360,34;agosto;2012;ago-12
+154;BIEM II y III;31/08/2012;02/09/2012;Coin;Málaga;Andalucía;Incendios;431;54.798,94;agosto;2012;ago-12
+155;BIEM I;31/08/2012;01/09/2012;Valverde del Fresno;Cáceres;Extremadura;Incendios;118;9.992,56;agosto;2012;ago-12
+156;BIEM V;07/09/2012;08/09/2012;Salas de los Barrios;León;Castilla y León;Incendios;54;1.469,69;septiembre;2012;sep-12
+157;BIEM V;22/09/2012;23/09/2012;Candín;León;Castilla y León;Incendios;50;1.945,63;septiembre;2012;sep-12
+158;BIEM V;22/09/2012;23/09/2012;Pedralba de la Pradería;Zamora;Castilla y León;Incendios;46;1.818,74;septiembre;2012;sep-12
+159;BIEM III;23/09/2012;26/09/2012;Chulilla;Valencia;Comunidad Valenciana;Incendios;603;64.506,10;septiembre;2012;sep-12
+160;BIEM II, I Y BHELEME II;28/09/2012;30/09/2012;Antequera;Málaga;Andalucía;Inundaciones;360;42.588,72;septiembre;2012;sep-12
+161;BIEM III;28/09/2012;30/09/2012;Puerto Lumbreras;Murcia;Murcia;Inundaciones;151;22.450,45;septiembre;2012;sep-12
+162;BIEM IV;06/01/2013;07/01/2013;Aneto;Huesca;Aragón;Incendios;52;122.536,57;enero;2013;ene-13
+163;BIEM IV   BHELEME II BIEM III;16/01/2013;17/01/2013;Panticosa;Huesca;Aragón;Invernal;19;3.320,00;enero;2013;ene-13
+164;RAIEM-GIETMA;04/02/2013;08/02/2013;Santovenia de Pisuerga;Valladolid;Castilla y León;Riesgos tecnológicos;52;0;febrero;2013;feb-13
+165;BIEM III - BIEM IV;28/01/2013;01/03/2013;Barracas;Castellón;Comunidad Valenciana;Invernal;106;72.857,33;enero;2013;ene-13
+166;BIEM I, II, III y BHELEME II;13/03/2013;14/03/2013;Écija;Sevilla;Andalucía;Inundaciones;108;150.283,18;marzo;2013;mar-13
+167;BIEM I, BHELEME II;01/04/2013;01/04/2013;Chillón;Ciudad Real;Castilla-La Mancha;Rescate;11;38.043,54;abril;2013;abr-13
+168;BIEM IV, BHELEME II;18/06/2013;18/06/2013;Benasque;Huesca;Aragón;Inundaciones;88;194.113,31;junio;2013;jun-13
+169;BIEM IV, BHELEME II,, BHELTRA V;19/06/2013;19/06/2013;Vielha;Lleida;Cataluña;Inundaciones;10;81.628,41;junio;2013;jun-13
+170;BIEM I;08/07/2013;09/07/2013;Valdemorillo;Madrid;Madrid;Incendios;61;43.611,20;julio;2013;jul-13
+171;BIEM IV;09/07/2013;09/07/2013;San Gregorio;Zaragoza;Aragón;Incendios;44;86.146,50;julio;2013;jul-13
+172;BIEM I.        GRUPO 43;16/07/2013;17/07/2013;Almorox;Toledo;Castilla-La Mancha;Incendios;178;101.284,58;julio;2013;jul-13
+173;BIEM V;18/07/2013;18/07/2013;Outes;A Coruña;Galicia;Incendios;26;32.261,06;julio;2013;jul-13
+174;BIEM III;19/07/2013;20/07/2013;Villamarxant-Benaguasil;Valencia;Comunidad Valenciana;Incendios;129;89.157,76;julio;2013;jul-13
+175;BIEM III-BHELEME II;26/07/2013;27/07/2013;Ayora;Valencia;Comunidad Valenciana;Incendios;227;160.760,36;julio;2013;jul-13
+176;BIEM III-IV-BHELEME II;26/07/2013;01/08/2013;Andratx;Baleares;Baleares;Incendios;282;998.238,37;julio;2013;jul-13
+177;BIEM I;31/07/2013;31/07/2013;Tortuero;Guadalajara;Castilla-La Mancha;Incendios;256;95.996,28;julio;2013;jul-13
+178;BIEM V;01/08/2013;01/08/2013;Alcañices;Zamora;Castilla y León;Incendios;61;24.447,21;agosto;2013;ago-13
+179;BIEM V;03/08/2013;03/08/2013;Cebreros;Ávila;Castilla y León;Incendios;256;93.845,77;agosto;2013;ago-13
+180;BIEM I;06/08/2013;06/08/2013;Valdeconcha;Guadalajara;Castilla-La Mancha;Incendios;50;26.552,29;agosto;2013;ago-13
+181;BIEM V;11/08/2013;11/08/2013;Quiroga;Lugo;Galicia;Incendios;115;63.556,81;agosto;2013;ago-13
+182;BIEM III,  BIEM IV;12/08/2013;12/08/2013;Oliete;Teruel;Aragón;Inundaciones;50;33.497,11;agosto;2013;ago-13
+183;BIEM V;20/08/2013;20/08/2013;Soba;Cantabria;Cantabria;Rescate;60;38.830,12;agosto;2013;ago-13
+184;BIEM III;21/08/2013;21/08/2013;Artá;Baleares;Baleares;Incendios;66;169.424,37;agosto;2013;ago-13
+185;BIEM V;21/08/2013;22/08/2013;Orense-Cudeiro;Ourense;Galicia;Incendios;161;94.715,44;agosto;2013;ago-13
+186;BIEM V;22/08/2013;23/08/2013;Villardiegua;Zamora;Castilla y León;Incendios;23;68.452,44;agosto;2013;ago-13
+187;BIEM I-II-BHELEME;24/08/2013;25/08/2012;Santibañez;Cáceres;Extremadura;Incendios;118;116.912,78;agosto;2013;ago-13
+188;BIEM V;24/08/2013;25/08/2012;Cualedro;Ourense;Galicia;Incendios;264;105.961,80;agosto;2013;ago-13
+189;BIEM V;27/08/2013;28/08/2013;Oia;Pontevedra;Galicia;Incendios;355;212.684,84;agosto;2013;ago-13
+190;BIEM V;29/08/2013;29/08/2013;Vega de Espinareda;León;Castilla y León;Incendios;23;0;agosto;2013;ago-13
+191;BIEM V;29/08/2013;30/08/2013;Lousame Tallara;A Coruña;Galicia;Incendios;122;106.868,96;agosto;2013;ago-13
+192;BIEM V;01/09/2013;02/09/2013;Balboa;León;Castilla y León;Incendios;28;47.873,31;septiembre;2013;sep-13
+193;BIEM V;05/09/2013;05/09/2013;Puente Caldelas;Pontevedra;Galicia;Incendios;78;71.158,24;septiembre;2013;sep-13
+194;BIEM V;05/09/2013;05/09/2013;Hermisende;Zamora;Castilla y León;Incendios;28;33.491,48;septiembre;2013;sep-13
+195;BIEM V;11/09/2013;14/09/2013;Negreira, Carnota, Carnota Norte;A Coruña;Galicia;Incendios;319;301.943,88;septiembre;2013;sep-13
+196;BIEM II;22/09/2013;22/09/2013;Retín;Cádiz;Andalucía;Incendios;65;51.616,19;septiembre;2013;sep-13
+197;BIEM V;23/09/2013;23/09/2013;A Merca;Ourense;Galicia;Incendios;116;46.413,61;septiembre;2013;sep-13
+198;BIEM II;24/09/2013;24/09/2013;Cerro Muriano;Córdoba;Andalucía;Incendios;103;71.726,21;septiembre;2013;sep-13
+199;BIEM IV;26/09/2013;26/09/2013;San Gregorio;Zaragoza;Aragón;Incendios;43;51.651,34;septiembre;2013;sep-13
+200;BIEM IV;10/10/2013;10/10/2013;San Gregorio III;Zaragoza;Aragón;Incendios;27;72.651,09;octubre;2013;oct-13
+201;BIEM II;24/10/2013;24/10/2013;Tejeda;Gran Canaria;Canarias;Incendios;137;78.334,34;octubre;2013;oct-13
+202;BIEM II  (UIEN CANARIAS);10/01/2014;13/01/2014;Tenerife;Santa Cruz de Tenerife;Canarias;Rescate;73;278.190,22;enero;2014;ene-14
+203;BIEM V;03/02/2014;03/02/2014;Boñar;León;Castilla y León;Rescate;17;0;febrero;2014;feb-14
+204;GIETMA;19/03/2014;25/03/2014;Hoyo de Manzanares;Madrid;Madrid;RRTTMA;9;5.019,20;marzo;2014;mar-14
+205;BIEM II;26/03/2014;27/03/2014;Alhama de Almería;Almería;Andalucía;Incendios;231;108.949,98;marzo;2014;mar-14
+206;BIEM III;12/04/2014;14/04/2014;Sant Josep;Baleares;Canarias;Incendios;118;178.267,23;abril;2014;abr-14
+207;BIEM III;22/04/2014;22/04/2014;Torrent;Valencia;Comunidad Valenciana;Incendios;276;102.651,34;abril;2014;abr-14
+208;BIEM III;14/05/2014;16/05/2014;Marines;Valencia;Comunidad Valenciana;Incendios;257;182.819,84;mayo;2014;may-14
+209;BIEM III;14/05/2014;15/05/2014;Calles;Valencia;Comunidad Valenciana;Incendios;102;191.204,36;mayo;2014;may-14
+210;BIEM II;14/05/2014;15/05/2014;Barbate;Cádiz;Andalucía;Incendios;5;73.470,00;mayo;2014;may-14
+211;BIEM III;21/05/2014;21/05/2014;Cartagena;Murcia;Murcia;Incendios;23;325;mayo;2014;may-14
+212;BIEM II;08/06/2014;10/06/2014;CMT Cerro Muriano;Córdoba;Andalucía;Incendios;24;22.004,00;junio;2014;jun-14
+213;BIEM III;13/06/2014;14/06/2014;Paterna ;Valencia;Comunidad Valenciana;Incendios;78;83.266,48;junio;2014;jun-14
+214;BIEM II;13/06/2014;15/06/2014;Retín 2;Cádiz;Andalucía;Incendios;94;160.902,35;junio;2014;jun-14
+215;BIEM IV;16/06/2014;22/06/2014;Fayón;Zaragoza;Aragón;Rescate;18;1.835,93;junio;2014;jun-14
+216;BIEM II;09/07/2014;10/07/2014;Ceuta;Ceuta;Ceuta;Incendios;22;55.866,74;julio;2014;jul-14
+217;BIEM I;16/07/2014;17/07/2014;Alcázar Segovia;Segovia;Castilla y León;Inundaciones;9;0;julio;2014;jul-14
+218;BIEM I;17/07/2014;18/07/2014;Cogolludo 1;Guadalajara;Castilla-La Mancha;Incendios;77;103.092,77;julio;2014;jul-14
+219;BIEM I;18/07/2014;20/07/2014;Cogolludo 2;Guadalajara;Castilla-La Mancha;Incendios;181;229.107,22;julio;2014;jul-14
+220;BIEM I;18/07/2014;21/07/2014;Bustares;Guadalajara;Castilla-La Mancha;Incendios;110;283.731,40;julio;2014;jul-14
+221;BIEM IV;19/07/2014;20/07/2014;Ujué;Navarra;Navarra;Incendios;120;106.381,80;julio;2014;jul-14
+222;BIEM III;11/09/2014;13/09/2014;Javea;Alicante;Comunidad Valenciana;Incendios;189;158.282,01;septiembre;2014;sep-14
+223;BIEM IV;01/10/2014;04/10/2014;Girona;Girona;Cataluña;Inundaciones;87;21.501,11;octubre;2014;oct-14
+224;BIEM V;04/02/2015;04/02/2015;Villablino;León;Castilla y León;Invernal;157;;febrero;2015;feb-15
+225;BIEM V;04/02/2015;04/02/2015;Aguilar de Campoo;Palencia;Castilla y León;Invernal;75;;febrero;2015;feb-15
+226;BIEM V;06/02/2015;06/02/2015;Cervera de Pisuerga;Palencia;Castilla y León;Invernal;20;;febrero;2015;feb-15
+227;BIEM IV;26/02/2015;26/02/2015;Boquiñeni, Alcalá del Ebro, Novillas;Zaragoza;Aragón;Inundaciones;76;;febrero;2015;feb-15
+228;BIEM IV;24/03/2015;24/03/2015;Boquiñeni, Novillas, Cuarte, Cadrete, Santa Fe, Pleitas;Zaragoza;Aragón;Inundaciones;10;;marzo;2015;mar-15
+229;BIEM V;24/03/2015;24/03/2015;Ponteareas;Pontevedra;Galicia;Incendios;63;;marzo;2015;mar-15
+230;CG + BIEM II;30/03/2015;30/03/2015;Madrid;Madrid;Madrid;Atención psicológica;2;;marzo;2015;mar-15
+231;BIEM IV;05/04/2015;05/04/2015;Préjano;La Rioja;La Rioja;Inundaciones;68;;abril;2015;abr-15
+232;CG + BIEM IV;01/05/2015;01/05/2015;Katmandú;Nepal;Nepal;Exterior;47;;mayo;2015;may-15
+233;BIEM III;14/05/2015;16/05/2015;Val de Ebo;Alicante;Comunidad Valenciana;Incendios;238;;mayo;2015;may-15
+234;BIEM II;28/05/2015;29/05/2015;Cerro Muriano;Córdoba;Andalucía;Incendios;114;;mayo;2015;may-15
+235;BIEM II;11/06/2015;11/06/2015;Vilaflor;Santa Cruz de Tenerife;Canarias;Incendios;89;;junio;2015;jun-15
+236;BIEM III;19/06/2015;19/06/2015;El Garruchal;Murcia;Murcia;Incendios;24;;junio;2015;jun-15
+237;BIEM V;29/06/2015;30/06/2015;Teo;A Coruña;Galicia;Incendios;25;;junio;2015;jun-15
+238;BIEM V;29/06/2015;30/06/2015;Boborás;Ourense;Galicia;Incendios;51;;junio;2015;jun-15
+239;BIEM II;02/07/2015;03/07/2015;Las Navetas;Málaga;Andalucía;Incendios;63;;julio;2015;jul-15
+240;BIEM IV;04/07/2015;07/07/2015;Sierra de Luna;Zaragoza;Aragón;Incendios;400;;julio;2015;jul-15
+241;BIEM I;07/07/2015;08/07/2015;Humanes;Guadalajara;Castilla-La Mancha;Incendios;129;;julio;2015;jul-15
+242;BIEM IV;07/07/2015;08/07/2015;San Gregorio;Zaragoza;Aragón;Incendios;47;;julio;2015;jul-15
+243;BIEM II;08/07/2015;09/07/2015;Los Gualchos;Granada;Andalucía;Incendios;125;;julio;2015;jul-15
+244;BIEM III;08/07/2015;10/07/2015;Montan;Castellón;Comunidad Valenciana;Incendios;246;;julio;2015;jul-15
+245;BIEM II;09/07/2015;12/07/2015;Quesada;Jaén;Andalucía;Incendios;246;;julio;2015;jul-15
+246;BIEM V;14/07/2015;15/07/2015;Las Omañas;León;Castilla y León;Incendios;26;;julio;2015;jul-15
+247;BIEM V;15/07/2015;17/07/2015;Quintana del Castillo;León;Castilla y León;Incendios;268;;julio;2015;jul-15
+248;BIEM V;21/07/2015;21/07/2015;Andorcino;León;Castilla y León;Incendios;61;;julio;2015;jul-15
+249;BIEM V;21/07/2015;22/07/2015;Trabazos I;Zamora;Castilla y León;Incendios;56;;julio;2015;jul-15
+250;BIEM V;23/07/2015;25/07/2015;Trabazos II;Zamora;Castilla y León;Incendios;99;;julio;2015;jul-15
+251;BIEM V;25/07/2015;27/07/2015;Navia de Suarna;Lugo;Galicia;Incendios;111;;julio;2015;jul-15
+252;BIEM V;26/07/2015;27/07/2015;Vega de Espinareda;León;Castilla y León;Incendios;66;;julio;2015;jul-15
+253;BIEM V;28/07/2015;29/07/2015;Tineo;Asturias;Asturias;Incendios;97;;julio;2015;jul-15
+254;BIEM IV;28/07/2015;29/07/2015;Burgo de Osma;Soria;Castilla y León;Incendios;65;;julio;2015;jul-15
+255;BIEM V;28/07/2015;29/07/2015;Palmés;Ourense;Galicia;Incendios;24;;julio;2015;jul-15
+256;BIEM V;02/08/2015;03/08/2015;Ponferrada;León;Castilla y León;Incendios;51;;agosto;2015;ago-15
+257;BIEM I;06/08/2015;12/08/2015;Acebo;Cáceres;Extremadura;Incendios;318;;agosto;2015;ago-15
+258;BIEM III;06/08/2015;07/08/2015;Lorca;Murcia;Murcia;Incendios;99;;agosto;2015;ago-15
+259;BIEM III;06/08/2015;09/08/2015;Cieza;Murcia;Murcia;Incendios;213;;agosto;2015;ago-15
+260;BIEM V;09/08/2015;10/08/2015;Ames, Santiago, Trazos;A Coruña;Galicia;Incendios;111;;agosto;2015;ago-15
+261;BIEM V;22/08/2015;22/08/2015;Bermellar;Salamanca;Castilla y León;Incendios;22;;agosto;2015;ago-15
+262;BIEM V;22/08/2015;22/08/2015;Villagatón;León;Castilla y León;Incendios;48;;agosto;2015;ago-15
+263;BIEM V;27/08/2015;27/08/2015;Valderredible;Cantabria;Cantabria;Incendios;105;;agosto;2015;ago-15
+264;BIEM V;30/08/2015;30/08/2015;Cualedro;Ourense;Galicia;Incendios;292;;agosto;2015;ago-15
