@@ -1,4 +1,4 @@
-NOTA
+### NOTA
 La información contenida en este archivo ha sido obtenida por la Unidad de Datos de El Confidencial.
 Se trata de información pública que ponemos a disposición de las personas interesadas en un formato accesible. 
 Por favor, cita la autoría (Unidad de Datos de El Confidencial) de este trabajo con enlace a la noticia original si reutilizas los datos. Para cualquier consulta, escribe a datos@elconfidencial.com
