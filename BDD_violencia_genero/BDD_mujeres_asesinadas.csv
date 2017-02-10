@@ -1,0 +1,454 @@
+ID_ordenado,Fecha,Mes,Año,Nombre,Edad,Nacionalidad,Lugar,Provincia,Relación con asesino,Forma asesinato,Forma asesinato_agrupada,Orden alejamiento,Orden_agrupada,Denuncia previa,Denuncia_agrupada,Oficial o no,Hijos
+453,6/02/2017,2,2017,,79,español,Suria,Barcelona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+452,5/02/2017,2,2017,Cristina,38,española,Mora,Toledo,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja húerfana a una hija menor de edad
+451,28/01/2017,1,2017,,,ecuatoriana,Seseña,Toledo,pareja,,,,,,,Cifra todavía no oficial,
+450,19/01/2017,1,2017,Virginia,50,española,O Carballiño,Ourense,marido,asfixiada,asfixiada,,,,,Cifra oficial,
+449,19/01/2017,1,2017,Ángeles,77,española,Madrid,Madrid,marido,asfixiada con una almohada,asfixiada,,,,,Cifra oficial,
+448,9/01/2017,1,2017,Blanca Esther,48,española,Burlada,Navarra,marido,estrangulada,asfixiada,,,,,Cifra oficial,
+447,9/01/2017,1,2017,Antonia,33,española,Huércal de Almería,Almería,expareja,degollada,asesinada con arma blanca,Existía orden de alejamiento de otras cuatro mujeres y antecedentes por robo,Tenía orden de alejamiento,,,Cifra oficial,
+446,1/01/2017,1,2017,,25,peruana,Madrid,Madrid,pareja,empuja de la ventana,arrojada al vacío,existía orden de alejamiento,Tenía orden de alejamiento,,,Cifra oficial,
+445,1/01/2017,1,2017,Matilde Teresa,40,española,Rivas Vaciamadrid,Madrid,pareja,apuñalada,asesinada con arma blanca,"existía orden de alejamiento, pero vivían juntos",Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+401,19/12/2016,12,2016,Victoria,57,española,Barcelona,Barcelona,marido,disparo con escopeta,disparada,,,,,Cifra oficial,
+403,18/12/2016,12,2016,Elena,30,rumana,Santiago de Compostela,A Coruña,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+402,18/12/2016,12,2016,Mª Carmen,44,española,La Pobla de Mafumet,Tarragona,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja huérfana una hija menor de edad
+404,17/12/2016,12,2016,Ana María,25,española,Vigo,Pontevedra,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+388,29/11/2016,11,2016,Sara,34,española,Granada,Granada,pareja,disparo con pistola,disparada,,,,,Cifra no oficial,Deja huérfanos tres hijos menores de edad
+405,24/11/2016,11,2016,Alia,26,española,Fuenlabrada,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+406,17/11/2016,11,2016,Juana,54,española,La Virgen del Camino,León,exmarido,hachazos,asesinada con arma blanca,Tenía orden de alejamiento activa y seguimiento policial,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+407,16/11/2016,11,2016,Celia,56,española,Palma de Mallorca,Baleares,pareja,paliza y estrangulada,apaleada,,,,,Cifra oficial,
+408,2/11/2016,11,2016,Yolanda,50,española,Burgos,Burgos,exmarido,apuñalada,asesinada con arma blanca,,,"La fallecida sufría violencia psicológica, lo que la había llevado a separarse de su marido hace cuatro años",Denuncia,Cifra oficial,Deja huérfana una hija menor de edad
+409,28/10/2016,10,2016,Jaqueline,75,belga,Calpe,Alicante,marido,paliza,apaleada,,,,,Cifra oficial,
+410,20/10/2016,10,2016,Isabel,51,portuguesa,Fuentes de Oñoro,Salamanca,marido,disparo con pistola,disparada,,,Denuncia archivada en 2005,Denuncia,Cifra oficial,
+411,16/10/2016,10,2016,Estefanía,26,dominicana,Olivares,Sevilla,marido,apuñalada,asesinada con arma blanca,Orden de alejamiento había sido denegada,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja dos hijos menores huérfanos
+412,6/10/2016,10,2016,Mónica,32,española,Arévalo,Ávila,marido,apuñalada,asesinada con arma blanca,,,¿Denuncia retirada?,Denuncia,Cifra oficial,Deja dos hijas menores (2 y 4 años) huérfanas
+389,18/09/2016,9,2016,María José,50,española,Premiá del Mar,Barcelona,pareja,quemó la casa,asesinada en un incendio,,,,,Cifra no oficial,
+413,17/09/2016,9,2016,Ada Graciela Benítez Colmar,34,paraguaya,Ibiza,Baleares,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Una hija
+414,15/09/2016,9,2016,Flori,32,rumana,Esplugues de Llobregat,Barcelona,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,"Deja huérfana a una hija menor de edad, hija no del asesino sino de pareja anterior"
+390,27/08/2016,8,2016,Nombre y apellidos no conocidos,?,española,Algeciras,Cádiz,,,,,,,,Cifra no oficial,
+415,23/08/2016,8,2016,Jane ,58,británica,Santa Brígida,Las Palmas,pareja,paliza,apaleada,,,"Denunció públicamente, en una exposición sobre violencia machista",Denuncia,Cifra oficial,Cuatro hijos mayores de edad
+391,21/08/2016,8,2016,Juana,58,española,Moya,Las Palmas,expareja,desaparecida,desconocido,,,,,Cifra no oficial,
+416,8/08/2016,8,2016,Xue Sandra,32,española,Alcúdia,Baleares,pareja,quemó la casa,asesinada en un incendio,Tenía condenas por delitos de vari tipo,Tenía orden de alejamiento,,,Cifra oficial,Deja huérfano a un hijo de dos años
+417,23/07/2016,7,2016,Mª Arantzazu,51,española,Bilbao,Vizcaya,pareja,violencia,apaleada,"Tenía orden de alejamiento activa desde 2007, antecedentes",Tenía orden de alejamiento,Había denunciado (seis veces),Denuncia,Cifra oficial,
+418,20/07/2016,7,2016,Krisztina,43,húngara,Benicàssim,Castellón,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja huérfanos dos hijos menores de edad
+419,17/07/2016,7,2016,Benita Núñez Peña,49,española,Aranda de Duero,Burgos,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Tenía dos hijos mayores de edad
+420,11/07/2016,7,2016,Alexandra,32,española,Zaragoza,Zaragoza,exmarido,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento activa,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja huérfano a un hijo menor de edad
+392,11/07/2016,7,2016,Carmen,71,española,Frigiliana,Málaga,marido,estrangulada,asfixiada,,,,,Cifra oficial,
+421,10/07/2016,7,2016,Karla Belén,22,ecuatoriana,Ciudad Autónoma de Melilla,Melilla,expareja,asfixiada,asfixiada,Tenía orden de alejamiento activa,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja huérfano a un hijo menor de edad
+393,7/07/2016,7,2016,Nombre y apellidos no conocidos,48,española,Marid,Madrid,?,apuñalada,asesinada con arma blanca,,,,,Cifra no oficial,
+422,2/07/2016,7,2016,Teresa,47,española,Lepe,Huelva,expareja,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento en vigor,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+394,23/06/2016,6,2016,Anastasia,37,ucraniana,San Bartolomé de Tirajana,Las Palmas,pareja o amigo,,,,,,,Cifra no oficial,
+423,13/06/2016,6,2016,Johana Bertina,32,chilena,Torrevieja,Alicante,pareja,empujada contra pared,apaleada,,,,,Cifra oficial,Deja huérfanos dos hijos menores de edad
+424,11/06/2016,6,2016,Aranzazu,40,española,Badalona,Barcelona,marido,,,,,,,Cifra oficial,
+395,4/06/2016,6,2016,K. A. R.,25,británica,Adeje,Santa Cruz de Tenerife,pareja,empujada por una ventana,arrojada al vacío,,,,,Cifra no oficial,Deja huérfana a una hija menor de edad
+425,1/06/2016,6,2016,Jana,32,rumana,Sevilla,Sevilla,pareja,asfixiada,asfixiada,,,,,Cifra oficial,Deja huérfanos a dos hijos menores de edad
+426,29/05/2016,5,2016,Lucía,47,rumana,Puerto de Pollença,Baleares,marido,apuñalada,asesinada con arma blanca,,,Denunció horas antes,Denuncia,Cifra oficial,
+396,16/05/2016,5,2016,Catherine Giselle,23,ecuatoriana,Madrid,Madrid,pareja,accidente de coche,accidente provocado con coche,,,,,Cifra no oficial,
+427,12/05/2016,5,2016,Nombre y apellidos no conocidos,37,colombiana,Canyellas,Barcelona,expareja,POR CONFIRMAR (sobredosis),POR CONFIRMAR (sobredosis),Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+428,11/05/2016,5,2016,María Candelaria González Dorta,50,española,Santa Cruz de Tenerife,Santa Cruz de Tenerife,pareja,asfixiada,asfixiada,Medidas de protección caducadas,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja huérfanos dos hijos menores de edad
+397,8/05/2016,5,2016,Rosario,72,española,Zaragoza,Zaragoza,marido,paliza,apaleada,,,,,Cifra oficial,
+429,17/04/2016,4,2016,Yolanda,48,española,Salamanca,Salamanca,expareja,apuñalada,asesinada con arma blanca,La orden de alejamiento estaba caducada,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+430,14/04/2016,4,2016,Cristina,37,española,Sant Feliu de Llobregat,Barcelona,expareja,,,,,,,Cifra oficial,Deja huérfana a una hija menor de edad
+431,12/04/2016,4,2016,María del Carmen,48,argentina,Benidorm,Valencia,marido,apuñalada,asesinada con arma blanca,,,"Denunció violencia, no ratificó ante el juez",Denuncia,Cifra oficial,Deja huérfana a una hija menor de edad
+398,9/04/2016,4,2016,Tatiana,24,española,Lugo,Lugo,pareja,apuñalada,asesinada con arma blanca,,,Una tercera persona había denunciado,Denuncia,Cifra oficial,
+432,14/03/2016,3,2016,Silvia,35,española,Gijón,Asturias,pareja,paliza,apaleada,La orden de alejamiento había caducado,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+433,11/03/2016,3,2016,Victoria,19,española,Son Servera,Baleares,pareja,estrangulada,asfixiada,La orden de alejamiento había caducado,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+434,22/02/2016,2,2016,Soraya,37,española,Zaragoza,Zaragoza,expareja,disparo,disparada,Tenía orden de protección en vigor,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja huérfano a un hijo menor de edad
+399,19/02/2016,2,2016,Rosa Rego,57,española,Porto do Son,A Coruña,pareja,"debajo de una ventana, golpe en la cabeza",arrojada al vacío,El hombre ya tenía antecedentes por violencia.,Tenía orden de alejamiento,,,Cifra oficial,
+435,13/02/2016,2,2016,Francisca,71,española,Valencia,Valencia,marido,estrangulada,asfixiada,,,,,Cifra oficial,Tres hijos mayores de edad
+400,12/02/2016,2,2016,Nombre y apellidos no conocidos,70,danesa,Fuengirola,Málaga,expareja,hallada con signos de violencia,asesinada con arma blanca,,,,,Cifra no oficial,
+436,11/02/2016,2,2016,Ana,40,española,Becerreá,Lugo,pareja,disparo con escopeta,disparada,,,"Acudió horas antes del crimen, a la Casa de la Mujer del Ayuntamiento de Lugo para solicitar asesoramiento para irse de su domicilio",Denuncia,Cifra oficial,Deja huérfanos a dos hijos menores de edad
+437,27/01/2016,1,2016,Ascensión,46,española,Avilés,Asturias,marido,paliza,apaleada,,,,,Cifra oficial,
+438,23/01/2016,1,2016,Lisa,49,inglesa,Costa de la Calma-Calviá,Baleares,pareja,estrangulada con cable,asfixiada,En su país de origen (no constan denuncias en España),Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Madre de hija de 18
+439,21/01/2016,1,2016,María,73,española,Valencia,Valencia,marido,puñaladas,asesinada con arma blanca,,,,,Cifra oficial,Madre de dos
+440,13/01/2016,1,2016,Lucinda Mª,43,española,Vila-Seca,Tarragona,exmarido,disparo con escopeta,disparada,,,,,Cifra oficial,"Madre de tres, una hija menor de edad"
+441,11/01/2016,1,2016,Isabel Laureana,59,española,Quintanar de la Orden,Toledo,nd,puñaladas,asesinada con arma blanca,,,,,Cifra oficial,
+442,7/01/2016,1,2016,Mirela,21,rumana,Alange,Badajoz,pareja,,,"ya condenado por violencia de género, tenía orden de alejamiento",Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja huérfano a un hijo menor de edad
+443,5/01/2016,1,2016,Silvia,33,española,Galápagos,Guadalajara,pareja otra vez tras separación,puñaladas,asesinada con arma blanca,,,,,Cifra oficial,Deja huérfana a una hija menor de edad
+444,4/01/2016,1,2016,Mariana Carmen,43,rumana,Madrid,Madrid,pareja,estrangulada,asfixiada,,,Había denunciado,Denuncia,Cifra oficial,
+329,31/12/2015,12,2015,Dima,23,marroquí,Adra,Almería,marido,disparo con escopeta,disparada,,,,,Cifra oficial,una hija pequeña de cuatro años
+328,31/12/2015,12,2015,Anna,32,polaca,Torrevieja,Alicante,marido,asfixia,asfixiada,,,,,Cifra oficial,
+331,29/12/2015,12,2015,Marina,69,española,Mos,Pontevedra,marido,paliza con un palo,apaleada,,,En 2014 una denuncia contra su marido al que acusaba de malos tratos físicos y psíquicos habituales,Denuncia,Cifra oficial,Dos hijos
+330,29/12/2015,12,2015,Caridad,79,española,Narón,A Coruña,marido,"degollada, acuchillada y golpeada",asesinada con arma blanca,,,,,Cifra oficial,Un hijo y una hija
+332,22/12/2015,12,2015,Mónica,36,española,Villena,Alicante,exmarido,Golpeada con una piedra en la cabeza,apaleada,,,,,Cifra oficial,Dos hijos
+333,16/12/2015,12,2015,Coral,44,española,Zaragoza,Zaragoza,marido,Apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+334,11/12/2015,12,2015,Nancy,44,argentina,Alcobendas,Madrid,expareja,degollada,asesinada con arma blanca,,,,,Cifra oficial,Una hija
+336,9/12/2015,12,2015,Mª del Castillo,37,española,Lebrija,Sevilla,exmarido,apuñalada y arrojada por el balcón,asesinada con arma blanca,Se dictó una orden de alejamiento doce días antes de cometerse el asesinato,Tenía orden de alejamiento,,,Cifra oficial,Dos hijos
+335,9/12/2015,12,2015,Yessica Paola,24,colombiana,Las Palmas,Las Palmas,Pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Un hijo
+337,3/12/2015,12,2015,Ramona,58,española,Baza,Granada,marido,,,,,,,Cifra oficial,Dos hijos
+338,15/11/2015,11,2015,Eva María,42,española,Sevilla,Sevilla,exmarido,Apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Dos hijos
+339,14/11/2015,11,2015,Svetoslava,32,búlgara,Madrid,Madrid,expareja,,,,,"existía una denuncia cruzada entre la pareja tras la separación, pero ninguno de los dos había solicitado medidas cautelares",Denuncia,Cifra oficial,
+340,12/11/2015,11,2015,María del Carmen,45,española,Sanlúcar la Mayor,Sevilla,marido,disparos,disparada,,,,,Cifra oficial,Un hijo
+341,8/11/2015,11,2015,Elvira,45,española,Llíria,Valencia,exmarido,Disparos,disparada,"Unos meses antes, una orden de alejamiento de 300 metros e incomunicación por cualquier medio contra el acusado de un delito de maltrato habitual",Tenía orden de alejamiento,,,Cifra oficial,Un hijo
+343,7/11/2015,11,2015,María Isabel Asunción,65,española,Oviedo,Asturias,Pareja,Golpeada por mancuernas metálicas,apaleada,,,,,Cifra oficial,Un hijo
+342,7/11/2015,11,2015,María Antonia,28,española,Baena,Córdoba,Pareja,disparos con escopeta,disparada,,,,,Cifra oficial,
+344,1/11/2015,11,2015,Constantina,42,rumana,Elche,Alicante,Pareja,paliza,apaleada,,,,,Cifra oficial,
+345,29/10/2015,10,2015,María José,71,española,Vigo,Pontevedra,nd,,,,,,,Cifra oficial,
+346,24/10/2015,10,2015,María Concepción,38,española,Pontesampaio-Pontevedra,Pontevedra,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+347,22/10/2015,10,2015,María Iris,35,española,Santa Cruz de Tenerife,Tenerife,expareja,,,A pesar de haberla solicitado no le fue concedida la orden de alejamiento,Tenía orden de alejamiento,,,Cifra oficial,tres hijos
+348,6/10/2015,10,2015,Carmen María,33,nicaragüense,Guardo,Palencia,Pareja,,,,,,,Cifra oficial,
+350,5/10/2015,10,2015,Maimouna,23,maliense,Beniel,Murcia,Pareja,paliza,apaleada,"En 2014, se tomó declaración al hombre, fue puesto a disposición judicial y se adoptó una medida de protección por la que se le prohíba acercarse a menos de 500 metros del domicilio o lugar de trabajo de la mujer, así como unas medidas civiles al tener dos hijos en común. Fue penado por el juzgado número 6 de Murcia, condenando al hombre a la pena de diez meses de prisión por un delito de malos tratos en el ámbito familiar, así como a dos años a la privación del derecho a la tenencia y porte de armas, y dos años de prohibición de comunicación por cualquier medio y de aproximación a menos de 500 metros de la mujer",Tenía orden de alejamiento,Denunció el 30 de septiembre de 2014 a su pareja por malos tratos.,Denuncia,Cifra oficial,dos hijos
+349,5/10/2015,10,2015,Silvina,34,portuguesa,Vigo,Pontevedra,Pareja,paliza,apaleada,,,,,Cifra oficial,
+351,4/10/2015,10,2015,María Almudena,39,española,Erandio,Vizcaya,Pareja,,,,,,,Cifra oficial,
+352,17/09/2015,9,2015,Fuensanta,42,española,Valencia,Valencia,Pareja,acuchillada,asesinada con arma blanca,,,,,Cifra oficial,Dos hijas
+353,6/09/2015,9,2015,Divina,46,brasileña,Vigo,Pontevedra,expareja,golpeada,apaleada,,,,,Cifra oficial,Dos hijos
+354,27/08/2015,8,2015,Antonia,43,española,Noalejo,Jaén,nd,,,,,,,Cifra oficial,Dos hijos
+355,17/08/2015,8,2015,Otilia,68,española,Armilla,Granada,marido,apuñalada con un hacha,asesinada con arma blanca,,,,,Cifra oficial,Dos hijas
+356,12/08/2015,8,2015,Olga,44,española,Castelldefels,Barcelona,expareja,apuñalada con un machete,asesinada con arma blanca,,," un 8 de enero de 2014, alguien pegó fuego a la vivienda, lo que obligó a invertir sus ahorros en reconstruirla. Meses más tarde, en agosto de 2014, le quemaron el coche. En ambas ocasiones, Olga denunció los hechos a las autoridades. Los hechos no se vincularon a posibles ataques de un acosador.",Denuncia,Cifra oficial,Un hijo
+357,8/08/2015,8,2015,Leire,34,española,Bilbao,Vizcaya,exmarido,,,,,,,Cifra oficial,
+358,6/08/2015,8,2015,Marina,24,ucraniana,Palomera,Cuenca,expareja,violencia y cal viva,apaleada,,,,,Cifra oficial,
+359,5/08/2015,8,2015,Maryna,46,bielorrusa,Castelldefels ,Barcelona,pareja,disparo,disparada,,,,,Cifra oficial,dos hijos también asesinados
+360,31/07/2015,7,2015,Gemma,33,española,Palma de Mallorca,Baleares,expareja,degollada,asesinada con arma blanca,,,,,Cifra oficial,
+361,29/07/2015,7,2015,Dolores,42,española,Serra,Valencia,marido,incendio,asesinada en un incendio,,,,,Cifra oficial,
+362,16/07/2015,7,2015,María Sonia,48,española,Gijón,Asturias,expareja,,,,,,,Cifra oficial,
+363,14/07/2015,7,2015,Rosario,60,nd,Mollina,Málaga,nd,,,,,,,Cifra oficial,
+364,11/07/2015,7,2015,Annelie,34,sueca,Calella,Barcelona,nd,,,,,,,Cifra oficial,
+365,10/07/2015,7,2015,Laura,24,española,Breña Alta,Santa Cruz de Tenerife,expareja,rociada con gasolina e incendiada,asesinada en un incendio,,,,,Cifra oficial,
+366,8/07/2015,7,2015,Ancuta,22,rumana,Arganda del Rey,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+367,5/07/2015,7,2015,Felicidade Rosa,60,dominicana,Pravia,Asturias,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Tenía hija menor de edad
+368,3/07/2015,7,2015,Beatriz,30,española,Arbo,Pontevedra,expareja,disparo con escopeta,disparada,,,,,Cifra oficial,
+369,26/06/2015,6,2015,Verónica,41,española,Barcelona,Barcelona,marido,arrojada al mar en un coche,accidente provocado con coche,,,,,Cifra oficial,
+370,22/06/2015,6,2015,Rachida,36,marroquí,Soria,Soria,marido,asfixiada,asfixiada,,,,,Cifra oficial,Deja huérfano a un hijo menor de edad
+371,21/06/2015,6,2015,Anne Christine,40,danesa,Vélez Málaga,Málaga,pareja,asfixia*,asfixiada,,,,,Cifra oficial,
+372,13/06/2015,6,2015,María Ángeles,40,española,Herrera de Camargo-Camargo,Santander,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Tenía hijos menores de edad
+373,3/06/2015,6,2015,María del Águila,50,española,Alcalá de Guadaira,Sevilla,marido,paliza,apaleada,,,"Había denunciado, denuncia retirada",Denuncia,Cifra oficial,
+374,15/05/2015,5,2015,Encarnación,41,española,Villaviciosa de Odón,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Tenía un hijo menor de edad
+375,14/05/2015,5,2015,Gemma,48,española,Denia,Alicante,pareja,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+376,8/05/2015,5,2015,María Isabel,66,española,Ourense,Ourense,marido,apuñalada,asesinada con arma blanca,Se había pedido orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+377,3/05/2015,5,2015,Francisca María,47,española,Sorbas,Almería,marido,disparo con escopeta,disparada,,,,,Cifra oficial,
+378,2/04/2015,4,2015,María,29,rumana,Vitoria-Gasteiz,Álava,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja huérfanos a tres hijos
+379,30/03/2015,3,2015,Mónica,24,española,Lleida,Lleida,marido,disparo con pistola,disparada,,,,,Cifra oficial,Deja huérfanos a dos hijos
+380,29/03/2015,3,2015,Davinia,30,española,Alhaurín de la Torre,Málaga,pareja,estrangulada,asfixiada,,,,,Cifra oficial,Deja huérfana a una hija
+381,11/03/2015,3,2015,Tamara,23,española,Cáceres,Cáceres,marido,arrojada de un coche,accidente provocado con coche,,,,,Cifra oficial,Deja huérfano a un hijo
+382,9/03/2015,3,2015,Hanan,43,marroquí,Denia,Alicante,marido,paliza,apaleada,,,"Se había quejado, pero sin denunciar",Denuncia,Cifra oficial,Deja huérfanos a dos hijos
+383,12/02/2015,2,2015,Susana,36,española,Valencia,Valencia,pareja,apuñalada,asesinada con arma blanca,,,Detenido en 98 por agredir a su anterior mujer,Denuncia,Cifra oficial,Deja huérfanos a tres hijos
+384,4/02/2015,2,2015,Egle Buskeviviene,39,lituana,Ronda,Málaga,marido,estrangulada,asfixiada,,,,,Cifra oficial,
+385,21/01/2015,1,2015,Sandra Montiel Aguilar,39,española,Terrasa,Barcelona,marido,nd,nd,nd,,nd,Denuncia,Cifra oficial,Deja huérfana una niña menor de edad
+386,18/01/2015,1,2015,Gisela Gertrud,69,alemana,Orba,Alicante,nd,estrangulada,asfixiada,nd,,nd,Denuncia,Cifra oficial,no info
+387,12/01/2015,1,2015,Teresa,70,española,El Altet,Alicante,exmarido,paliza,apaleada,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+273,17/12/2014,12,2014,Liliana María,36,colombiana,Alcobendas,Madrid,expareja,asfixiada,asfixiada,,,,,Cifra oficial,
+274,10/12/2014,12,2014,Mari Luz,54,española,Abadiño,Vizcaya,marido,,,,,,,Cifra oficial,Un hijo
+276,8/12/2014,12,2014,Rosa Ana ,38,española,Valladolid,Valladolid,expareja,apuñalada,asesinada con arma blanca,,,"1)El primero se remonta a unos hechos acaecidos en el año 2009, y por los que, con sentencia de conformidad por un delito de malos tratos y lesiones leves, fue condenado a una pena de 10 meses de prisión y 4 años con la prohibición de comunicarse y acercarse a Rosa Ana. Esta pena de condena ya había sido cumplida y, por tanto, la ejecutoria se archivó.     2)El segundo proceso data de enero de 2014, cuando el día 8 del citado mes puso a disposición del Juzgado en calidad de detenido a Omar O., a la mujer ahora fallecida y a un tercer hombre por una pelea en la que se habían visto involucrados los tres. La mujer no quiso declarar en sede judicial sobre lo ocurrido. El varón que acompañó entonces a Ana Rosa era una persona distinta al acuchillado el pasado lunes.",Denuncia,Cifra oficial,Dos hijas
+275,8/12/2014,12,2014,Ana,37,española,Paterna,Valencia,pareja,disparo con escopeta,disparada,,,,,Cifra oficial,Dos hijas
+268,3/12/2014,12,2014,M,80,española,La Felguera,Asturias,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+277,2/12/2014,12,2014,Hannan,19,marroquí,Melilla,Melilla,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,una hija
+278,22/11/2014,11,2014,Zuny,32,paraguaya,Barcelona,Barcelona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+279,17/11/2014,11,2014,Ahagiratou,32,gambiana,Sant Pere Pescador,Girona,marido,apuñalada,asesinada con arma blanca,,,"El homicida, Musa B., había sido denunciado por su mujer, pero el juzgado no decretó ninguna orden de alejamiento.",Denuncia,Cifra oficial,un hijo
+280,10/11/2014,11,2014,Andrea,45,argentina,Barcelona,Barcelona,exmarido,golpeada,apaleada,,,Había una denuncia por violencia de género pero aún no había orden de alejamiento puesto que la vista judicial debía realizarse el 11 de noviembre,Denuncia,Cifra oficial,tres hijas
+281,31/10/2014,10,2014,Rosa,42,dominicana,Vitoria-Gasteiz,Álava,expareja,golpeada,apaleada,,,,,Cifra oficial,
+282,25/10/2014,10,2014,Susana,46,española,Valencia,Valencia,nd,estrangulada,asfixiada,,,,,Cifra oficial,
+283,3/10/2014,10,2014,Gisele,28,brasileña,L'Hospitalet de Llobregat (Barcelona,Barcelona,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+284,15/09/2014,9,2014,Rosemary,78,británica,Rojales,Alicante,pareja,golpeada con un bastón,apaleada,,,,,Cifra oficial,
+285,4/09/2014,9,2014,Antonia,62,española,Cúllar Baza (Granada,Granada,pareja,disparo con escopeta,disparada,,,,,Cifra oficial,una hija
+286,28/08/2014,8,2014,Gemma,45,española,L'Hospitalet de Llobregat,Barcelona,nd,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+287,27/08/2014,8,2014,Emilia,48,española,Barcelona,Barcelona,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+289,25/08/2014,8,2014,Mónica,38,española,Portela-Barro,Pontevedra,marido,disparo con escopeta,disparada,,,,,Cifra oficial,dos hijas
+288,25/08/2014,8,2014,Esperanza,87,española,El Campello,Alicante,nd,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+290,14/08/2014,8,2014,Verónica Ana,39,rumana,Móstoles,Madrid,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+291,8/08/2014,8,2014,Ana Mª ,37,española,Torrox,Málaga,pareja,apuñalada,asesinada con arma blanca,,,"El acusado tiene antecedentes por haber maltratado a su exmujer, también cordobesa, que lo denunció en el año 2005",Denuncia,Cifra oficial,
+293,2/08/2014,8,2014,Mª del Carmen,41,española,Berja,Almería,expareja,degollada y apuñalada,asesinada con arma blanca,,,"El presunto asesino acababa de cumplir una pena de prisión domiciliaria impuesta por un juzgado, además de una orden de alejamiento que seguía vigente, a raíz de las denuncias de la mujer por las continuas amenazas a las que era sometida.",Denuncia,Cifra oficial,
+292,2/08/2014,8,2014,Mª Yolanda,39,española,Orihuela,Alicante,marido,golpeada con una mancuerna,apaleada,,,,,Cifra oficial,
+295,29/07/2014,7,2014,Verónica,24,española,Málaga,Málaga,pareja,apuñalada,asesinada con arma blanca,,,"La víctima rehusó la pasada semana alojarse en una casa de acogida tras sufrir una agresión de su expareja, que previamente la había maltratado en octubre de 2009. La coordinadora provincial del Instituto Andaluz de la Mujer (IAM), Estefanía Martín, ha relatado que la víctima había acudido el pasado 20 de julio al hospital por una agresión, por lo que se siguió el protocolo sanitario establecido para estos casos, que prevé el parte de lesiones al juzgado y la comunicación al IAM. Verónica había denunciado al presunto autor del crimen en el año 2009 por una agresión. La mujer fue ingresada durante dos días en un piso de acogida para mujeres maltratadas, según confirmó el Instituto Andaluz de la Mujer en Málaga. Tras pedir el alta voluntaria, Frías abandonó la vivienda y solicitó la retirada de la denuncia y de las medidas cautelares. Tras un periodo de seguimiento por parte del Instituto, la mujer se reconcilió con el presunto maltratador.",Denuncia,Cifra oficial,
+294,29/07/2014,7,2014,Sara,81,española,Pazos de Borbén (Pontevedra,Pontevedra,marido,golpeada con martillo,apaleada,,,,,Cifra oficial,
+296,23/07/2014,7,2014,Isabel,47,española,Felanitx,Mallorca,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+297,30/06/2014,6,2014,Adolfina,32,dominicana,San Vicente de la Cabeza,Zamora,nd,,,,,"la abuela paterna de la niña, Leonarda Sánchez, supo que algo terrible les había pasado a su nieta y a su nuera y acudió a la comisaría de Puente de Vallecas para denunciar los hechos. No era la primera vez que la mujer temía por su pequeña y señalaba a Raúl. El 16 de enero presentó una denuncia manuscrita en el Juzgado de guardia de Plaza de Castilla en la que relataba que Argelys y Adolfina sufrían insultos y golpes del novio de la mujer. Esa denuncia nunca fue ratificada porque a Leonarda no se la pudo notificar, según fuentes de la investigación.",Denuncia,Cifra oficial,
+298,24/06/2014,6,2014,Ena,63,española,Cubillos del Sil,León,exmarido,golpeada,apaleada,,, denuncias cruzadas por maltrato y lesiones,Denuncia,Cifra oficial,dos hijos
+299,9/06/2014,6,2014,Rosa Mª,45,española,Deiá,Baleares,expareja,estrangulada,asfixiada,,,"denunció ante la Policía Local que Jaume Mayol la insultaba y acosaba. El lunes, el día del crimen, la Guardia Civil la citó en el cuartel para ampliar la denuncia y ofrecerle protección, pero ella rechazó la ayuda pensando que podría conseguir una separación pacífica de su expareja.",Denuncia,Cifra oficial,dos hijas
+300,7/06/2014,6,2014,Mª Araceli,60,española,Motril (Granada,Granada,marido,golpeada con martillo,apaleada,,,,,Cifra oficial,
+301,31/05/2014,5,2014,Maríana,32,rumana,Almería,Almería,pareja,apuñalada (arranca ojos),asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+302,5/05/2014,5,2014,Hana,23,marroquí,Villarejo de Salvanés,Madrid,exmarido,degollada y apuñalada,asesinada con arma blanca,el juzgado decretó el pasado 1 de abril una orden de alejamiento de 500 metros de la víctima,Tenía orden de alejamiento,"se había separado hace unos tres meses, después de que la mujer denunciara a su entonces marido por una agresión en marzo. Por este motivo, Mbarak fue detenido y el juzgado decretó el pasado 1 de abril una orden de alejamiento de 500 metros de la víctima.                               Una amiga de la fallecida asegura que Hana había interpuesto hace poco una segunda denuncia, debido a que la acosaba por teléfono e, incluso, un día llegó a acceder a la casa.",Denuncia,Cifra oficial,dos hijos
+303,30/04/2014,4,2014,María Belén,43,española,A Coruña,A Coruña,pareja,arrojada desde un coche,accidente provocado con coche,,,,,Cifra oficial,
+304,24/04/2014,4,2014,María Elena,71,española,Foz,Lugo,marido,disparo con pistola,disparada,,,,,Cifra oficial,
+305,6/04/2014,4,2014,Raquel,42,española,Jerez de la Frontera,Cádiz,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+306,4/04/2014,4,2014,Ana,83,española,Freixás-Valls,Tarragona,marido,nd,nd,,,,,Cifra oficial,
+269,4/04/2014,4,2014,Piedad,44,española,Mataró,Barcelona,expareja,desaparecida,desconocido,,,,,Cifra no oficial,
+307,28/03/2014,3,2014,María Dolores,54,española,Barcelona,Barcelona,pareja,,,,,,,Cifra oficial,
+308,27/03/2014,3,2014,María,32,española,Medina del Campo,Valladolid,expareja,disparo,disparada,,,,,Cifra oficial,
+309,18/03/2014,3,2014,Fátima,63,marroquí,Melilla,Melilla,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+311,17/03/2014,3,2014,María José,49,española,Madrid,Madrid,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+310,17/03/2014,3,2014,Andina Reges,35,brasileña,Mungia,Bilbao,expareja,estrangulada,asfixiada,,,,,Cifra oficial,Deja huérfanos a dos hijos menores de edad
+312,7/03/2014,3,2014,Olha,39,ucraniana,Can Picafort – Santa Margalida,Mallorca,marido,asfixia,asfixiada,,,,,Cifra oficial,
+313,6/03/2014,3,2014,Josefa,76,española,Chiclana de la Frontera,Cádiz,marido,disparo,disparada,,,,,Cifra oficial,
+314,5/03/2014,3,2014,Ana Isabel ,47,española,Torremolinos,Málaga,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+271,4/03/2014,3,2014,Nombre y apellidos no conocidos,51,,San Roque,Cádiz,,,,,,,,Cifra no oficial,
+316,26/02/2014,2,2014,Mercedes Jané,77,española,Barcelona,Barcelona,nd,disparo,disparada,,,,,Cifra oficial,
+317,25/02/2014,2,2014,Nuria,43,española,Fuenlabrada,Madrid,expareja,paliza,apaleada,,,,,Cifra oficial,"Deja a 4 hijos menores, dos suyos dos que acogía"
+318,23/02/2014,2,2014,María Luisa,37,española,O Pino,A Coruña,marido,apuñalada,asesinada con arma blanca,,,Había denunciado,Denuncia,Cifra oficial,Deja a cuatro hijos menores de edad y dos mayores
+270,15/02/2014,2,2014,Silvia,43,española,San Lorenzo del Escorial,Madrid,expareja,golpeada,apaleada,,,,,Cifra oficial,
+315,14/02/2014,2,2014,Alicia,58,española,El Campello,Alicante,pareja,paliza,apaleada,,,,,Cifra oficial,
+321,9/02/2014,2,2014,Lucina Hanna,51,polaca,Amposta,Tarragona,pareja,apuñalada,asesinada con arma blanca,,,Había denunciado,Denuncia,Cifra oficial,
+272,7/02/2014,2,2014,Nlufa,37,bengalí,Badalona,Barcelona,,,,,,,,Cifra no oficial,Cinco hijos
+319,1/02/2014,2,2014,Mª Luisa,50,española,Calella,Barcelona,pareja,nd,nd,Había recusado la orden de alejamiento un mes antes,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+320,29/01/2014,1,2014,Dolores,59,española,Santa Pola,Alicante,marido,asfixiada,asfixiada,Tenía orden de alejamiento,Tenía orden de alejamiento,,,Cifra oficial,
+323,16/01/2014,1,2014,María,38,venezuelana,Arona,Tenerife,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja un hijo menor de edad y uno mayor de edad
+322,15/01/2014,1,2014,Patricia,28,brasileña,Madrid,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+324,14/01/2014,1,2014,María de los Ángeles,47,española,Pozoblanco,Córdoba,pareja,apuñalada,asesinada con arma blanca,,,"Intentó matarla antes, pero no denuncias",Denuncia,Cifra oficial,
+326,13/01/2014,1,2014,María José,45,española,Cervo,Lugo,marido,paliza,apaleada,,,,,Cifra oficial,
+325,13/01/2014,1,2014,Adela,72,española,Cervo,Lugo,yerno,paliza,apaleada,,,,,Cifra no oficial,
+327,5/01/2014,1,2014,Nuria,43,española,Vilanova y la Geltrú,Barcelona,pareja,calchinado,calchinado,Tenía orden de alejamiento de 18 meses,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+214,26/12/2013,12,2013,María Isabel,45,española,Marín (Pontevedra,Pontevedra,pareja,golpeada y asfixiada,apaleada,,,,,Cifra oficial,
+215,21/12/2013,12,2013,Judit,37,española,Vilanova i la Geltrú,Barcelona,expareja,desconocido,desconocido,En vigor,Tenía orden de alejamiento,La mujer había presentado denuncias previas y pesaba una orden de alejamiento sobre el autor del feminicidio. ,Denuncia,Cifra oficial,
+216,27/11/2013,11,2013,Empar,26,española,Valencia,Valencia,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+217,23/11/2013,11,2013,Concepción,44,española,Torrelaguna,Madrid,nd,patadas,apaleada,,,,,Cifra oficial,
+218,12/11/2013,11,2013,Eva,36,española,Torremolinos,Málaga,pareja,apuñalada,asesinada con arma blanca,"Dos denuncias previas por malos tratos respecto a dos parejas anteriores, en 2004 y 2001. En ambos casos las agresiones se judicializaron y dieron lugar a órdenes de protección.",Tenía orden de alejamiento,No constaba denuncia a su actual agresor.,Denuncia,Cifra oficial,
+219,6/11/2013,11,2013,Rosario Carmen,66,española,Málaga,Málaga,nd,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+220,2/11/2013,11,2013,Andrea Nieves,40,española,Villanueva de la Jara (Cuenca,Cuenca,nd,,,,,,,Cifra oficial,Dos hijos
+221,28/10/2013,10,2013,María del Rosario,52,española,Villarreal,Castellón,marido,acuchillada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+222,21/10/2013,10,2013,Sorina,26,rumana,Torremanzanas,Alicante,pareja,"golpeada con un hacha, abierta en canal y descuartizada",apaleada,,,,,Cifra oficial,
+223,9/10/2013,10,2013,María Ángeles,48,española,Paiporta (Valencia,Valencia,marido,acuchillada,asesinada con arma blanca,,,"La mujer había denunciado al hombre, aunque la causa había sido sobreseída ya que el juez consideró que no había indicios. Ella había perdonado a su pareja y había vuelto a vivir con él. Había dejado de recibir voluntariamente la asistencia para mujeres víctimas de violencia de género desde el pasado mes de julio. El 9 de octubre, tras una discusión, él cogió una silla de madera de la cocina y le golpeó fuertemente en la cabeza. Seguidamente, cogió un cuchillo de cocina de 23 centímetros, de un solo filo y puntiagudo, y se lo clavó en varias partes de su cuerpo, incluso en los huesos.",Denuncia,Cifra oficial,
+224,7/10/2013,10,2013,Alba,14,española,Tárrega,Valencia,expareja,acuchillada,asesinada con arma blanca,,,,,Cifra oficial,
+225,1/10/2013,10,2013,Hayat,27,marroquí,Níjar – Campohermoso,Almería,expareja,estrangulada y enterrada,asfixiada,,,,,Cifra oficial,
+226,30/09/2013,9,2013,Carolina Diana Carmen,32,peruana,La Riba de Saelices,Guadalajara,nd,golpeada y descuartuzada,apaleada,La primera pareja (padre de los tres hijos nacidos) tenía una orden de alojamiento,Tenía orden de alejamiento,,,Cifra oficial,"tres hijos, cuarto en camino"
+227,28/09/2013,9,2013,Bélgica Amada,38,ecuatoriana,Madrid,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+228,23/09/2013,9,2013,Estefanía,26,española,Málaga,Málaga,expareja,apuñalada y asfixiada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+229,20/09/2013,9,2013,María Cruz,44,española,Casavegas,Palencia,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,una hija menor
+230,14/09/2013,9,2013,Manuela,48,española,Valencia,Valencia,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,tres hijas
+231,13/09/2013,9,2013,María Fátima,52,española,Verín,Ourense,pareja,asfixiada,asfixiada,"Tenía orden de alejamiento, recién retirada a su petición",Tenía orden de alejamiento,Había denunciado tras intento de asfixiarla,Denuncia,Cifra oficial,hijos
+233,4/09/2013,9,2013,Daniela ,21,rumana,León,León,pareja,asfixiada,asfixiada,,,,,Cifra oficial,
+232,4/09/2013,9,2013,Valya,44,búlgara,Madrid,Madrid,pareja,golpeada,apaleada,Antecedentes por malos tratos en 2010 y 2011 a otra mujer y con orden de alejamiento sobre ella,Tenía orden de alejamiento,,,Cifra oficial,
+234,17/08/2013,8,2013,Isabel ,83,española,Piedras Blancas-Castrillón,Asturias,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+235,4/08/2013,8,2013,Catalina ,69,española,Villafranca de los Barros,Badajoz,expareja,paliza,apaleada,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+236,15/07/2013,7,2013,Ángela del Carmen ,31,española,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,pareja,nd,nd,,,,,Cifra oficial,dos hijos
+237,9/07/2013,7,2013,Ángela María ,29,española,Granada ,Granada,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+211,5/07/2013,7,2013,Amparo,92,española,Valencia,Valencia,,,,,,,,Cifra no oficial,
+212,26/06/2013,6,2013,Sheila,54,británica,Mijas,Málaga,mujer,disparos,disparada,,,,,Cifra oficial,
+238,16/06/2013,6,2013,Inés Remedios ,81,española,Pozoblanco,Córdoba,marido,nd,nd,,,,,Cifra oficial,
+239,12/06/2013,6,2013,Miriam,21,española,Jerez de la Frontera,Cádiz,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+240,30/05/2013,5,2013,Dolores,54,española,Alcalá la Real,Jaén,expareja,golpeada y asfixiada,apaleada,,,,,Cifra oficial,
+242,23/05/2013,5,2013,Amagoia ,26,española,Llodio,Álava,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,hijo
+241,23/05/2013,5,2013,Loida ,30,peruana,Santander,Cantabria,marido,asfixiada,asfixiada,,,,,Cifra oficial,un hijo
+243,22/05/2013,5,2013,María ,51,española,Alcolea,Córdoba,marido,paliza,apaleada,,,,,Cifra oficial,
+244,21/05/2013,5,2013,Isabel ,19,española,Lorenzana,León,expareja,golpeada y asfixiada,apaleada,,,,,Cifra oficial,
+245,6/05/2013,5,2013,Gema Diana ,39,española,Collado Villalba,Madrid,pareja,ahoga,ahoga,,,La mujer asesinada había sido víctima de violencia de género en 2008 por parte de otro hombre. No había denuncias previas.,Denuncia,Cifra oficial,
+247,30/04/2013,4,2013,Ilham,26,marroquí,Alcarrás,Lleida,marido,hachazo,asesinada con arma blanca,,,,,Cifra oficial,dos hijas
+246,30/04/2013,4,2013,Mercedes Gemma ,42,española,Zaragoza,Zaragoza,pareja,paliza,apaleada,,,,,Cifra oficial,
+248,24/04/2013,4,2013,María del Salvador ,68,española,Madrid,Madrid,marido,,,,,,,Cifra oficial,
+249,20/04/2013,4,2013,Helena ,39,británica,Madrid,Madrid,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+250,19/04/2013,4,2013,María Asunción ,63,española,Vegalatrave,Zamora,marido,,,,,,,Cifra oficial,un hijo
+251,18/04/2013,4,2013,Nicolasa,72,española,Peal de Becerro,Jaén,marido,,,,,,,Cifra oficial,un hijo
+213,18/04/2013,4,2013,No conocidos,53,,Vitoria-Gasteiz,Álava,,,,,,,,Cifra no oficial,
+252,31/03/2013,3,2013,Soledad ,34,boliviana,Palma de Mallorca,Baleares,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+253,29/03/2013,3,2013,Elena ,37,rumana,Lugo,Lugo,marido,hachazo,asesinada con arma blanca,,,,,Cifra oficial,cuatro hijos
+255,27/03/2013,3,2013,Inmaculada,33,española,Oliva,Valencia,pareja,paliza,apaleada,,,,,Cifra oficial,un hijo
+254,27/03/2013,3,2013,Rosa María ,46,española,Benijófar,Alicante,marido,nd,nd,,,,,Cifra oficial,
+256,21/03/2013,3,2013,María del Carmen,65,española,Mejorada del Campo,Madrid,marido,paliza,apaleada,,,,,Cifra oficial,
+258,18/03/2013,3,2013,Petra,45,española,Écija,Sevilla,marido,hachazo,asesinada con arma blanca,,,Había denunciado en 2007 y fue archivada,Denuncia,Cifra oficial,
+257,17/03/2013,3,2013,María Eugenia,37,española,Reus,Tarragona,exmarido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+259,10/03/2013,3,2013,Sonia,31,española,Aranjuez,Madrid,marido,disparo con pistola,disparada,,,,,Cifra oficial,
+260,20/02/2013,2,2013,Guacimara,35,española,Santa Cruz de Tenerife,Santa Cruz de Tenerife,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+261,18/02/2013,2,2013,Agniezska,31,polaca,Zaragoza,Zaragoza,pareja,paliza,apaleada,,,,,Cifra oficial,
+262,6/02/2013,2,2013,María del Pilar,28,española,Ciudad Real,Ciudad Real,pareja,disparo con pistola,disparada,"Tenía orden, levantada el día antes del homicidio",Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+263,1/02/2013,2,2013,Margalida,50,española,Artá,Baleares,exmarido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja dos hijos menores de edad
+264,28/01/2013,1,2013,Eleuteria,28,paraguaya,Elche de la Sierra,Albacete,expareja,disparo con escopeta,disparada,,,,,Cifra oficial,
+265,24/01/2013,1,2013,Larisa,35,moldava,Calpe,Alicante,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+266,20/01/2013,1,2013,Thi Thanh,38,vietnamita,Madrid,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+267,3/01/2013,1,2013,Raquel,33,española,Benaguasil,Valencia,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja dos hijos menores de edad
+165,20/12/2012,12,2012,Matilde,42,española,Fene,A Coruña,exmarido,disparada,disparada,Dos órdenes de alejamiento,Tenía orden de alejamiento,"detenido en el 2006 tras haber sido denunciado por ella y fue castigado con una orden de alejamiento que se prolongó hasta el 2008. Ya en el 2005 la mujer obtuvo una orden de protección por una denuncia de violencia machista, pero fue cancelada al mes siguiente.",Denuncia,Cifra oficial,dos hijos
+166,8/12/2012,12,2012,F. O.,75,española,Terrassa,Barcelona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+167,27/11/2012,11,2012,Mª Teresa,65,española,Asparrena,Álava,nd,,,,,,,Cifra oficial,
+169,18/11/2012,11,2012,Malika,20,española,Parla,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+168,17/11/2012,11,2012,R M J C,42,española,Bembibre,León,pareja,asesinada y descuartizada,descuartizada,,,,,Cifra oficial,
+156,16/11/2012,11,2012,Sabrina,30,,Fuengirola,Málaga,,,,,,,,Cifra no oficial,
+170,7/11/2012,11,2012,Pamela,27,boliviana,Madrid,Madrid,pareja,golpeada con jarrón,apaleada,,,,,Cifra oficial,tres hijas
+171,2/11/2012,11,2012,Marisol,64,española,Sedes-Narón,A Coruña,marido,_ y calcinada,asesinada en un incendio,,,Había denunciado,Denuncia,Cifra oficial,
+172,20/10/2012,10,2012,Almudena,13,española,El Salobral,Albacete,expareja,disparada,disparada,,,,,Cifra oficial,
+173,13/10/2012,10,2012,Sandra,28,española,Úbeda,Jaén,pareja,_ y calcinada,asesinada en un incendio,,,,,Cifra Oficial,
+174,11/10/2012,10,2012,Concepción,70,española,Sant Carles de la Rápita,Tarragona,marido,golpeada,apaleada,,,,,Cifra oficial,
+157,9/10/2012,10,2012,Yulme Josefina S D P,25+-,,El Picazo,Cuenca,,,,,,,,Cifra no oficial,
+152,9/10/2012,10,2012,Antonia González Osuna,46,española,Jaén,Jaén,,,,,,,,Cifra no oficial,
+153,8/10/2012,10,2012,Nombre y apellidos no conocidos,48,,Torrevieja,Alicante,,,,,,,,Cifra no oficial,
+175,2/10/2012,10,2012,María,29,española,Boñar,León,expareja,martillazos,apaleada,,,,,Cifra oficial,
+158,22/09/2012,9,2012,Natalia,29,,Muel,Zaragoza,,asfixiada,asfixiada,,,,,Cifra oficial,
+176,9/09/2012,9,2012,Eva,33,española,Sant Feliú de Codines,Barcelona,nd,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+177,4/09/2012,9,2012,Carolina ,38,española,Torrent,Valencia,amante,estrangulada,asfixiada,,,,,Cifra oficial,una hija
+178,18/08/2012,8,2012,Neriman,32,búlgara,Collado Villalba,Madrid,pareja,estrangulada,asfixiada,,,,,Cifra oficial,una hija
+179,14/08/2012,8,2012,Inge Gisela,67,alemana,Canyamel,Baleares,pareja,_y enterrada,apaleada,,,,,Cifra oficial,
+180,7/08/2012,8,2012,M M C Y,29,ecuatoriana,Guadalajara,Guadalajara,pareja,estrangulada,asfixiada,,,denunció a su pareja anterior por malos tratos. De su asesino no consta denuncia,Denuncia,Cifra oficial,dos hijos
+159,5/08/2012,8,2012,Nombre y apellidos no conocido,29,,Barcelona,Barcelona,,,,,,,,Cifra no oficial,
+181,24/07/2012,7,2012,Mª Magdalena,53,boliviana,Valencia,Valencia,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+182,22/07/2012,7,2012,Alicia,56,española,Valdemoro,Madrid,nd,,,,,,,Cifra oficial,dos hijos
+183,20/07/2012,7,2012,Mª de los Remedios,42,española,Tegueste,Tenerife,exmarido,,,,,,,Cifra oficial,dos hijas
+160,15/07/2012,7,2012,Nombre y apellidos no conocidos,43,,Barcelona,Barcelona,,,,,,,,Cifra no oficial,
+154,29/06/2012,6,2012,Nombre y apellidos no conocidoS,57,,Santa María de Palautordera,Barcelona,,,,,,,,Cifra no oficial,
+184,28/06/2012,6,2012,Josefa ,63,española,Sant Josep de Sa Talia,Baleares,marido,,,,,,,Cifra oficial,una hija
+185,25/06/2012,6,2012,Iria,28,española,Narón,A Coruña,nd,degollada,asesinada con arma blanca,solicita orden de alejamiento ante el acoso,Tenía orden de alejamiento,,,Cifra oficial,
+161,24/06/2012,6,2012,Mª Pilar,50,española,Zaragoza,Zaragoza,,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+186,23/06/2012,6,2012,Mª Rosario,64,española,Gijón,Asturias,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+187,20/06/2012,6,2012,Elisabet,29,española,Reus,Tarragona,nd,,,,,,,Cifra oficial,una hija
+188,19/06/2012,6,2012,Bolivia Elisabeth,40,ecuatoriana,San Vicente del Raspeig,Alicante,marido,golpeada,apaleada,Tenía en vigor una orden de alejamiento tras ser detenido hace un mes por malos tratos,Tenía orden de alejamiento,"dos ""episodios de agresión física"" que habrían tenido lugar los pasados 13 y 19 de mayo. Tras escuchar las declaraciones de la víctima y del supuesto agresor, el juez dictó ""orden de protección, con alejamiento de 300 metros y prohibición de comunicación por cualquier medio""",Denuncia,Cifra oficial,tres hijos
+189,17/06/2012,6,2012,Michell,22,hondureña,Salt,Girona,nd,,,"orden de alejamiento por malos tratos, aunque habían vuelto a convivir juntos por entender la mujer que él había reformado su conducta",Tenía orden de alejamiento,,,Cifra oficial,dos hijas
+190,13/06/2012,6,2012,Ana,73,española,Marbella,Málaga,marido,apuñalada y calcinada,asesinada con arma blanca,,,,,Cifra oficial,
+191,8/06/2012,6,2012,Nombre y apellidos no conocidos,70,española,L´Hospitalet de Llobregat,Barcelona,hombre,arrojada por un balcón (piso 12),arrojada al vacío,,,,,Cifra oficial,
+192,4/06/2012,6,2012,Ioana Elisabeta,28,rumana,Alicante,Alicante,expareja,apuñalada,asesinada con arma blanca,"un día antes del juicio rápido, la víctima acudió al juzgado para renunciar a cualquier acción penal por los hechos denunciados, para retirar la denuncia",Tenía orden de alejamiento,la joven denunció a su pareja por malos tratos y amenazas y tras ser detenido ese mismo día un juzgado dictó el 8 de mayo una orden de alejamiento de ella que le impedía también ver a sus hijos,Denuncia,Cifra oficial,dos hijos
+194,12/05/2012,5,2012,Nombre y apellidos no conocidos,75,española,Estepona,Málaga,pareja,golpeada en la cabeza,apaleada,,,,,Cifra oficial,
+193,12/05/2012,5,2012,M J,48,española,Manzanares,Ciudad Real,marido,golpeada en la cabeza,apaleada,,,,,Cifra oficial,dos hijos
+162,12/05/2012,5,2012,Mª Karina,39,venezuelana,Sant Antoni de Portmany,Baleares,pareja,,,,,,,Cifra no oficial,
+195,2/05/2012,5,2012,C D F,25,española,Elche,Alicante,pareja,apuñalada,asesinada con arma blanca,,,"n 2006, además, fue víctima de una falta de lesiones que se resolvió con una condena a un hombre distinto del implicado ahora en su muerte. Y el supuesto agresor solo tenía un antecedente, en 2005, como víctima de una agresión.",Denuncia,Cifra oficial,
+196,24/04/2012,4,2012,Juventina,74,española,Madrid,Madrid,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,tres hijos
+197,15/04/2012,4,2012,Rosario,55,española,Sevilla,Sevilla,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+199,14/04/2012,4,2012,Ana Mª,26,española,Estepa,Sevilla,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+198,14/04/2012,4,2012,Nicole,28,alemana,Tarajalejo – Tuineje (Fuerteventura),Las Palmas,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+163,3/04/2012,4,2012,Pilar Manuela,51,española,Ricla,Zaragoza,marido,golpeada con un objeto contundente y descuartizada,apaleada,,,"La sentencia impone a Antonio Losilla la prohibición de acercarse a la localidad en la que se cometió el homicidio, Ricla, así como a los lugares en los que se encuentren los hijos de Pilar Cebrián, Antonio y Blanca, y Antonio E. M, y a los domicilios y lugares de trabajo o donde estén, en una distancia no inferior a 500 metros. Esta prohibición tendrá una duración de 15 años.",Denuncia,Cifra oficial,dos hijos
+200,25/03/2012,3,2012,Caridad de los Ángeles,39,cubana,Tolosa,Guipúzcoa,nd,,,,,,,Cifra oficial,
+164,16/03/2012,3,2012,M Y,55,,Fuengirola,Málaga,,,,,,,,Cifra no oficial,
+201,2/03/2012,3,2012,Julia,65,española,Veiga das Meás,Ourense,marido,disparada,disparada,,,,,Cifra oficial,tres hijos
+202,4/02/2012,2,2012,Elisa,49,española,Guadassuar,Valencia,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+203,27/01/2012,1,2012,Nombre no conocido,,marroquí,Granollers,Barcelona,marido,,,,,,,Cifra oficial,seis hijos
+155,25/01/2012,1,2012,Rosa Dina ,43,,Pinto,Madrid,,,,,,,,Cifra no oficial,
+204,24/01/2012,1,2012,Manpreet,26,india,Olot,Girona,marido y cuñado,apuñalada y degollada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+205,21/01/2012,1,2012,Nombre no conocido,33,nd,Santa Coloma de Queralt,Tarragona,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+206,18/01/2012,1,2012,Estrella,42,española,Noguerones,Jaén,mujer,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+207,13/01/2012,1,2012,A,57,nd,Mollet del Vallés,Barcelona,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+208,8/01/2012,1,2012,Rosa,41,española,Tarragona,Tarragona,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+209,7/01/2012,1,2012,Carmen Albújar,80,española,Zafra,Badajoz,marido,,,,,,,Cifra oficial,
+210,3/01/2012,1,2012,Antonia,55,española,L’Ametlla de Merola,Barcelona,marido,golpeada,apaleada,,,,,Cifra oficial,nd
+91,31/12/2011,12,2011,Natalya,54,ucraniana,Girona,Girona,nd,golpeada en la cabeza,apaleada,,,,,Cifra oficial,una hija
+92,27/12/2011,12,2011,Inmaculada,29,española,Marchena,Sevilla,expareja,acuchillada,asesinada con arma blanca,,," denuncia en los juzgados y la orden de alejamiento que se había dictado en junio contra Fernando Frías, hermano por parte de padre de la madre de la víctima. ",Denuncia,Cifra oficial,
+93,26/12/2011,12,2011,Irina,33,rusa,Roquetas de Mar,Almería,marido,,,,,,,Cifra oficial,dos hijos
+94,17/12/2011,12,2011,María Ascensión,52,española,Madrid,Madrid,expareja,golpeada,apaleada,,,,,Cifra oficial,hijos
+95,12/12/2011,12,2011,Matilde,38,española,A Coruña,A Coruña,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+96,8/12/2011,12,2011,Fátima,39,marroquí,Madrid,Madrid,marido,acuchillada,asesinada con arma blanca,,,,,Cifra oficial,tres hijos
+97,27/11/2011,11,2011,Silvia,41,española,Terrassa,Barcelona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+80,11/11/2011,11,2011,Avellaneda,17,dominicana,Collado Villalba,Madrid,expareja,apedreada,apaleada,,,,,Cifra oficial,
+98,4/11/2011,11,2011,Sabrina,31,española,Vielha e Mijaran,Lleida,expareja,estrangulada,asfixiada,,,,,Cifra oficial,tres hijos
+99,2/11/2011,11,2011,Tatiana,29,kazaja,Zaragoza,Zaragoza,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+81,24/10/2011,10,2011,Nuria,24,española,Andratx,Baleares,exmarido,apuñalada,asesinada con arma blanca,,,"En los archivos judiciales si consta que en el mes de septiembre de 2011 pasado Nuria fue atendida en un centro salud por lesiones sospechosas de haber sido causadas por una agresión, y que los médicos, de acuerdo con el protocolo, comunicaron el hecho para su investigación penal al juzgado de guardia. Nuria Orol no quiso formular denuncia judicial ni señalar al autor de los golpes y el juzgado especial de violencia sobre la mujer no prosiguió las diligencias de oficio al valorar el carácter leve de las contusiones reseñadas; así el episodio quedó archivado provisionalmente, según el mismo portavoz judicial.",Denuncia,Cifra oficial,dos hijos
+100,17/10/2011,10,2011,Eunice,38,nigeriana,Girona,Girona,marido,disparada,disparada,,,,,Cifra oficial,
+101,13/10/2011,10,2011,Amaranta,29,española,Avilés,Asturias,pareja,golpeada,apaleada,,,,,Cifra oficial,
+102,12/10/2011,10,2011,Mara,36,italiana,Tías,Las Palmas,pareja,estrangulada,asfixiada,,,,,Cifra oficial,una hija
+103,11/10/2011,10,2011,Cristina,39,española,Vigo,Pontevedra,exmarido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+104,8/10/2011,10,2011,Yvonne Philippine,78,belga,Calpe,Alicante,marido,paliza,apaleada,,,,,Cifra Oficial,
+105,2/10/2011,10,2011,Roxana Claudia,53,española,Marbella,Málaga,pareja,asfixiada,asfixiada,,,,,Cifra oficial,
+106,27/09/2011,9,2011,Salud,41,española,Vícar,Almería,marido,paliza,apaleada,,,,,Cifra oficial,Una hija
+107,23/09/2011,9,2011,María Dolores,71,española,Sanlúcar de Barrameda,Cádiz,marido,paliza,apaleada,,,,,Cifra oficial,
+108,21/09/2011,9,2011,Mina,40,marroquí,Puçol,Valencia,marido,apuñalada,asesinada con arma blanca,Tenía orden de añejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,una hija
+109,18/09/2011,9,2011,Clementina,38,española,Arona,Las Palmas,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+110,17/09/2011,9,2011,Lucía,47,española,Lora del Río,Sevilla,expareja,apuñalada,asesinada con arma blanca,,,había denunciado a su presunto asesino por malos tratos en julio pasad. renunció a la orden de protección y retiró la denuncia,Denuncia,Cifra oficial,dos hijas
+111,15/09/2011,9,2011,Ester ,47,española,Vinaròs,Castellón,pareja,,,,,,,Cifra oficial,
+112,29/08/2011,8,2011,María Isabel,49,española,Cardeñajimeno,Burgos,exmarido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+113,26/08/2011,8,2011,Caridad,71,española,Murcia,Murcia,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,cuatro hijos
+114,22/08/2011,8,2011,Deisy María,36,ecuatoriana,Bilbao,Vizcaya,exmarido,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,tres hijos
+115,2/08/2011,8,2011,Fructuosa,71,española,Madrid,Madrid,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+116,25/07/2011,7,2011,Giovanna,38,brasileña,El Atazar,Madrid,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+117,22/07/2011,7,2011,Elena Florentina,26,,Polop,Alicante,,,,,,,,Cifra no oficial,un hijo
+118,19/07/2011,7,2011,Mónica,18,española,Otura,Granada,pareja,golpeada,apaleada,,,,,Cifra oficial,
+119,17/07/2011,7,2011,Julia,30,boliviana,Chiva,Valencia,marido,asfixiada,asfixiada,,,,,Cifra oficial,un hijo
+82,15/07/2011,7,2011,Nombre y apellidos no conocidos,63,,Cabrera d’Igualada,Barcelona,,,,,,,,Cifra no oficial,
+120,4/07/2011,7,2011,Eliana,29,boliviana,Barcelona,Barcelona,pareja,apuñalada,asesinada con arma blanca,,,Había denunciado,Denuncia,Cifra oficial,
+122,3/07/2011,7,2011,Rosario,55,española,Hernani,Guipúzcoa,expareja,apuñalada,asesinada con arma blanca,Retiró orden de alejamiento tras amenazas del asesino,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,tres hijas (otra pareja)
+121,3/07/2011,7,2011,Angélica Pilar,29,ecuatoriana,Zaragoza,Zaragoza,exmarido,estrangulada,asfixiada,tenía orden de alejamiento,Tenía orden de alejamiento,,,Cifra oficial,dos hijos
+83,16/06/2011,6,2011,Nombre y apellidos no conocidos,31,,Durango,Vizcaya,,,,,,,,Cifra no oficial,
+84,15/06/2011,6,2011,Nombre y apellidos no conocidos,x,,Terrassa,Barcelona,,,,,,,,Cifra no oficial,
+85,14/06/2011,6,2011,Yolanda,35,,Salou,Tarragona,,,,,,,,Cifra no oficial,
+86,13/06/2011,6,2011,Nombre y apellidos no conocidos,37,,Barcelona,Barcelona,,,,,,,,Cifra no oficial,
+87,11/06/2011,6,2011,Nombre y apellidos no conocidos,30,,L’Ametlla de Mar,Tarragona,,,,,,,,Cifra no oficial,
+124,1/06/2011,6,2011,Inés,64,española,Mieres,Asturias,marido,hachazo,asesinada con arma blanca,,,,,Cifra oficial,
+123,1/06/2011,6,2011,Teresa,72,española,Albalat dels Tarongers,Valencia,nd,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento sobre la fallecida,Tenía orden de alejamiento,,,Cifra oficial,
+88,1/06/2011,6,2011,María Luisa,59,española,Albalat dels Tarongers,Valencia,expareja e hijo,"golpeada, descuartizada y quemada",apaleada,,,,,Cifra oficial,hijos
+125,31/05/2011,5,2011,Miren,42,española,Móstoles,Madrid,exmarido,apuñalada,asesinada con arma blanca,,,Había denuncia - 20 horas antes del asesinato,Denuncia,Cifra oficial,un hijo
+126,30/05/2011,5,2011,Rosa del Saliente,28,española,Fines,Almería,exmarido,nd,nd,,,,,Cifra oficial,una hija
+127,15/05/2011,5,2011,Johanna Marlene,30,ecuatoriana,Córdoba,Córdoba,marido,degollada,asesinada con arma blanca,,,,,Cifra oficial,
+128,14/05/2011,5,2011,Rosa María,39,española,Sabadell,Barcelona,marido,degollada y apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+129,13/05/2011,5,2011,Gloria,19,española,Noia,A Coruña,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+131,8/05/2011,5,2011,Arantxa,30,española,Almería,Almería,exmarido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+130,8/05/2011,5,2011,Marisol Consuelo,40,ecuatoriana,Madrid,Madrid,expareja,degollada,asesinada con arma blanca,,,,,Cifra oficial,una hija
+132,6/05/2011,5,2011,Cándida,71,española,Bescanó,Girona,exmarido,disparada,disparada,Tenía orden de alejamiento,Tenía orden de alejamiento,,,Cifra oficial,cinco hijos
+89,24/04/2011,4,2011,Ana,32,,Santa Coloma de Gramenet,Barcelona,,,,,,,,Cifra no oficial,
+133,12/04/2011,4,2011,Mireia,29,española,Mutxamel,Alicante,marido,"golpeada con martillo, apuñalada y quemada",apaleada,,,,,Cifra oficial,dos hijos
+135,4/04/2011,4,2011,Viorela Alexandra,19,rumana,Torrejón de Ardoz,Madrid,pareja,asfixiada,asfixiada,,,,,Cifra oficial,embarazada?
+134,4/04/2011,4,2011,Yanela Mariuxi,23,ecuatoriana,Beriáin,Navarra,exnovio,asfixiada,asfixiada,,,,,Cifra oficial,una hija
+136,22/03/2011,3,2011,Purificación,44,española,Torre del Campo,Jaén,exmarido,golpeada y apuñalada,apaleada,orden de alejamiento en vigor en el momento del asesinato,Tenía orden de alejamiento,,,Cifra oficial,
+137,21/03/2011,3,2011,Natividad,61,española,Granada,Granada,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+138,7/03/2011,3,2011,Marilyn,55,británica,Fuente el Saz de Jarama,Madrid,expareja,apuñalada,asesinada con arma blanca,tenía orden de orden de alejamiento e incomunicación en vigor desde julio,Tenía orden de alejamiento,"El hombre fue condenado por malos tratos en dos ocasiones, primero por amenazas y después por quebrantamiento de las medidas de alejamiento.",Denuncia,Cifra oficial,
+140,23/02/2011,2,2011,María Montserrat,44,española,Reus,Tarragona,expareja,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,Deja una niña de 5 años
+139,23/02/2011,2,2011,Gigliola Carlín,32,boliviana,Valencia,Valencia,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+141,15/02/2011,2,2011,Susana María,37,española,Málaga,Málaga,expareja,hachazo,asesinada con arma blanca,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+142,11/02/2011,2,2011,Arianny,26,española,Barcelona,Barcelona,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+90,5/02/2011,2,2011,Shazia,33,paquistaní,Badalona,Barcelona,cuñado,golpeada y asfixiada,apaleada,,,,,Cifra no oficial,
+143,3/02/2011,2,2011,Carmen,46,española,Roquetas de Mar,Almería,pareja,paliza,apaleada,,,,,Cifra oficial,
+145,30/01/2011,1,2011,Ramona,45,española,Villacarrillo,Jaén,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+144,30/01/2011,1,2011,Juliana Monreal,43,española,Campo de Criptana,Ciudad Real,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+147,29/01/2011,1,2011,María Jesús,75,española,Calvià,Baleares,marido,disparo con pistola,disparada,,,,,Cifra oficial,
+146,29/01/2011,1,2011,Esther Julia,58,colombiana,Puerto del Rosario,Las Palmas,pareja,paliza,apaleada,,,,,Cifra oficial,
+148,26/01/2011,1,2011,Leidiyeni Peralta,34,cubana,Cartagena,Murcia,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,Deja una hija menor de edad
+149,18/01/2011,1,2011,Carmen,54,española,Fuenlabrada,Madrid,marido,asfixiada,asfixiada,,,,,Cifra oficial,
+150,13/01/2011,1,2011,Weili,29,china,Granada,Granada,pareja,paliza,apaleada,,,,,Cifra oficial,Deja un hijo menor de edad
+151,12/01/2011,1,2011,Ana María,51,española,Torrecaballeros,Segovia,marido,disparo con escopeta,disparada,,,,,Cifra oficial,
+7,19/12/2010,12,2010,Alannah Catherine,30,española,Madrid,Madrid,pareja,empujada desde séptimo piso,arrojada al vacío,,,Había malos tratos según averiguaciones policiales,Denuncia,Cifra oficial,
+8,18/12/2010,12,2010,Yolanda,24,española,Porzuna,Ciudad Real,marido,apuñalada,asesinada con arma blanca,,,"El pasado 27 de noviembre la joven denunció a su marido en el cuartel de la Guardia Civil del pueblo. Tras la celebración de un juicio rápido, el hombre quedó en libertad sin cargos, con lo que el juez no estipuló ningún tipo de protección para ella, una decisión que estaba recurrida por la abogada de la ahora fallecida.",Denuncia,Cifra oficial,cuatro hijos
+9,17/12/2010,12,2010,Rosa María,43,española,Santa María de Palautordera,Barcelona,marido,asfixia,asfixiada,,,,,Cifra oficial,
+10,16/12/2010,12,2010,Nadia,44,marroquí,Badajoz,Badajoz,exmarido,disparada,disparada,,,,,Cifra oficial,una hija
+11,8/12/2010,12,2010,Chun,27,china,Málaga,Málaga,pareja,paliza,apaleada,,,,,Cifra oficial,
+12,6/12/2010,12,2010,Cristina,25,española,Barakaldo,Vizcaya,exnovia,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+13,4/12/2010,12,2010,Estefanía,23,española,Catral,Alicante,expareja,apuñalada,asesinada con arma blanca,pesaba desde agosto una orden de alejamiento dictada por un juez tras un juicio por amenazas y agresión,Tenía orden de alejamiento,,,Cifra oficial,
+14,28/11/2010,11,2010,Rosalía,77,española,Madrid,Madrid,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+16,19/11/2010,11,2010,Lidia Esther,32,española,Santa Cruz de Tenerife,Las Palmas,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+15,19/11/2010,11,2010,Dolores Elvira,34,española,El Ejido,Almería,pareja,incendia la casa,asesinada en un incendio,,,"Había denunciado, no ratificó",Denuncia,Cifra oficial,
+17,12/11/2010,11,2010,María Cristina,56,argentina,Catarroja,Valencia,pareja,degollada,asesinada con arma blanca,,,,,Cifra oficial,tres hijos
+1,12/11/2010,11,2010,Carmen Blanch Castells,53,,Vilassar de Dalt,Barcelona,,,,,,,,Cifra no oficial,
+18,10/11/2010,11,2010,Silvia,16,española,Leganés,Madrid,expareja,degollada,asesinada con arma blanca,,,,,Cifra oficial,
+19,9/11/2010,11,2010,Anne ,49,kenia,Pollença,Baleares,expareja,atropellada con coche,accidente provocado con coche,,,,,Cifra oficial,
+20,3/11/2010,11,2010,María del Carmen,39,española,Sevilla,Sevilla,pareja,apuñalada y degollada,asesinada con arma blanca,,,"Un vecino denunció el 13 de abril una agresión pero ella no quiso denunciar a Issam, que quedó en libertad tras ser detenido por malos tratos.",Denuncia,Cifra oficial,un hijo
+21,24/10/2010,10,2010,María Dolores,42,española,Vilanova i la Geltrú,Barcelona,pareja,disparo,disparada,,,,,Cifra oficial,un hijo
+22,14/10/2010,10,2010,Piedad,47,española,Getafe,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+23,13/10/2010,10,2010,Rosa,49,española,Benejúzar,Alicante,marido,disparada,disparada,,,,,Cifra oficial,
+24,12/10/2010,10,2010,Saida,27,,Tarragona,Tarragona,exmarido,apuñalada y asesinada,asesinada con arma blanca,incumplida una orden de alejamiento,Tenía orden de alejamiento,,,Cifra Oficial,dos hijos
+25,11/10/2010,10,2010,Fatiha,37,marroquí,Alhama de Granada,Granada,marido,golpeada con un objeto de hierro,apaleada,,,,,Cifra oficial,tres hijos
+26,6/10/2010,10,2010,Catalina,80,española,Málaga,Málaga,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+28,26/09/2010,9,2010,Rosario,33,española,Moncofa,Castellón,exmarido,apuñalada,asesinada con arma blanca,tenía una orden de alejamiento desde hace 3 meses que el agresor incumplió de forma continuada,Tenía orden de alejamiento,,,Cifra oficial,un hijo
+27,26/09/2010,9,2010,Sabrina,38,belga,Sant Pere Pescador,Girona,expareja,descuartizada,descuartizada,,,,,Cifra oficial,
+29,19/09/2010,9,2010,María Rocío,30,española,Córdoba,Córdoba,pareja,decapitada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+30,15/09/2010,9,2010,María Rosa,34,española,Ponteceso,A Coruña,expareja,golpeada con un martillo,apaleada,,,,,Cifra Oficial,dos hijos
+31,14/09/2010,9,2010,Johana Elisabeth,27,ecuatoriana,Oviedo,Asturias,pareja,degollada,asesinada con arma blanca,,,,,Cifra oficial,
+32,10/09/2010,9,2010,Damiana,39,guineana,Roquetas de Mar,Almería,expareja,nd,nd,,,,,Cifra oficial,
+33,9/09/2010,9,2010,María Belén,42,española,Villoldo,Palencia,exmarido,apuñalada,asesinada con arma blanca,había una orden de alejamiento vigente,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,"tres hijos, solo una menor de edad"
+34,2/09/2010,9,2010,Nicauris,29,dominicana,L’Hospitalet de Llobregat,Barcelona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijas/tres hijos
+35,26/08/2010,8,2010,María Montserrat,42,española,Lugo,Lugo,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+36,15/08/2010,8,2010,Laila el Amari,42,marroquí,Blanes,Girona,nd,,,,,,,Cifra oficial,
+37,25/07/2010,7,2010,Amelia,36,española,Bilbao,Vizcaya,expareja,apaleada,apaleada,orden de alejamiento en vigor,Tenía orden de alejamiento,una denuncia,Denuncia,Cifra oficial,
+38,17/07/2010,7,2010,María del Carmen,49,española,La Orotava,Las Palmas,pareja,paliza,apaleada,,,,,Cifra oficial,
+39,16/07/2010,7,2010,Carmen Cecilia,48,española,Zaragoza,Zaragoza,nd,,,,,,,Cifra oficial,
+40,15/07/2010,7,2010,Zhour,33,marroquí,Villanueva de la Jara,Cuenca,marido,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento y condena previa,Tenía orden de alejamiento,"Tres denuncias, una archivada por peitición víctima",Denuncia,Cifra oficial,un hijo
+2,11/07/2010,7,2010,Laura Aróstegui González,32,,Las Plamas de Gran Canaria,Las Palmas,,,,,,,,Cifra no oficial,
+43,7/07/2010,7,2010,Andrea Valeria,27,ecuatoriana,Barcelona,Barcelona,pareja,estrangulada,asfixiada,,,dos denuncias,Denuncia,Cifra oficial,
+42,7/07/2010,7,2010,Emese Krisztina,37,húngara,Granadilla de Abona,Las Palmas,marido,paliza,apaleada,,,,,Cifra oficial,
+41,7/07/2010,7,2010,Sarah,23,británica,Mogán,Las Palmas,pareja,golpeada,apaleada,,,,,Cifra oficial,
+3,6/07/2010,7,2010,Olena Kaplina,37,,Girona,Girona,,,,,,,,Cifra no oficial,
+45,4/07/2010,7,2010,Milagros,62,española,El Puerto de Santa María,Cádiz,marido,estrangulada,asfixiada,,,,,Cifra oficial,
+44,4/07/2010,7,2010,Felicia,68,española,Landete,Cuenca,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijos
+46,1/07/2010,7,2010,Rafaela,42,española,Pinos Puente,Granada,expareja,golpeada con una azada,apaleada,orden de alejamiento vigente,Tenía orden de alejamiento, dos denuncias por malos tratos,Denuncia,Cifra oficial,
+47,21/06/2010,6,2010,Inés Delfina,48,española,San Cristóbal de la Laguna,Las Palmas,pareja,apuñalada,asesinada con arma blanca,orden de alejamiento vigente,Tenía orden de alejamiento,,,Cifra oficial,
+48,16/06/2010,6,2010,Imgard,62,alemana,Pilar de la Horadada,Alicante,expareja,,,,,,,Cifra oficial,
+49,6/06/2010,6,2010,Mónica,32,española,Salt,Girona,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+50,4/06/2010,6,2010,Mercedes,36,española,Almería,Almería,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,una hija
+53,31/05/2010,5,2010,Guadalupe,40,española,Pruna,Sevilla,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,tres hijos
+52,31/05/2010,5,2010,Farida,46,marroquí,Salt,Girona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,cuatro hijos
+51,31/05/2010,5,2010,María Dolores,52,española,Gijón,Asturias,marido,asfixiada,asfixiada,,,,,Cifra oficial,
+54,17/05/2010,5,2010,Ana,49,española,Sevilla,Sevilla,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+55,13/05/2010,5,2010,Fatna,28,marroquí,Terrasa,Barcelona,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,tres hijos
+56,11/05/2010,5,2010,Antonia,68,española,Murcia,Murcia,marido,paliza,apaleada,,,,,Cifra oficial,
+57,10/05/2010,5,2010,Alicia Grimaneza,37,ecuatoriana,Granadilla de Abona,Santa Cruz de Tenerife,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,¿un hijo?
+58,29/04/2010,4,2010,Irene,56,española,Museros,Valencia,exmarido,apuñalada,asesinada con arma blanca,,,Había denunciado,Denuncia,Cifra oficial,
+59,20/04/2010,4,2010,María Isabel,58,española,Gijón,Asturias,marido,disparo con escopeta,disparada,,,,,Cifra oficial,
+60,14/04/2010,4,2010,Mayra Alejandra,24,ecuatoriana,Madrid,Madrid,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+62,11/04/2010,4,2010,Fátima Zohra,25,argelina,Alicante,Alicante,expareja,disparo con pistola,disparada,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+61,11/04/2010,4,2010,Vanessa Iris,30,dominicana,Zaragoza,Zaragoza,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+63,9/04/2010,4,2010,Emma,47,portuguesa,Oviedo,Asturias,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+4,9/04/2010,4,2010,MSP,34,,Marbella,Málaga,,,,,,,,Cifra no oficial,
+64,6/04/2010,4,2010,María Victoria ,64,española,Málaga,Málaga,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+65,4/04/2010,4,2010,María Montserrat,55,española,Burgos,Burgos,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,un hijo
+66,3/04/2010,4,2010,Silvia,53,argentina,Valladolid,Valladolid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+68,28/03/2010,3,2010,Teresa,64,española,Atzeneta de Maestrat,Castellón,marido,disparo con pistola,disparada,,,,,Cifra oficial,
+67,28/03/2010,3,2010,Carmen,48,española,Lucainena de las Torres,Almería,marido,disparo con arma de fuego,disparada,,,,,Cifra oficial,
+69,27/03/2010,3,2010,Cristina,33,española,Vic,Barcelona,pareja,asfixiada,asfixiada,,,,,Cifra oficial,
+70,18/03/2010,3,2010,Julia Eulalia,56,española,Huelva,Huelva,exmarido,apuñalada,asesinada con arma blanca,Tenía orden de alejamiento,Tenía orden de alejamiento,Había denunciado,Denuncia,Cifra oficial,
+71,15/03/2010,3,2010,Alla,36,rumana,Granadilla de Abona,Las Palmas,pareja,apuñalada,asesinada con arma blanca,,,"No quiso denunciar, dicen, porque él no tenía papeles",Denuncia,Cifra oficial,
+72,4/03/2010,3,2010,Isabel,27,española,Burgos,Burgos,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+73,27/02/2010,2,2010,Isabel,60,española,Oviedo,Asturias,marido,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+75,18/02/2010,2,2010,Marjorie,27,boliviana,Almería,Almería,marido,paliza,apaleada,,,,,Cifra oficial,dos hijas
+74,18/02/2010,2,2010,Malina,26,búlgara,Leganés,Madrid,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+76,9/02/2010,2,2010,Victorya,36,bielorrusa,Alcover,Tarragona,exmarido,descuartizada,descuartizada,Orden de alejamiento emitida el mismo día del homicidio,Tenía orden de alejamiento,,,Cifra oficial,
+77,21/01/2010,1,2010,Ivana,36,española,Brunete,Madrid,expareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,dos hijas
+78,20/01/2010,1,2010,Juana María,42,española,Palma de Mallorca,Baleares,pareja,apuñalada,asesinada con arma blanca,,,,,Cifra oficial,
+5,18/01/2010,1,2010,Elena Cal,45,,Tolosa,Guipúzcoa,,,,,,,,Cifra no oficial,
+6,6/01/2010,1,2010,JIPR,32,,L´Hospitalet de Llobregat,Barcelona,,,,,,,,Cifra no oficial,
+79,3/01/2010,1,2010,Josefa,45,española,El Cuervo de Sevilla,Sevilla,marido,asfixiada,asfixiada,,,,,Cifra oficial,
