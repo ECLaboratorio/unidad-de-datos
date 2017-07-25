@@ -1,4 +1,6 @@
-Esta informaci髇 sobre incendios se ha utilizado para elaborar este reportaje en El Confidencial: 
+La informaci贸n contenida en este archivo ha sido obtenida por la Unidad de Datos de El Confidencial. Se trata de informaci贸n p煤blica que ponemos a disposici贸n de las personas interesadas en un formato accesible. Por favor, cita la autor铆a (Unidad de Datos de El Confidencial) de este trabajo con enlace a la noticia original si reutilizas los datos. Para cualquier consulta, escribe a datos@elconfidencial.com
 
-Los datos se obtuvieron de Espa馻 en llamas, que anualmente trata y analiza los publicados por la Estad韘tica General de Incendios Forestales del Ministerio de Agricultura y Pesca, Alimentaci髇 y Medio Ambiente.
-Los datos de temperatura, viento y humedad proceden de la Agencia Estatal de Meteorolog韆. Las dos primeras variables se consiguieron de su portal Open Data; la humedad fue obtenida tras una petici髇 de informaci髇. Para cruzar los valores meteorol骻icos con los grandes incendios forestales se tomaron los valores registrados en las estaciones climatol骻icas m醩 cercanas al municipio de origen del fuego en su fecha de inicio.
+Esta informaci贸n sobre incendios se ha utilizado para elaborar este reportaje en El Confidencial: 
+
+Los datos se obtuvieron de Espa帽a en llamas, que anualmente trata y analiza los publicados por la Estad铆stica General de Incendios Forestales del Ministerio de Agricultura y Pesca, Alimentaci贸n y Medio Ambiente.
+Los datos de temperatura, viento y humedad proceden de la Agencia Estatal de Meteorolog铆a. Las dos primeras variables se consiguieron de su portal Open Data; la humedad fue obtenida tras una petici贸n de informaci贸n. Para cruzar los valores meteorol贸gicos con los grandes incendios forestales se tomaron los valores registrados en las estaciones climatol贸gicas m谩s cercanas al municipio de origen del fuego en su fecha de inicio.
