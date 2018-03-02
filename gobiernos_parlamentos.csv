@@ -1,0 +1,75 @@
+nombre;poder;sexo;numero;fecha_consulta
+Gobierno;Ejecutivo;Hombres;9;13/02/2018
+Gobierno;Ejecutivo;Mujeres;5;13/02/2018
+Congreso de los Diputados;Legislativo;Hombres;206;13/02/2018
+Congreso de los Diputados;Legislativo;Mujeres;144;13/02/2018
+Senado;Legislativo;Hombres;169;13/02/2018
+Senado;Legislativo;Mujeres;97;13/02/2018
+Andalucía;Ejecutivo;Hombres;8;13/02/2018
+Andalucía;Ejecutivo;Mujeres;6;13/02/2018
+Andalucía;Legislativo;Hombres;50;13/02/2018
+Andalucía;Legislativo;Mujeres;59;13/02/2018
+Aragón;Ejecutivo;Hombres;6;13/02/2018
+Aragón;Ejecutivo;Mujeres;4;13/02/2018
+Aragón;Legislativo;Hombres;36;13/02/2018
+Aragón;Legislativo;Mujeres;31;13/02/2018
+Asturias;Ejecutivo;Hombres;6;13/02/2018
+Asturias;Ejecutivo;Mujeres;3;13/02/2018
+Asturias;Legislativo;Hombres;24;13/02/2018
+Asturias;Legislativo;Mujeres;21;13/02/2018
+Baleares;Ejecutivo;Hombres;4;13/02/2018
+Baleares;Ejecutivo;Mujeres;7;13/02/2018
+Baleares;Legislativo;Hombres;31;13/02/2018
+Baleares;Legislativo;Mujeres;28;13/02/2018
+Canarias;Ejecutivo;Hombres;7;13/02/2018
+Canarias;Ejecutivo;Mujeres;4;13/02/2018
+Canarias;Legislativo;Hombres;30;13/02/2018
+Canarias;Legislativo;Mujeres;30;13/02/2018
+Cantabria;Ejecutivo;Hombres;7;13/02/2018
+Cantabria;Ejecutivo;Mujeres;2;13/02/2018
+Cantabria;Legislativo;Hombres;21;13/02/2018
+Cantabria;Legislativo;Mujeres;14;13/02/2018
+Castilla y León;Ejecutivo;Hombres;6;13/02/2018
+Castilla y León;Ejecutivo;Mujeres;4;13/02/2018
+Castilla y León;Legislativo;Hombres;50;13/02/2018
+Castilla y León;Legislativo;Mujeres;34;13/02/2018
+Castilla-La Mancha;Ejecutivo;Hombres;7;13/02/2018
+Castilla-La Mancha;Ejecutivo;Mujeres;4;13/02/2018
+Castilla-La Mancha;Legislativo;Hombres;18;13/02/2018
+Castilla-La Mancha;Legislativo;Mujeres;15;13/02/2018
+Cataluña;Ejecutivo;Hombres;;
+Cataluña;Ejecutivo;Mujeres;;
+Cataluña;Legislativo;Hombres;77;13/02/2018
+Cataluña;Legislativo;Mujeres;58;13/02/2018
+Comunidad Valenciana;Ejecutivo;Hombres;5;13/02/2018
+Comunidad Valenciana;Ejecutivo;Mujeres;5;13/02/2018
+Comunidad Valenciana;Legislativo;Hombres;55;13/02/2018
+Comunidad Valenciana;Legislativo;Mujeres;44;13/02/2018
+Extremadura;Ejecutivo;Hombres;3;13/02/2018
+Extremadura;Ejecutivo;Mujeres;4;13/02/2018
+Extremadura;Legislativo;Hombres;37;13/02/2018
+Extremadura;Legislativo;Mujeres;28;13/02/2018
+Galicia;Ejecutivo;Hombres;7;13/02/2018
+Galicia;Ejecutivo;Mujeres;4;13/02/2018
+Galicia;Legislativo;Hombres;41;13/02/2018
+Galicia;Legislativo;Mujeres;34;13/02/2018
+Madrid;Ejecutivo;Hombres;6;13/02/2018
+Madrid;Ejecutivo;Mujeres;3;13/02/2018
+Madrid;Legislativo;Hombres;69;13/02/2018
+Madrid;Legislativo;Mujeres;60;13/02/2018
+Murcia;Ejecutivo;Hombres;7;13/02/2018
+Murcia;Ejecutivo;Mujeres;3;13/02/2018
+Murcia;Legislativo;Hombres;28;13/02/2018
+Murcia;Legislativo;Mujeres;17;13/02/2018
+Navarra;Ejecutivo;Hombres;4;13/02/2018
+Navarra;Ejecutivo;Mujeres;6;13/02/2018
+Navarra;Legislativo;Hombres;24;13/02/2018
+Navarra;Legislativo;Mujeres;26;13/02/2018
+País Vasco;Ejecutivo;Hombres;7;13/02/2018
+País Vasco;Ejecutivo;Mujeres;5;13/02/2018
+País Vasco;Legislativo;Hombres;35;13/02/2018
+País Vasco;Legislativo;Mujeres;40;13/02/2018
+La Rioja;Ejecutivo;Hombres;6;13/02/2018
+La Rioja;Ejecutivo;Mujeres;3;13/02/2018
+La Rioja;Legislativo;Hombres;17;13/02/2018
+La Rioja;Legislativo;Mujeres;14;13/02/2018
