@@ -1,4 +1,4 @@
-<p>Puntuaciones de los capítulos de las siguientes series extraídas de la web IMBD</p>
+<p>Puntuaciones de los capítulos de las siguientes series extraídas de la web IMDB</p>
 
 <ul>
 	<li>The Walking Dead</li>
