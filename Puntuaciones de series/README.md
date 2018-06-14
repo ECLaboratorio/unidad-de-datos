@@ -1,4 +1,4 @@
-Puntuaciones de los capítulos de las siguientes series extraídas de la web IMBD
+<p>Puntuaciones de los capítulos de las siguientes series extraídas de la web IMBD</p>
 
 <ul>
 	<li>The Walking Dead</li>
@@ -17,3 +17,5 @@ Puntuaciones de los capítulos de las siguientes series extraídas de la web IMB
 	<li>House of Cards</li>
 	<li>Perdidos</li>
 </ul>
+
+<p>Estos datos se han utilizado para elaborar <a href="https://blogs.elconfidencial.com/cultura/series/desde-melmac/2018-06-14/series-juego-de-tronos-capitulos-calidad_1578297/">este artículo</a> en El Confidencial.</p>
