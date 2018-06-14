@@ -18,4 +18,4 @@
 	<li>Perdidos</li>
 </ul>
 
-<p>Estos datos se han utilizado para elaborar <a target="__blank" href="https://blogs.elconfidencial.com/cultura/series/desde-melmac/2018-06-14/series-juego-de-tronos-capitulos-calidad_1578297/">este artículo</a> en El Confidencial.</p>
+<p>Estos datos se han utilizado para elaborar <a target="_blank" href="https://blogs.elconfidencial.com/cultura/series/desde-melmac/2018-06-14/series-juego-de-tronos-capitulos-calidad_1578297/">este artículo</a> en El Confidencial.</p>
