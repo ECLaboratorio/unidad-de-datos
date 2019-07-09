@@ -8,13 +8,16 @@ Para cualquier duda, escribe a datos@elconfidencial.com
 <table>
 	<thead>
 		<tr>
-			<th>Dataset</th><th>Tema</th><th>Fecha</th>
+			<th>Dataset</th><th>Formato</th><th>Tema</th><th>Fecha</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
 				<a href="https://raw.githubusercontent.com/ECLaboratorio/unidad-de-datos/master/bases-de-datos/ministros-en-fundaciones/ministro_fundaciones.tsv">ministros-en-fundaciones</a>
+			</td>
+			<td>
+				TSV
 			</td>
 			<td>
 				<a href="https://www.elconfidencial.com/espana/2019-07-09/politicos-fundaciones-lobby-ministros_2096406">Hacer política tras dejar la política: el 61% de los exministros ocupa cargos en fundaciones</a>
