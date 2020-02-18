@@ -1,0 +1,313 @@
+---
+title: "Resumen datos generales"
+author: "Jesús Escudero"
+date: "5/2/2020"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+Los [microdatos](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&secc=1254736030639&idp=1254735976595) corresponden a todos los trimestres de la Encuesta de Población ACtiva, publicada por el INE, entre 2005 y 2019, ambos años inclusive. La forma de unir, combinar y filtrar los microdatos para tener sólo los microdatos de encuestas correspondientes a los ocupados se encuentra detallados en los scripts **01_importar_combinar_datos.R** y **02_filtrar_datos_ocupados.R** alojados en la carpeta **scripts/scripts/**. 
+
+Por tanto, este informe-resumen se centra en los microdatos correspondientes a los ocupados de la EPA de 2005 a 2019 a partir del archivo **datos/output/ocupados_con_flujos.csv**.
+
+Hay que tener en cuenta que el número de ocupados que publica la EPA están calculados en base a la **provincia donde está ubicada la vivienda**, no a la provincia donde está ubicado el puesto de trabajo.
+
+```{r introducción, warning=F, message=F, echo=T}
+# Cargar librerías
+library(tidyverse)
+library(lubridate)
+library(DT)
+library(ggplot2)
+
+# Set working directory original
+setwd("C:/Users/jescudero/Desktop/proyectos_r/Grandes Proyectos/microdatos_epa/")
+
+# Importar datos
+datos <- read_csv("datos/output/ocupados_con_flujos_trimestres.csv")
+```
+
+## % trabajadores que viven en otra provincia de la que trabajan
+
+El número y porcentaje de trabajadores que viven en un provincia diferente de la que trabajan han tocado techo en 2019, con una media anual de **628.500 trabajadores** (sobre un total de 19,78 millones), situándose en el 3,18%. El repunte ha sido significativo a partir de 2015.
+
+```{r evolución nacional, warning=F, message=F, echo=F}
+ocupados_totales <- datos %>% 
+  group_by(trimestre, ano) %>% 
+  summarise(total_ocupados=sum(factorel)) %>% 
+  group_by(ano) %>% 
+  summarise(media_anual_total=mean(total_ocupados))
+
+ocupados_otras_provincias <- datos %>% 
+  filter(flujo=="Diferente") %>% 
+  group_by(trimestre, ano) %>% 
+  summarise(otras_provincias=sum(factorel)) %>% 
+  group_by(ano) %>% 
+  summarise(media_anual_otras=mean(otras_provincias))
+
+otras_provincias <- left_join(ocupados_otras_provincias, ocupados_totales,
+                              by = "ano")
+
+otras_provincias <- otras_provincias %>% 
+  mutate(pct_provincias=round(media_anual_otras/media_anual_total*100,2))
+
+ggplot(otras_provincias,
+       aes(x=ano, y=pct_provincias)) +
+  geom_line(size=1.5, color="#EA5B65") +
+  scale_x_continuous(breaks = seq(2005,2019,4), limits = c(2005,2019)) +
+  scale_y_continuous(breaks = seq(2.2,3.4,0.4), limits = c(2.2,3.4)) +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 16, face = "bold"),
+        axis.text = element_text(size=11),
+        axis.title = element_text(size=14)) +
+  labs(x="", y="")
+```
+
+*Las siguientes tablas son descargables a través de los botones que aparecen en su encabezado*
+
+## Provincias (en función del lugar de trabajo) con mayor porcentaje de trabajadores que viven en otras provincias
+
+```{r provincias trabajo pct, warning=F, message=F, echo=F}
+provincias_ocupados_totales <- datos %>% 
+  group_by(provincia_trabajo, trimestre, ano) %>% 
+  summarise(total_ocupados=sum(factorel)) %>% 
+  group_by(provincia_trabajo, ano) %>% 
+  summarise(media_anual_total=mean(total_ocupados))
+
+provincias_ocupados_otras_provincias <- datos %>% 
+  filter(flujo=="Diferente") %>% 
+  group_by(provincia_trabajo, trimestre, ano) %>% 
+  summarise(otras_provincias=sum(factorel)) %>% 
+  group_by(provincia_trabajo, ano) %>% 
+  summarise(media_anual_otras=mean(otras_provincias))
+
+provincias_otras <- left_join(provincias_ocupados_otras_provincias, provincias_ocupados_totales,
+                              by = c("provincia_trabajo", "ano"))
+
+provincias_otras_pct <- provincias_otras %>% 
+  mutate(pct_otras_provincias=round(media_anual_otras/media_anual_total*100,2)) %>%
+  select(-c(media_anual_total, media_anual_otras)) %>% 
+  pivot_wider(names_from = ano, values_from = pct_otras_provincias)
+
+datatable(provincias_otras_pct, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Provincias (en función del lugar de trabajo) con más trabajadores que viven en otras provincias
+
+```{r provincias trabajo absoluto, warning=F, message=F, echo=F}
+provincias_ocupados_otras_absolutos <- datos %>% 
+  filter(flujo=="Diferente") %>% 
+  group_by(provincia_trabajo, trimestre, ano) %>% 
+  summarise(otras_provincias=sum(factorel)) %>% 
+  group_by(provincia_trabajo, ano) %>% 
+  summarise(media_anual_otras=round(mean(otras_provincias),0)) %>% 
+  pivot_wider(names_from = ano, values_from = media_anual_otras)
+
+datatable(provincias_ocupados_otras_absolutos, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Provincias (en función del lugar de la vivienda) con mayor porcentaje de trabajadores que trabajan en otras provincias
+
+```{r provincias vivienda pct, warning=F, message=F, echo=F}
+provincias_ocupados_viviendas_total <- datos %>% 
+  group_by(provincia_vivienda, trimestre, ano) %>% 
+  summarise(total_ocupados=sum(factorel)) %>% 
+  group_by(provincia_vivienda, ano) %>% 
+  summarise(media_anual_total=mean(total_ocupados))
+
+provincias_ocupados_viviendas_otras <- datos %>% 
+  filter(flujo=="Diferente") %>% 
+  group_by(provincia_vivienda, trimestre, ano) %>% 
+  summarise(otras_provincias=sum(factorel)) %>% 
+  group_by(provincia_vivienda, ano) %>% 
+  summarise(media_anual_otras=mean(otras_provincias))
+
+provincias_viviendas_otras <- left_join(provincias_ocupados_viviendas_otras, provincias_ocupados_viviendas_total,
+                              by = c("provincia_vivienda", "ano"))
+
+provincias_viviendas_pct <- provincias_viviendas_otras %>% 
+  mutate(pct_otras_provincias=round(media_anual_otras/media_anual_total*100,2)) %>%
+  select(-c(media_anual_total, media_anual_otras)) %>% 
+  pivot_wider(names_from = ano, values_from = pct_otras_provincias)
+
+datatable(provincias_viviendas_pct, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Provincias (en función del lugar de la vivienda) con más ocupados que trabajan en otras provincias
+
+```{r provincias vivienda absoluto, warning=F, message=F, echo=F}
+provincias_ocupados_viviendas_otras_absolutos <- datos %>% 
+  filter(flujo=="Diferente") %>% 
+  group_by(provincia_vivienda, trimestre, ano) %>% 
+  summarise(otras_provincias=sum(factorel)) %>% 
+  group_by(provincia_vivienda, ano) %>% 
+  summarise(media_anual_otras=round(mean(otras_provincias),0)) %>% 
+  pivot_wider(names_from = ano, values_from = media_anual_otras)
+
+datatable(provincias_ocupados_viviendas_otras_absolutos, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Diferencia puestos de trabajo menos ocupados de cada provincia
+
+```{r puestos trabajo ocupados abs, warning=F, message=F, echo=F}
+provincias_viviendas <- datos %>% 
+  group_by(provincia_vivienda, trimestre, ano) %>% 
+  summarise(ocupados=sum(factorel)) %>% 
+  group_by(provincia_vivienda, ano) %>% 
+  summarise(ocupados_anual=mean(ocupados))
+
+provincias_trabajo <- datos %>% 
+  group_by(provincia_trabajo, trimestre, ano) %>% 
+  summarise(puestos_trabajo=sum(factorel)) %>% 
+  group_by(provincia_trabajo, ano) %>% 
+  summarise(puestos_trabajo_anual=round(mean(puestos_trabajo)))
+
+
+provincias_conjuntas <- left_join(provincias_viviendas, provincias_trabajo,
+                                  by = c("provincia_vivienda"="provincia_trabajo", "ano"))
+
+provincias_conjuntas <- provincias_conjuntas %>% 
+  mutate(diferencia_abs=round(puestos_trabajo_anual-ocupados_anual,0)) %>% 
+  select(-c("ocupados_anual", "puestos_trabajo_anual")) %>% 
+  pivot_wider(names_from = ano, values_from = diferencia_abs)
+
+datatable(provincias_conjuntas, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Diferencia puestos de trabajo menos ocupados de cada provincia (en %)
+
+```{r puestos trabajo ocupados pct, warning=F, message=F, echo=F}
+provincias_viviendas2 <- datos %>% 
+  group_by(provincia_vivienda, trimestre, ano) %>% 
+  summarise(ocupados=sum(factorel)) %>% 
+  group_by(provincia_vivienda, ano) %>% 
+  summarise(ocupados_anual=mean(ocupados))
+
+provincias_trabajo2 <- datos %>% 
+  group_by(provincia_trabajo, trimestre, ano) %>% 
+  summarise(puestos_trabajo=sum(factorel)) %>% 
+  group_by(provincia_trabajo, ano) %>% 
+  summarise(puestos_trabajo_anual=mean(puestos_trabajo))
+
+
+provincias_conjuntas2 <- left_join(provincias_viviendas2, provincias_trabajo2,
+                                  by = c("provincia_vivienda"="provincia_trabajo", "ano"))
+
+provincias_conjuntas2 <- provincias_conjuntas2 %>% 
+  mutate(diferencia_pct=round(((puestos_trabajo_anual-ocupados_anual)/ocupados_anual*100),1)) %>% 
+  select(-c("ocupados_anual", "puestos_trabajo_anual")) %>% 
+  pivot_wider(names_from = ano, values_from = diferencia_pct)
+
+datatable(provincias_conjuntas2, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Flujos de puestos de trabajo procedentes de otras provincias (en % sobre el total)
+
+```{r flujos puestos trabajo pct, warning=F, message=F, echo=F}
+provincias_trabajo <- datos %>% 
+  group_by(provincia_trabajo, trimestre, ano) %>% 
+  summarise(puestos_trabajo=sum(factorel)) %>% 
+  group_by(provincia_trabajo, ano) %>% 
+  summarise(puestos_trabajo_anual=mean(puestos_trabajo))
+
+otras_provincias_vivienda <- datos %>% 
+  group_by(provincia_trabajo, provincia_vivienda, trimestre, ano) %>% 
+  summarise(ocupados=sum(factorel)) %>% 
+  group_by(provincia_trabajo, provincia_vivienda, ano) %>% 
+  summarise(ocupados_anual=round(mean(ocupados)))
+
+provincias_conjuntas <- left_join(provincias_trabajo, otras_provincias_vivienda,
+                                  by = c("provincia_trabajo", "ano"))
+
+provincias_conjuntas2 <- provincias_conjuntas %>% 
+  mutate(otras_prov_pct=round(ocupados_anual/puestos_trabajo_anual*100,1)) %>% 
+  filter(provincia_vivienda!=provincia_trabajo) %>% 
+  select(provincia_trabajo, provincia_vivienda, ano, otras_prov_pct) %>% 
+  pivot_wider(names_from = ano, values_from = otras_prov_pct)
+
+datatable(provincias_conjuntas2, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Flujos de provincia de residencia a provincia de trabajo (en % sobre el total)
+
+```{r flujos provincias pct, warning=F, message=F, echo=F}
+provincias_viviendas <- datos %>% 
+  group_by(provincia_vivienda, trimestre, ano) %>% 
+  summarise(ocupados=sum(factorel)) %>% 
+  group_by(provincia_vivienda, ano) %>% 
+  summarise(ocupados_anual=mean(ocupados))
+
+otras_provincias_trabajo <- datos %>% 
+  group_by(provincia_vivienda, provincia_trabajo, trimestre, ano) %>% 
+  summarise(puestos_trabajo=sum(factorel)) %>% 
+  group_by(provincia_vivienda, provincia_trabajo, ano) %>% 
+  summarise(puestos_trabajo_anual=round(mean(puestos_trabajo)))
+
+provincias_conjuntas <- left_join(provincias_viviendas, otras_provincias_trabajo,
+                                  by = c("provincia_vivienda", "ano"))
+
+provincias_conjuntas2 <- provincias_conjuntas %>% 
+  mutate(otras_prov_pct=round(puestos_trabajo_anual/ocupados_anual*100,1)) %>% 
+  filter(provincia_vivienda!=provincia_trabajo) %>% 
+  select(provincia_vivienda, provincia_trabajo, ano, otras_prov_pct) %>% 
+  pivot_wider(names_from = ano, values_from = otras_prov_pct)
+
+datatable(provincias_conjuntas2, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
+
+## Flujos de provincia de residencia a provincia de trabajo (en absolutos)
+
+```{r flujos provincias abs, warning=F, message=F, echo=F}
+flujos_provincias_trabajo <- datos %>% 
+  group_by(provincia_vivienda, provincia_trabajo, trimestre, ano) %>% 
+  summarise(ocupados=sum(factorel)) %>% 
+  group_by(provincia_vivienda, provincia_trabajo, ano) %>% 
+  summarise(ocupados_anual=round(mean(ocupados))) %>% 
+  filter(provincia_vivienda!=provincia_trabajo) %>% 
+  pivot_wider(names_from = ano, values_from = ocupados_anual)
+
+datatable(flujos_provincias_trabajo, extensions = 'Buttons', options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  )
+)
+```
