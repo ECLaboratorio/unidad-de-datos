@@ -1,0 +1,8 @@
+# Análisis de los microdatos de la EPA 2005-2019
+El especial [La gran migración diaria](https://www.elconfidencial.com/economia/2020-02-16/gran-migracion-diaria-trabajadores-provincias-epa_2453516/), publicado en febrero de 2020 en El Confidencial, es el resultado del análisis de los [microdatos de la Encuesta de Población Activa](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&secc=1254736030639&idp=1254735976595) que cada trimestre publica el Instituto Nacional de Estadística (INE).
+
+Los archivos originales se pueden descargar en este [link](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&secc=1254736030639&idp=1254735976595) y, tras crear una nueva carpeta de datos en el repositorio, guardarlos por trimestres para la unión de los archivos de microdatos que se detalla en el primer script. Otra opción para la descarga de los archivos originales es acudir al [FTP del INE](ftp://www.ine.es/temas/epa/), donde se encuentran comprimidos en .zip.
+
+Este repositorio contiene los scripts que detallan la metodología empleada y los procesos ejecutados en R para el análisis de los datos, además de un informe creado con R Markdown donde se publican los principales datos por provincias.
+
+os encantaría leer sugerencias de mejoras de scripts y reportajes, publicaciones o papers que tengan como fuente original estos datos. Para todo ello, puedes contactar con **[datos@elconfidencial.com](mailto:datos@elconfidencial.com)**.
