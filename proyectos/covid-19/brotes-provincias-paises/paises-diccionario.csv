@@ -1,0 +1,255 @@
+iso3;pais;pais_esp;lat_pais;long_pais;poblacion
+AFG;Afghanistan;Afganistán;33.677;65.216;37172386
+ALA;Åland Islands;Islas Åland;60.198;19.952;#N/A
+ALB;Albania;Albania;41.143;20.068;2866376
+DZA;Algeria;Argelia;28.163;2.632;42228429
+ASM;American Samoa;Samoa Americana;-14.318;-170.73;55465
+AND;Andorra;Andorra;42.549;1.576;77006
+AGO;Angola;Angola;-12.296;17.544;30809762
+AIA;Anguilla;Anguila;18.237;-63.032;#N/A
+ATA;Antarctica;Antártida;-80.446;21.304;#N/A
+ATG;Antigua and Barbuda;Antigua y Barbuda;17.078;-61.783;96286
+ARG;Argentina;Argentina;-35.377;-65.167;44494502
+ARM;Armenia;Armenia;40.534;44.563;2951776
+ABW;Aruba;Aruba;12.517;-69.977;105845
+AUS;Australia;Australia;-24.973;136.189;24992369
+AUT;Austria;Austria;47.683;14.912;8847037
+AZE;Azerbaijan;Azerbaiyán;40.43;47.395;9942334
+BHS;The Bahamas;Bahamas;24.628;-78.014;385640
+BHR;Bahrain;Bahrein;26.019;50.562;1569439
+BGD;Bangladesh;Bangladesh;24.218;89.941;161356039
+BRB;Barbados;Barbados;13.153;-59.559;286641
+BLR;Belarus;Bielorrusia;53.54;28.047;9485386
+BEL;Belgium;Bélgica;50.643;4.664;11422068
+BLZ;Belize;Belice;17.219;-88.602;383071
+BEN;Benin;Benín;10.541;2.469;11485048
+BMU;Bermuda;Bermudas;32.336;-64.709;63968
+BTN;Bhutan;Bután;27.415;90.429;754394
+BOL;Bolivia;Bolivia;-16.715;-64.671;11353142
+BIH;Bosnia and Herzegovina;Bosnia-Herzegovina;44.169;17.786;3323929
+BWA;Botswana;Botsuana;-22.182;23.815;2254126
+BVT;Bouvet Island;Isla Bouvet;-54.422;3.412;#N/A
+BRA;Brazil;Brasil;-10.772;-53.089;209469333
+IOT;British Indian Ocean Territory;Territorio Británico del Océano Índico;-7.335;72.416;#N/A
+VGB;British Virgin Islands;Islas Vírgenes Británicas;18.483;-64.39;29802
+BRN;Brunei;Brunei;4.468;114.591;428962
+BGR;Bulgaria;Bulgaria;42.761;25.231;7024216
+BFA;Burkina Faso;Burkina Faso;12.278;-1.74;19751535
+BDI;Burundi;Burundi;-3.356;29.887;11175378
+KHM;Cambodia;Camboya;12.714;104.564;16249798
+CMR;Cameroon;Camerún;5.133;12.277;25216237
+CAN;Canada;Canadá;59.081;-109.433;37058856
+CPV;Cape Verde;Cabo Verde;15.071;-23.634;543767
+CYM;Cayman Islands;Islas Caimán;19.314;-81.198;64174
+CAF;Central African Republic;República Centroafricana;6.571;20.483;4666377
+TCD;Chad;Chad;15.361;18.665;15477751
+CHL;Chile;Chile;-23.389;-69.433;18729160
+CHN;China;China;33.42;106.514;1392730000
+CXR;Christmas Island;Isla de Navidad;-10.444;105.704;#N/A
+CCK;Cocos (Keeling) Islands;Islas Cocos;-12.173;96.839;#N/A
+COL;Colombia;Colombia;3.9;-73.076;49648685
+COM;Comoros;Comoras;-11.758;43.337;832322
+COD;Congo (Kinshasa);Congo (Kinshasa);-2.876;23.654;84068091
+COG;Republic of the Congo;Congo (Brazzaville);-0.055;15.986;5244363
+COG;Congo (Brazzaville);Congo (Brazzaville);-0.055;15.986;5244363
+COK;Cook Islands;Islas Cook;-21.219;-159.782;#N/A
+CRI;Costa Rica;Costa Rica;9.971;-83.946;4999441
+CIV;Cote d'Ivoire;Costa de Marfil;7.632;-5.556;25069229
+HRV;Croatia;Croacia;45.723;16.693;4089400
+;Cruise Ship;Crucero de Japón;35.4437;139.638;
+CUB;Cuba;Cuba;21.297;-77.781;11338138
+CYP;Cyprus;Chipre;35.043;33.219;1189265
+CZE;Czechia;República Checa;49.743;15.338;10625695
+DNK;Denmark;Dinamarca;56.058;9.264;5797446
+DJI;Djibouti;Yibuti;11.9;42.516;958920
+DMA;Dominica;Dominica;15.475;-61.356;71625
+DOM;Dominican Republic;República Dominicana;19.015;-70.729;10627165
+ECU;Ecuador;Ecuador;-1.385;-78.497;17084357
+EGY;Egypt;Egipto;26.494;29.872;98423595
+SLV;El Salvador;El Salvador;13.736;-88.866;6420744
+GNQ;Equatorial Guinea;Guinea Ecuatorial;1.607;10.488;1308974
+ERI;Eritrea;Eritrea;16.045;38.219;0
+EST;Estonia;Estonia;58.674;25.793;1320884
+ETH;Ethiopia;Etiopía;8.626;39.616;109224559
+FLK;Falkland Islands (Malvinas);Islas Malvinas;-51.665;-58.694;#N/A
+FRO;Faroe Islands;Islas Feroe;62.05;-6.864;48497
+FJI;Fiji;Fiyi;-17.819;177.974;883483
+FIN;Finland;Finlandia;64.504;26.272;5518050
+FRA;France;Francia;46.565;2.55;66987244
+GUF;French Guiana;Guayana Francesa;3.924;-53.241;#N/A
+;French Guiana;Guayana Francesa;3.9339;-53.1258;268700
+PYF;French Polynesia;Polinesia Francesa;-17.626;-149.462;277679
+ATF;French Southern and Antarctic Lands;Tierras Australes y Antárticas Francesas;-49.302;69.117;#N/A
+GAB;Gabon;Gabón;-0.591;11.797;2119275
+GMB;Gambia;Gambia;13.453;-15.386;2280102
+GEO;Georgia;Georgia;42.176;43.518;3731000
+DEU;Germany;Alemania;51.11;9.851;82927922
+GHA;Ghana;Ghana;7.96;-1.207;29767108
+GIB;Gibraltar;Gibraltar;36.138;-5.345;33718
+GRC;Greece;Grecia;39.666;21.766;10727668
+GRL;Greenland;Groenlandia;74.719;-41.391;56025
+GRD;Grenada;Granada;12.118;-61.678;111454
+GLP;Guadeloupe;Guadalupe;16.286;-61.441;#N/A
+GUM;Guam;Guam;13.385;144.707;165768
+GTM;Guatemala;Guatemala;15.256;-90.398;17247807
+GGY;Guernsey;Guernsey;49.459;-2.576;#N/A
+GIN;Guinea;Guinea;10.439;-10.942;12414318
+GNB;Guinea-Bissau;Guinea-Bisáu;12.125;-14.651;1874309
+GUY;Guyana;Guyana;4.792;-58.974;779004
+HTI;Haiti;Haití;19.142;-72.278;11123176
+HMD;Heard Island and McDonald Islands;Islas Heard y McDonald;-53.111;73.507;#N/A
+VAT;Holy See;Ciudad del Vaticano;41.904;12.451;#N/A
+HND;Honduras;Honduras;14.819;-86.863;9587522
+HKG;Hong Kong;Hong Kong;22.423;114.129;7451000
+HUN;Hungary;Hungría;47.07;19.134;9768785
+ISL;Iceland;Islandia;64.764;-18.48;353574
+IND;India;India;21;78.5;1352617328
+IDN;Indonesia;Indonesia;-0.976;114.252;267663435
+IRN;Iran;Irán;32.565;54.301;81800269
+IRQ;Iraq;Irak;33.048;43.772;38433600
+IRL;Ireland;Irlanda;53.177;-8.152;4853506
+IMN;Isle of Man;Isla de Man;54.229;-4.527;84077
+ISR;Israel;Israel;31.026;34.851;8883800
+ITA;Italy;Italia;42.7;12.8;60431283
+JAM;Jamaica;Jamaica;18.151;-77.32;2934855
+JPN;Japan;Japón;36.491;139.068;126529100
+JEY;Jersey;Jersey;49.219;-2.129;#N/A
+JOR;Jordan;Jordania;30.703;36.319;9956011
+KAZ;Kazakhstan;Kazajistán;48.16;67.301;18276499
+KEN;Kenya;Kenia;0.53;37.858;51393010
+KIR;Kiribati;Kiribati;-1.508;175.036;115847
+PRK;Korea, Dem. People’s Rep.;Corea del Norte;39.778;126.451;25549819
+KOR;Korea, South;Corea del Sur;36.504;128.103;51635256
+OWID_KOS;Kosovo;Kosovo;42.516245;20.87686;
+KWT;Kuwait;Kuwait;29.476;47.376;4137309
+KGZ;Kyrgyzstan;Kirguistán;41.465;74.555;6315800
+LAO;Lao PDR;Laos;19.905;102.471;7061507
+LVA;Latvia;Letonia;56.858;25.641;1926542
+LBN;Lebanon;Líbano;33.92;35.888;6848925
+LSO;Lesotho;Lesotho;-29.581;28.243;2108132
+LBR;Liberia;Liberia;6.682;-9.657;4818977
+LBY;Libya;Libia;27.044;18.023;6678567
+LIE;Liechtenstein;Liechtenstein;47.153;9.555;37910
+LTU;Lithuania;Lituania;55.336;23.897;2789533
+LUX;Luxembourg;Luxemburgo;49.771;6.088;607728
+MAC;Macao SAR;Macao;22.2;113.545;631636
+MDG;Madagascar;Madagascar;-19.374;46.706;26262368
+MWI;Malawi;Malaui;-13.4;33.808;18143315
+MYS;Malaysia;Malasia;4.201;102.195;31528585
+MDV;Maldives;Maldivas;3.548;72.92;515696
+MLI;Mali;Mali;17.35;-3.524;19077690
+MLT;Malta;Malta;35.89;14.442;483530
+MHL;Marshall Islands;Islas Marshall;7.595;168.963;58413
+MTQ;Martinique;Martinica;14.653;-61.021;#N/A
+MRT;Mauritania;Mauritania;20.26;-10.332;4403319
+MUS;Mauritius;Mauricio;-20.255;57.583;1265303
+MYT;Mayotte;Mayotte;-12.777;45.155;#N/A
+MEX;Mexico;México;23.951;-102.535;126190788
+FSM;Micronesia, Federated States of;Estados Federados de Micronesia;6.883;158.235;112640
+MDA;Moldova;Moldavia;47.193;28.599;3545883
+MCO;Monaco;Mónaco;43.75;7.412;38682
+MNG;Mongolia;Mongolia;46.056;102.876;3170208
+MNE;Montenegro;Montenegro;42.792;19.254;622345
+MSR;Montserrat;Montserrat;16.736;-62.187;#N/A
+MAR;Morocco;Marruecos;32.706;-5.758;36029138
+MOZ;Mozambique;Mozambique;-14.422;37.923;29495962
+MMR;Myanmar;Myanmar;21.718;96.041;53708395
+NAM;Namibia;Namibia;-22.133;17.218;2448255
+NRU;Nauru;Nauru;-0.522;166.93;12704
+NPL;Nepal;Nepal;28.253;83.939;28087871
+NLD;Netherlands;Países Bajos;52.077;5.389;17231017
+ANT;Netherlands Antilles;Antillas Neerlandesas;12.123;-68.87;#N/A
+NCL;New Caledonia;Nueva Caledonia;-21.359;165.447;284060
+NZL;New Zealand;Nueva Zelanda;-42.634;172.235;4885500
+NIC;Nicaragua;Nicaragua;12.84;-85.034;6465513
+NER;Niger;Níger;17.426;9.398;22442948
+NGA;Nigeria;Nigeria;9.594;8.105;195874740
+NIU;Niue;Niue;-19.052;-169.869;#N/A
+NFK;Norfolk Island;Isla Norfolk;-29.037;167.953;#N/A
+MKD;North Macedonia;Macedonia del Norte;41.6;21.698;2082958
+MNP;Northern Mariana Islands;Islas Marianas del Norte;15.005;145.623;56882
+NOR;Norway;Noruega;61.152;8.74;5314336
+OMN;Oman;Omán;21.656;57.407;4829483
+;Others;Otros;35.4437;139.638;
+PAK;Pakistan;Pakistán;29.967;69.386;212215030
+PLW;Palau;Palaos;7.501;134.57;17907
+PSE;occupied Palestinian territory;Territorios Palestinos;32.037;35.278;4569087
+PAN;Panama;Panamá;8.384;-80.92;4176873
+PNG;Papua New Guinea;Papúa Nueva Guinea;-5.949;143.459;8606316
+PRY;Paraguay;Paraguay;-23.236;-58.391;6956071
+PER;Peru;Perú;-9.326;-75.552;31989256
+PHL;Philippines;Filipinas;11.118;122.466;106651922
+PCN;Pitcairn Islands;Islas Pitcairn;-24.366;-128.316;#N/A
+POL;Poland;Polonia;52.125;19.401;37978548
+PRT;Portugal;Portugal;40.309;-8.058;10281762
+PRI;Puerto Rico;Puerto Rico;18.221;-66.466;3195153
+QAT;Qatar;Qatar;25.316;51.191;2781677
+REU;Reunion;Isla Reunión;-21.122;55.538;#N/A
+ROU;Romania;Rumanía;45.844;24.969;19473936
+RUS;Russia;Rusia;61.988;96.689;144478050
+RWA;Rwanda;Ruanda;-1.998;29.917;12301939
+BLM;Saint Barthelemy;San Bartolomé;18.04;-63.043;#N/A
+SHN;Saint Helena;Santa Helena;-15.953;-5.71;#N/A
+KNA;Saint Kitts and Nevis;San Cristóbal y Nieves;17.34;-62.769;52441
+LCA;Saint Lucia;Santa Lucía;13.898;-60.969;181889
+MAF;Saint Martin;San Martín;18.094;-63.041;37264
+SPM;Saint Pierre and Miquelon;San Pedro y Miquelón;47.042;-56.325;#N/A
+VCT;Saint Vincent and the Grenadines;San Vicente y las Granadinas;13.248;-61.194;110210
+WSM;Samoa;Samoa;-13.652;-172.414;196130
+SMR;San Marino;San Marino;43.942;12.46;33785
+STP;Sao Tome and Principe;Santo Tomé y Príncipe;0.201;6.629;211028
+SAU;Saudi Arabia;Arabia Saudí;24.023;44.585;33699947
+SEN;Senegal;Senegal;15.013;-14.881;15854360
+SRB;Serbia;Serbia;44.032;20.806;6982084
+SYC;Seychelles;Seychelles;-4.647;55.474;96762
+SLE;Sierra Leone;Sierra Leona;8.56;-11.792;7650154
+SGP;Singapore;Singapur;1.351;103.808;5638676
+SVK;Slovakia;Eslovaquia;48.707;19.491;5447011
+SVN;Slovenia;Eslovenia;46.124;14.827;2067372
+SLB;Solomon Islands;Islas Salomón;-9.611;160.109;652858
+SOM;Somalia;Somalia;9.774;48.316;15008154
+ZAF;South Africa;Sudáfrica;-30.558;23.121;57779622
+SGS;South Georgia South Sandwich Islands;Islas Georgias del Sur y Sandwich del Sur;-54.209;-36.891;#N/A
+SSD;South Sudan;Sudán del Sur;;;
+ESP;Spain;España;40.227;-3.649;46723749
+LKA;Sri Lanka;Sri Lanka;7.612;80.704;21670000
+SDN;Sudan;Sudán;13.832;30.05;41801533
+SUR;Suriname;Surinam;4.127;-55.912;575991
+SJM;Svalbard;Svalbard;78.83;18.374;#N/A
+SWZ;Swaziland;Suazilandia;-26.562;31.497;1136191
+SWE;Sweden;Suecia;62.011;15.27;10183175
+CHE;Switzerland;Suiza;46.861;7.908;8516543
+SYR;Syrian Arab Republic;Siria;35.013;38.506;16906283
+TWN;Taiwan*;Taiwán;23.754;120.946;#N/A
+TJK;Tajikistan;Tayikistán;38.665;69.42;9100837
+TZA;Tanzania;Tanzania;-6.27;34.823;56318348
+THA;Thailand;Tailandia;15.7;100.844;69428524
+TLS;Timor-Leste;Timor Oriental;-8.822;125.878;1267972
+TGO;Togo;Togo;8.799;1.081;7889094
+TKL;Tokelau;Tokelau;-9.193;-171.853;#N/A
+TON;Tonga;Tonga;-21.202;-175.185;103197
+TTO;Trinidad and Tobago;Trinidad y Tobago;10.468;-61.253;1389858
+TUN;Tunisia;Túnez;35.383;9.596;11565204
+TUR;Turkey;Turquía;39.061;35.179;82319724
+TKM;Turkmenistan;Turkmenistán;39.122;59.384;5850908
+TCA;Turks and Caicos Islands;Islas Turcas y Caicos;21.902;-71.95;37665
+TUV;Tuvalu;Tuvalu;-8.514;179.219;11508
+UGA;Uganda;Uganda;1.28;32.386;42723139
+UKR;Ukraine;Ucrania;49.016;31.388;44622516
+ARE;United Arab Emirates;Emiratos Árabes Unidos;23.549;54.163;9630959
+GBR;United Kingdom;Reino Unido;53;-1.6;66488991
+USA;US;Estados Unidos;39.622;-98.606;327167434
+UMI;United States Minor Outlying Islands;Islas Ultramarinas Menores de Estados Unidos;-0.385;-160.027;#N/A
+VIR;United States Virgin Islands;Islas Vírgenes de los Estados Unidos;17.741;-64.785;106977
+URY;Uruguay;Uruguay;-32.8;-56.012;3449299
+UZB;Uzbekistan;Uzbekistán;41.75;63.17;32955400
+VUT;Vanuatu;Vanuatu;-15.376;166.899;292680
+VEN;Venezuela;Venezuela;7.125;-66.166;28870195
+VNM;Vietnam;Vietnam;21.491;105.314;95540395
+WLF;Wallis and Futuna Islands;Wallis y Futuna;-14.289;-178.131;#N/A
+ESH;Western Sahara;Sahara Occidental;24.554;-13.706;#N/A
+YEM;Yemen;Yemen;15.807;48.355;28498687
+ZMB;Zambia;Zambia;-14.614;26.32;17351822
+ZWE;Zimbabwe;Zimbabue;-19;29.872;14439018
+;Curacao;Curaçao;12.166546;-68.963259;
+;Eswatini;Esuatini;-26.632018;31.5038;
