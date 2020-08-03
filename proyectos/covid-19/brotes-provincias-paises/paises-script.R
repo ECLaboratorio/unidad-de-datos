@@ -39,7 +39,7 @@ paises_final <- left_join(datos, paises,
     group_by(pais) %>%  ## filtar las primeras 7 fechas de cada país para eliminar 
     filter(fecha>=min(fecha)+7) %>%  ## datos procedentes de otros países por la media móvil
     pivot_longer(4:6, names_to = "indicador", values_to = "valor") %>%
-    filter(fecha>="2020-06-01") %>% 
+    filter(fecha>="2020-07-01") %>% 
     filter(indicador!="casos_diarios") %>%
     filter(!is.na(valor), continente!="Mundo") %>%
     arrange(fecha)
