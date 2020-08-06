@@ -8,7 +8,7 @@ datos$fecha <- ymd(datos$fecha)
 
 
 ## establecer carpeta predefinida
-## setwd("proyectos/covid-19/brotes-provincias-paises/")
+setwd("proyectos/covid-19/brotes-provincias-paises/")
 
 
 ## importar nombre y población de las provincias
