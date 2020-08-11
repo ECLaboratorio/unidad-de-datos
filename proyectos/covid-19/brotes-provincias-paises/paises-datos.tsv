@@ -335,8 +335,8 @@ fecha	pais	continente	indicador	valor
 2020-07-02	Bangladesh	Asia	ia_7dias	16.15
 2020-07-02	Bielorrusia	Europa	casos_media_movil_7dias	354.1
 2020-07-02	Bielorrusia	Europa	ia_7dias	26.23
-2020-07-02	Bélgica	Europa	casos_media_movil_7dias	87.9
-2020-07-02	Bélgica	Europa	ia_7dias	5.31
+2020-07-02	Bélgica	Europa	casos_media_movil_7dias	87.7
+2020-07-02	Bélgica	Europa	ia_7dias	5.3
 2020-07-02	Benín	África	casos_media_movil_7dias	42.4
 2020-07-02	Benín	África	ia_7dias	2.45
 2020-07-02	Bolivia	América	casos_media_movil_7dias	962.9
@@ -649,8 +649,8 @@ fecha	pais	continente	indicador	valor
 2020-07-03	Bangladesh	Asia	ia_7dias	16.19
 2020-07-03	Bielorrusia	Europa	casos_media_movil_7dias	330.9
 2020-07-03	Bielorrusia	Europa	ia_7dias	24.51
-2020-07-03	Bélgica	Europa	casos_media_movil_7dias	90.3
-2020-07-03	Bélgica	Europa	ia_7dias	5.45
+2020-07-03	Bélgica	Europa	casos_media_movil_7dias	90.1
+2020-07-03	Bélgica	Europa	ia_7dias	5.44
 2020-07-03	Benín	África	casos_media_movil_7dias	26
 2020-07-03	Benín	África	ia_7dias	1.5
 2020-07-03	Bolivia	América	casos_media_movil_7dias	1003.6
@@ -963,8 +963,8 @@ fecha	pais	continente	indicador	valor
 2020-07-04	Bangladesh	Asia	ia_7dias	15.74
 2020-07-04	Bielorrusia	Europa	casos_media_movil_7dias	326.3
 2020-07-04	Bielorrusia	Europa	ia_7dias	24.17
-2020-07-04	Bélgica	Europa	casos_media_movil_7dias	87.4
-2020-07-04	Bélgica	Europa	ia_7dias	5.28
+2020-07-04	Bélgica	Europa	casos_media_movil_7dias	87.3
+2020-07-04	Bélgica	Europa	ia_7dias	5.27
 2020-07-04	Benín	África	casos_media_movil_7dias	20.9
 2020-07-04	Benín	África	ia_7dias	1.2
 2020-07-04	Bolivia	América	casos_media_movil_7dias	1056.4
@@ -1277,8 +1277,8 @@ fecha	pais	continente	indicador	valor
 2020-07-05	Bangladesh	Asia	ia_7dias	15.61
 2020-07-05	Bielorrusia	Europa	casos_media_movil_7dias	310.7
 2020-07-05	Bielorrusia	Europa	ia_7dias	23.02
-2020-07-05	Bélgica	Europa	casos_media_movil_7dias	90.6
-2020-07-05	Bélgica	Europa	ia_7dias	5.47
+2020-07-05	Bélgica	Europa	casos_media_movil_7dias	90.4
+2020-07-05	Bélgica	Europa	ia_7dias	5.46
 2020-07-05	Benín	África	casos_media_movil_7dias	10.7
 2020-07-05	Benín	África	ia_7dias	0.62
 2020-07-05	Bolivia	América	casos_media_movil_7dias	1056.4
@@ -1591,8 +1591,8 @@ fecha	pais	continente	indicador	valor
 2020-07-06	Bangladesh	Asia	ia_7dias	14.96
 2020-07-06	Bielorrusia	Europa	casos_media_movil_7dias	297
 2020-07-06	Bielorrusia	Europa	ia_7dias	22
-2020-07-06	Bélgica	Europa	casos_media_movil_7dias	90.7
-2020-07-06	Bélgica	Europa	ia_7dias	5.48
+2020-07-06	Bélgica	Europa	casos_media_movil_7dias	90.6
+2020-07-06	Bélgica	Europa	ia_7dias	5.47
 2020-07-06	Benín	África	casos_media_movil_7dias	7.1
 2020-07-06	Benín	África	ia_7dias	0.41
 2020-07-06	Bolivia	América	casos_media_movil_7dias	1110.4
@@ -1905,8 +1905,8 @@ fecha	pais	continente	indicador	valor
 2020-07-07	Bangladesh	Asia	ia_7dias	14.46
 2020-07-07	Bielorrusia	Europa	casos_media_movil_7dias	287.7
 2020-07-07	Bielorrusia	Europa	ia_7dias	21.31
-2020-07-07	Bélgica	Europa	casos_media_movil_7dias	88.7
-2020-07-07	Bélgica	Europa	ia_7dias	5.36
+2020-07-07	Bélgica	Europa	casos_media_movil_7dias	88.6
+2020-07-07	Bélgica	Europa	ia_7dias	5.35
 2020-07-07	Benín	África	casos_media_movil_7dias	1.7
 2020-07-07	Benín	África	ia_7dias	0.1
 2020-07-07	Bolivia	América	casos_media_movil_7dias	1197.7
@@ -2219,8 +2219,8 @@ fecha	pais	continente	indicador	valor
 2020-07-08	Bangladesh	Asia	ia_7dias	14.06
 2020-07-08	Bielorrusia	Europa	casos_media_movil_7dias	269.3
 2020-07-08	Bielorrusia	Europa	ia_7dias	19.95
-2020-07-08	Bélgica	Europa	casos_media_movil_7dias	88.6
-2020-07-08	Bélgica	Europa	ia_7dias	5.35
+2020-07-08	Bélgica	Europa	casos_media_movil_7dias	88.4
+2020-07-08	Bélgica	Europa	ia_7dias	5.34
 2020-07-08	Benín	África	casos_media_movil_7dias	0
 2020-07-08	Benín	África	ia_7dias	0
 2020-07-08	Bolivia	América	casos_media_movil_7dias	1189.4
@@ -8499,8 +8499,8 @@ fecha	pais	continente	indicador	valor
 2020-07-28	Bangladesh	Asia	ia_7dias	11.4
 2020-07-28	Bielorrusia	Europa	casos_media_movil_7dias	148.3
 2020-07-28	Bielorrusia	Europa	ia_7dias	10.98
-2020-07-28	Bélgica	Europa	casos_media_movil_7dias	377.3
-2020-07-28	Bélgica	Europa	ia_7dias	22.79
+2020-07-28	Bélgica	Europa	casos_media_movil_7dias	377.4
+2020-07-28	Bélgica	Europa	ia_7dias	22.8
 2020-07-28	Benín	África	casos_media_movil_7dias	24
 2020-07-28	Benín	África	ia_7dias	1.39
 2020-07-28	Bolivia	América	casos_media_movil_7dias	1545.7
@@ -8813,8 +8813,8 @@ fecha	pais	continente	indicador	valor
 2020-07-29	Bangladesh	Asia	ia_7dias	11.34
 2020-07-29	Bielorrusia	Europa	casos_media_movil_7dias	145.4
 2020-07-29	Bielorrusia	Europa	ia_7dias	10.77
-2020-07-29	Bélgica	Europa	casos_media_movil_7dias	454.9
-2020-07-29	Bélgica	Europa	ia_7dias	27.47
+2020-07-29	Bélgica	Europa	casos_media_movil_7dias	455
+2020-07-29	Bélgica	Europa	ia_7dias	27.48
 2020-07-29	Benín	África	casos_media_movil_7dias	24
 2020-07-29	Benín	África	ia_7dias	1.39
 2020-07-29	Bolivia	América	casos_media_movil_7dias	1424.3
@@ -9127,8 +9127,8 @@ fecha	pais	continente	indicador	valor
 2020-07-30	Bangladesh	Asia	ia_7dias	11.5
 2020-07-30	Bielorrusia	Europa	casos_media_movil_7dias	142.4
 2020-07-30	Bielorrusia	Europa	ia_7dias	10.55
-2020-07-30	Bélgica	Europa	casos_media_movil_7dias	474.1
-2020-07-30	Bélgica	Europa	ia_7dias	28.64
+2020-07-30	Bélgica	Europa	casos_media_movil_7dias	474.3
+2020-07-30	Bélgica	Europa	ia_7dias	28.65
 2020-07-30	Benín	África	casos_media_movil_7dias	24
 2020-07-30	Benín	África	ia_7dias	1.39
 2020-07-30	Bolivia	América	casos_media_movil_7dias	1342.7
@@ -9441,8 +9441,8 @@ fecha	pais	continente	indicador	valor
 2020-07-31	Bangladesh	Asia	ia_7dias	11.4
 2020-07-31	Bielorrusia	Europa	casos_media_movil_7dias	139.6
 2020-07-31	Bielorrusia	Europa	ia_7dias	10.34
-2020-07-31	Bélgica	Europa	casos_media_movil_7dias	502.1
-2020-07-31	Bélgica	Europa	ia_7dias	30.33
+2020-07-31	Bélgica	Europa	casos_media_movil_7dias	502.3
+2020-07-31	Bélgica	Europa	ia_7dias	30.34
 2020-07-31	Benín	África	casos_media_movil_7dias	10.9
 2020-07-31	Benín	África	ia_7dias	0.63
 2020-07-31	Bolivia	América	casos_media_movil_7dias	1426
@@ -9755,8 +9755,8 @@ fecha	pais	continente	indicador	valor
 2020-08-01	Bangladesh	Asia	ia_7dias	11.54
 2020-08-01	Bielorrusia	Europa	casos_media_movil_7dias	137.4
 2020-08-01	Bielorrusia	Europa	ia_7dias	10.18
-2020-08-01	Bélgica	Europa	casos_media_movil_7dias	528
-2020-08-01	Bélgica	Europa	ia_7dias	31.89
+2020-08-01	Bélgica	Europa	casos_media_movil_7dias	528.3
+2020-08-01	Bélgica	Europa	ia_7dias	31.91
 2020-08-01	Benín	África	casos_media_movil_7dias	15.9
 2020-08-01	Benín	África	ia_7dias	0.92
 2020-08-01	Bolivia	América	casos_media_movil_7dias	1476.1
@@ -10069,8 +10069,8 @@ fecha	pais	continente	indicador	valor
 2020-08-02	Bangladesh	Asia	ia_7dias	11.34
 2020-08-02	Bielorrusia	Europa	casos_media_movil_7dias	134.9
 2020-08-02	Bielorrusia	Europa	ia_7dias	9.99
-2020-08-02	Bélgica	Europa	casos_media_movil_7dias	537
-2020-08-02	Bélgica	Europa	ia_7dias	32.43
+2020-08-02	Bélgica	Europa	casos_media_movil_7dias	537.1
+2020-08-02	Bélgica	Europa	ia_7dias	32.44
 2020-08-02	Benín	África	casos_media_movil_7dias	15.9
 2020-08-02	Benín	África	ia_7dias	0.92
 2020-08-02	Bolivia	América	casos_media_movil_7dias	1501.7
@@ -10383,8 +10383,8 @@ fecha	pais	continente	indicador	valor
 2020-08-03	Bangladesh	Asia	ia_7dias	10.5
 2020-08-03	Bielorrusia	Europa	casos_media_movil_7dias	133.6
 2020-08-03	Bielorrusia	Europa	ia_7dias	9.89
-2020-08-03	Bélgica	Europa	casos_media_movil_7dias	531.3
-2020-08-03	Bélgica	Europa	ia_7dias	32.09
+2020-08-03	Bélgica	Europa	casos_media_movil_7dias	531.4
+2020-08-03	Bélgica	Europa	ia_7dias	32.1
 2020-08-03	Benín	África	casos_media_movil_7dias	5
 2020-08-03	Benín	África	ia_7dias	0.29
 2020-08-03	Bolivia	América	casos_media_movil_7dias	1532
@@ -10697,8 +10697,8 @@ fecha	pais	continente	indicador	valor
 2020-08-04	Bangladesh	Asia	ia_7dias	9.64
 2020-08-04	Bielorrusia	Europa	casos_media_movil_7dias	130.7
 2020-08-04	Bielorrusia	Europa	ia_7dias	9.68
-2020-08-04	Bélgica	Europa	casos_media_movil_7dias	552.6
-2020-08-04	Bélgica	Europa	ia_7dias	33.37
+2020-08-04	Bélgica	Europa	casos_media_movil_7dias	553.3
+2020-08-04	Bélgica	Europa	ia_7dias	33.42
 2020-08-04	Benín	África	casos_media_movil_7dias	5
 2020-08-04	Benín	África	ia_7dias	0.29
 2020-08-04	Bolivia	América	casos_media_movil_7dias	1433.6
@@ -11011,8 +11011,8 @@ fecha	pais	continente	indicador	valor
 2020-08-05	Bangladesh	Asia	ia_7dias	9.01
 2020-08-05	Bielorrusia	Europa	casos_media_movil_7dias	126.3
 2020-08-05	Bielorrusia	Europa	ia_7dias	9.36
-2020-08-05	Bélgica	Europa	casos_media_movil_7dias	565.1
-2020-08-05	Bélgica	Europa	ia_7dias	34.13
+2020-08-05	Bélgica	Europa	casos_media_movil_7dias	567.1
+2020-08-05	Bélgica	Europa	ia_7dias	34.25
 2020-08-05	Benín	África	casos_media_movil_7dias	20.6
 2020-08-05	Benín	África	ia_7dias	1.19
 2020-08-05	Bolivia	América	casos_media_movil_7dias	1576.3
@@ -11325,8 +11325,8 @@ fecha	pais	continente	indicador	valor
 2020-08-06	Bangladesh	Asia	ia_7dias	8.79
 2020-08-06	Bielorrusia	Europa	casos_media_movil_7dias	122.6
 2020-08-06	Bielorrusia	Europa	ia_7dias	9.08
-2020-08-06	Bélgica	Europa	casos_media_movil_7dias	568.4
-2020-08-06	Bélgica	Europa	ia_7dias	34.33
+2020-08-06	Bélgica	Europa	casos_media_movil_7dias	572.3
+2020-08-06	Bélgica	Europa	ia_7dias	34.57
 2020-08-06	Benín	África	casos_media_movil_7dias	20.6
 2020-08-06	Benín	África	ia_7dias	1.19
 2020-08-06	Bolivia	América	casos_media_movil_7dias	1658.1
@@ -11639,8 +11639,8 @@ fecha	pais	continente	indicador	valor
 2020-08-07	Bangladesh	Asia	ia_7dias	8.96
 2020-08-07	Bielorrusia	Europa	casos_media_movil_7dias	119.7
 2020-08-07	Bielorrusia	Europa	ia_7dias	8.87
-2020-08-07	Bélgica	Europa	casos_media_movil_7dias	580.1
-2020-08-07	Bélgica	Europa	ia_7dias	35.04
+2020-08-07	Bélgica	Europa	casos_media_movil_7dias	587.3
+2020-08-07	Bélgica	Europa	ia_7dias	35.47
 2020-08-07	Benín	África	casos_media_movil_7dias	23.7
 2020-08-07	Benín	África	ia_7dias	1.37
 2020-08-07	Bolivia	América	casos_media_movil_7dias	1598.4
@@ -11953,8 +11953,8 @@ fecha	pais	continente	indicador	valor
 2020-08-08	Bangladesh	Asia	ia_7dias	9.01
 2020-08-08	Bielorrusia	Europa	casos_media_movil_7dias	115.1
 2020-08-08	Bielorrusia	Europa	ia_7dias	8.53
-2020-08-08	Bélgica	Europa	casos_media_movil_7dias	554.1
-2020-08-08	Bélgica	Europa	ia_7dias	33.47
+2020-08-08	Bélgica	Europa	casos_media_movil_7dias	587.7
+2020-08-08	Bélgica	Europa	ia_7dias	35.5
 2020-08-08	Benín	África	casos_media_movil_7dias	18.7
 2020-08-08	Benín	África	ia_7dias	1.08
 2020-08-08	Bolivia	América	casos_media_movil_7dias	1586
@@ -12267,8 +12267,8 @@ fecha	pais	continente	indicador	valor
 2020-08-09	Bangladesh	Asia	ia_7dias	9.26
 2020-08-09	Bielorrusia	Europa	casos_media_movil_7dias	113.1
 2020-08-09	Bielorrusia	Europa	ia_7dias	8.38
-2020-08-09	Bélgica	Europa	casos_media_movil_7dias	518.9
-2020-08-09	Bélgica	Europa	ia_7dias	31.34
+2020-08-09	Bélgica	Europa	casos_media_movil_7dias	576.7
+2020-08-09	Bélgica	Europa	ia_7dias	34.83
 2020-08-09	Benín	África	casos_media_movil_7dias	18.7
 2020-08-09	Benín	África	ia_7dias	1.08
 2020-08-09	Bolivia	América	casos_media_movil_7dias	1466
@@ -12581,8 +12581,8 @@ fecha	pais	continente	indicador	valor
 2020-08-10	Bangladesh	Asia	ia_7dias	10.23
 2020-08-10	Bielorrusia	Europa	casos_media_movil_7dias	111.9
 2020-08-10	Bielorrusia	Europa	ia_7dias	8.29
-2020-08-10	Bélgica	Europa	casos_media_movil_7dias	498.1
-2020-08-10	Bélgica	Europa	ia_7dias	30.09
+2020-08-10	Bélgica	Europa	casos_media_movil_7dias	563.9
+2020-08-10	Bélgica	Europa	ia_7dias	34.06
 2020-08-10	Benín	África	casos_media_movil_7dias	18.7
 2020-08-10	Benín	África	ia_7dias	1.08
 2020-08-10	Bolivia	América	casos_media_movil_7dias	1406.6
@@ -12815,6 +12815,8 @@ fecha	pais	continente	indicador	valor
 2020-08-10	Corea del Sur	Asia	ia_7dias	0.46
 2020-08-10	Sudán del Sur	África	casos_media_movil_7dias	5.9
 2020-08-10	Sudán del Sur	África	ia_7dias	0.37
+2020-08-10	España	Europa	casos_media_movil_7dias	3703.7
+2020-08-10	España	Europa	ia_7dias	55.45
 2020-08-10	Sri Lanka	Asia	casos_media_movil_7dias	3
 2020-08-10	Sri Lanka	Asia	ia_7dias	0.1
 2020-08-10	Sudán	África	casos_media_movil_7dias	22.3
@@ -12869,3 +12871,315 @@ fecha	pais	continente	indicador	valor
 2020-08-10	Zambia	África	ia_7dias	9.45
 2020-08-10	Zimbabue	África	casos_media_movil_7dias	104
 2020-08-10	Zimbabue	África	ia_7dias	4.9
+2020-08-11	Afganistán	Asia	casos_media_movil_7dias	43.9
+2020-08-11	Afganistán	Asia	ia_7dias	0.79
+2020-08-11	Albania	Europa	casos_media_movil_7dias	130.9
+2020-08-11	Albania	Europa	ia_7dias	31.83
+2020-08-11	Argelia	África	casos_media_movil_7dias	534.3
+2020-08-11	Argelia	África	ia_7dias	8.53
+2020-08-11	Angola	África	casos_media_movil_7dias	72.6
+2020-08-11	Angola	África	ia_7dias	1.55
+2020-08-11	Argentina	América	casos_media_movil_7dias	6368.6
+2020-08-11	Argentina	América	ia_7dias	98.64
+2020-08-11	Armenia	Asia	casos_media_movil_7dias	190.1
+2020-08-11	Armenia	Asia	ia_7dias	44.92
+2020-08-11	Australia	Oceanía	casos_media_movil_7dias	439.9
+2020-08-11	Australia	Oceanía	ia_7dias	12.07
+2020-08-11	Austria	Europa	casos_media_movil_7dias	111.6
+2020-08-11	Austria	Europa	ia_7dias	8.67
+2020-08-11	Azerbaiyán	Asia	casos_media_movil_7dias	137.6
+2020-08-11	Azerbaiyán	Asia	ia_7dias	9.5
+2020-08-11	Bahrein	Asia	casos_media_movil_7dias	366
+2020-08-11	Bahrein	Asia	ia_7dias	150.57
+2020-08-11	Bangladesh	Asia	casos_media_movil_7dias	2629.3
+2020-08-11	Bangladesh	Asia	ia_7dias	11.18
+2020-08-11	Bielorrusia	Europa	casos_media_movil_7dias	111.6
+2020-08-11	Bielorrusia	Europa	ia_7dias	8.27
+2020-08-11	Bélgica	Europa	casos_media_movil_7dias	457.1
+2020-08-11	Bélgica	Europa	ia_7dias	27.61
+2020-08-11	Benín	África	casos_media_movil_7dias	18.7
+2020-08-11	Benín	África	ia_7dias	1.08
+2020-08-11	Bolivia	América	casos_media_movil_7dias	1398.4
+2020-08-11	Bolivia	América	ia_7dias	83.86
+2020-08-11	Bosnia-Herzegovina	Europa	casos_media_movil_7dias	314.6
+2020-08-11	Bosnia-Herzegovina	Europa	ia_7dias	67.12
+2020-08-11	Botsuana	África	casos_media_movil_7dias	37.4
+2020-08-11	Botsuana	África	ia_7dias	11.14
+2020-08-11	Brasil	América	casos_media_movil_7dias	43878.9
+2020-08-11	Brasil	América	ia_7dias	144.5
+2020-08-11	Bulgaria	Europa	casos_media_movil_7dias	222.4
+2020-08-11	Bulgaria	Europa	ia_7dias	22.41
+2020-08-11	Burkina Faso	África	casos_media_movil_7dias	8.3
+2020-08-11	Burkina Faso	África	ia_7dias	0.28
+2020-08-11	Burundi	África	casos_media_movil_7dias	1.9
+2020-08-11	Burundi	África	ia_7dias	0.11
+2020-08-11	Camboya	Asia	casos_media_movil_7dias	3.7
+2020-08-11	Camboya	Asia	ia_7dias	0.16
+2020-08-11	Camerún	África	casos_media_movil_7dias	112.4
+2020-08-11	Camerún	África	ia_7dias	2.96
+2020-08-11	Canadá	América	casos_media_movil_7dias	442.9
+2020-08-11	Canadá	América	ia_7dias	8.21
+2020-08-11	República Centroafricana	África	casos_media_movil_7dias	3.9
+2020-08-11	República Centroafricana	África	ia_7dias	0.56
+2020-08-11	Chad	África	casos_media_movil_7dias	1.3
+2020-08-11	Chad	África	ia_7dias	0.05
+2020-08-11	Chile	América	casos_media_movil_7dias	1935.9
+2020-08-11	Chile	América	ia_7dias	70.89
+2020-08-11	China	Asia	casos_media_movil_7dias	115.3
+2020-08-11	China	Asia	ia_7dias	0.06
+2020-08-11	Colombia	América	casos_media_movil_7dias	9967.6
+2020-08-11	Colombia	América	ia_7dias	137.12
+2020-08-11	Congo (Brazzaville)	África	casos_media_movil_7dias	16.9
+2020-08-11	Congo (Brazzaville)	África	ia_7dias	2.14
+2020-08-11	Congo (Brazzaville)	África	casos_media_movil_7dias	16.9
+2020-08-11	Congo (Brazzaville)	África	ia_7dias	2.14
+2020-08-11	Costa Rica	América	casos_media_movil_7dias	638.6
+2020-08-11	Costa Rica	América	ia_7dias	87.75
+2020-08-11	Costa de Marfil	África	casos_media_movil_7dias	82.6
+2020-08-11	Costa de Marfil	África	ia_7dias	2.19
+2020-08-11	Croacia	Europa	casos_media_movil_7dias	50.4
+2020-08-11	Croacia	Europa	ia_7dias	8.6
+2020-08-11	Cuba	América	casos_media_movil_7dias	53.7
+2020-08-11	Cuba	América	ia_7dias	3.32
+2020-08-11	República Checa	Europa	casos_media_movil_7dias	212.3
+2020-08-11	República Checa	Europa	ia_7dias	13.88
+2020-08-11	Congo (Kinshasa)	África	casos_media_movil_7dias	50.9
+2020-08-11	Congo (Kinshasa)	África	ia_7dias	0.4
+2020-08-11	Dinamarca	Europa	casos_media_movil_7dias	117
+2020-08-11	Dinamarca	Europa	ia_7dias	14.14
+2020-08-11	República Dominicana	América	casos_media_movil_7dias	1054.6
+2020-08-11	República Dominicana	América	ia_7dias	68.05
+2020-08-11	Ecuador	América	casos_media_movil_7dias	1094.3
+2020-08-11	Ecuador	América	ia_7dias	43.42
+2020-08-11	Egipto	África	casos_media_movil_7dias	146.6
+2020-08-11	Egipto	África	ia_7dias	1
+2020-08-11	El Salvador	América	casos_media_movil_7dias	432.7
+2020-08-11	El Salvador	América	ia_7dias	46.7
+2020-08-11	Guinea Ecuatorial	África	casos_media_movil_7dias	0
+2020-08-11	Guinea Ecuatorial	África	ia_7dias	0
+2020-08-11	Eritrea	África	casos_media_movil_7dias	0.4
+2020-08-11	Eritrea	África	ia_7dias	0.08
+2020-08-11	Estonia	Europa	casos_media_movil_7dias	11.1
+2020-08-11	Estonia	Europa	ia_7dias	5.88
+2020-08-11	Etiopía	África	casos_media_movil_7dias	614.6
+2020-08-11	Etiopía	África	ia_7dias	3.74
+2020-08-11	Finlandia	Europa	casos_media_movil_7dias	19.3
+2020-08-11	Finlandia	Europa	ia_7dias	2.44
+2020-08-11	Francia	Europa	casos_media_movil_7dias	1640
+2020-08-11	Francia	Europa	ia_7dias	17.59
+2020-08-11	Gabón	África	casos_media_movil_7dias	51.4
+2020-08-11	Gabón	África	ia_7dias	16.17
+2020-08-11	Gambia	África	casos_media_movil_7dias	105.3
+2020-08-11	Gambia	África	ia_7dias	30.5
+2020-08-11	Georgia	Asia	casos_media_movil_7dias	11.7
+2020-08-11	Georgia	Asia	ia_7dias	2.06
+2020-08-11	Alemania	Europa	casos_media_movil_7dias	858.9
+2020-08-11	Alemania	Europa	ia_7dias	7.18
+2020-08-11	Ghana	África	casos_media_movil_7dias	485.7
+2020-08-11	Ghana	África	ia_7dias	10.94
+2020-08-11	Grecia	Europa	casos_media_movil_7dias	144.6
+2020-08-11	Grecia	Europa	ia_7dias	9.71
+2020-08-11	Guatemala	América	casos_media_movil_7dias	777.9
+2020-08-11	Guatemala	América	ia_7dias	30.39
+2020-08-11	Guinea	África	casos_media_movil_7dias	80.9
+2020-08-11	Guinea	África	ia_7dias	4.31
+2020-08-11	Guinea-Bisáu	África	casos_media_movil_7dias	10.1
+2020-08-11	Guinea-Bisáu	África	ia_7dias	3.61
+2020-08-11	Haití	América	casos_media_movil_7dias	19.7
+2020-08-11	Haití	América	ia_7dias	1.21
+2020-08-11	Honduras	América	casos_media_movil_7dias	582.6
+2020-08-11	Honduras	América	ia_7dias	41.17
+2020-08-11	Hungría	Europa	casos_media_movil_7dias	26.7
+2020-08-11	Hungría	Europa	ia_7dias	1.94
+2020-08-11	India	Asia	casos_media_movil_7dias	58990
+2020-08-11	India	Asia	ia_7dias	29.92
+2020-08-11	Indonesia	Asia	casos_media_movil_7dias	1992.7
+2020-08-11	Indonesia	Asia	ia_7dias	5.1
+2020-08-11	Irán	Asia	casos_media_movil_7dias	2401.3
+2020-08-11	Irán	Asia	ia_7dias	20.01
+2020-08-11	Irak	Asia	casos_media_movil_7dias	3101.9
+2020-08-11	Irak	Asia	ia_7dias	53.98
+2020-08-11	Irlanda	Europa	casos_media_movil_7dias	80
+2020-08-11	Irlanda	Europa	ia_7dias	11.34
+2020-08-11	Israel	Asia	casos_media_movil_7dias	1474.1
+2020-08-11	Israel	Asia	ia_7dias	119.22
+2020-08-11	Italia	Europa	casos_media_movil_7dias	370.9
+2020-08-11	Italia	Europa	ia_7dias	4.29
+2020-08-11	Jamaica	América	casos_media_movil_7dias	18
+2020-08-11	Jamaica	América	ia_7dias	4.26
+2020-08-11	Japón	Asia	casos_media_movil_7dias	1197.1
+2020-08-11	Japón	Asia	ia_7dias	6.63
+2020-08-11	Jordania	Asia	casos_media_movil_7dias	7.1
+2020-08-11	Jordania	Asia	ia_7dias	0.49
+2020-08-11	Kazajistán	Asia	casos_media_movil_7dias	906.3
+2020-08-11	Kazajistán	Asia	ia_7dias	33.79
+2020-08-11	Kenia	África	casos_media_movil_7dias	618.7
+2020-08-11	Kenia	África	ia_7dias	8.05
+2020-08-11	Kosovo	Europa	casos_media_movil_7dias	195.7
+2020-08-11	Kosovo	Europa	ia_7dias	70.88
+2020-08-11	Kuwait	Asia	casos_media_movil_7dias	585.9
+2020-08-11	Kuwait	Asia	ia_7dias	96.03
+2020-08-11	Kirguistán	Asia	casos_media_movil_7dias	416.3
+2020-08-11	Kirguistán	Asia	ia_7dias	44.66
+2020-08-11	Laos	Asia	casos_media_movil_7dias	0
+2020-08-11	Laos	Asia	ia_7dias	0
+2020-08-11	Letonia	Europa	casos_media_movil_7dias	6.7
+2020-08-11	Letonia	Europa	ia_7dias	2.49
+2020-08-11	Líbano	Asia	casos_media_movil_7dias	250
+2020-08-11	Líbano	Asia	ia_7dias	25.64
+2020-08-11	Lesotho	África	casos_media_movil_7dias	9
+2020-08-11	Lesotho	África	ia_7dias	2.94
+2020-08-11	Liberia	África	casos_media_movil_7dias	3.7
+2020-08-11	Liberia	África	ia_7dias	0.51
+2020-08-11	Libia	África	casos_media_movil_7dias	211.1
+2020-08-11	Libia	África	ia_7dias	21.51
+2020-08-11	Lituania	Europa	casos_media_movil_7dias	20.7
+2020-08-11	Lituania	Europa	ia_7dias	5.33
+2020-08-11	Macedonia del Norte	Europa	casos_media_movil_7dias	117.9
+2020-08-11	Macedonia del Norte	Europa	ia_7dias	39.6
+2020-08-11	Madagascar	África	casos_media_movil_7dias	220.3
+2020-08-11	Madagascar	África	ia_7dias	5.57
+2020-08-11	Malaui	África	casos_media_movil_7dias	57.1
+2020-08-11	Malaui	África	ia_7dias	2.09
+2020-08-11	Malasia	Asia	casos_media_movil_7dias	13.3
+2020-08-11	Malasia	Asia	ia_7dias	0.29
+2020-08-11	Mali	África	casos_media_movil_7dias	4.3
+2020-08-11	Mali	África	ia_7dias	0.15
+2020-08-11	Mauritania	África	casos_media_movil_7dias	25
+2020-08-11	Mauritania	África	ia_7dias	3.76
+2020-08-11	Mauricio	África	casos_media_movil_7dias	0
+2020-08-11	Mauricio	África	ia_7dias	0
+2020-08-11	México	América	casos_media_movil_7dias	6003.3
+2020-08-11	México	América	ia_7dias	32.59
+2020-08-11	Moldavia	Europa	casos_media_movil_7dias	337
+2020-08-11	Moldavia	Europa	ia_7dias	58.48
+2020-08-11	Mongolia	Asia	casos_media_movil_7dias	0
+2020-08-11	Mongolia	Asia	ia_7dias	0
+2020-08-11	Marruecos	África	casos_media_movil_7dias	1123.9
+2020-08-11	Marruecos	África	ia_7dias	21.31
+2020-08-11	Mozambique	África	casos_media_movil_7dias	62.6
+2020-08-11	Mozambique	África	ia_7dias	1.4
+2020-08-11	Myanmar	Asia	casos_media_movil_7dias	0.7
+2020-08-11	Myanmar	Asia	ia_7dias	0.01
+2020-08-11	Namibia	África	casos_media_movil_7dias	99.3
+2020-08-11	Namibia	África	ia_7dias	27.35
+2020-08-11	Nepal	Asia	casos_media_movil_7dias	365.7
+2020-08-11	Nepal	Asia	ia_7dias	8.79
+2020-08-11	Países Bajos	Europa	casos_media_movil_7dias	532
+2020-08-11	Países Bajos	Europa	ia_7dias	21.73
+2020-08-11	Nueva Zelanda	Oceanía	casos_media_movil_7dias	0.4
+2020-08-11	Nueva Zelanda	Oceanía	ia_7dias	0.06
+2020-08-11	Nicaragua	América	casos_media_movil_7dias	32.9
+2020-08-11	Nicaragua	América	ia_7dias	3.47
+2020-08-11	Níger	África	casos_media_movil_7dias	0.9
+2020-08-11	Níger	África	ia_7dias	0.02
+2020-08-11	Nigeria	África	casos_media_movil_7dias	391.1
+2020-08-11	Nigeria	África	ia_7dias	1.33
+2020-08-11	Noruega	Europa	casos_media_movil_7dias	52.9
+2020-08-11	Noruega	Europa	ia_7dias	6.83
+2020-08-11	Omán	Asia	casos_media_movil_7dias	375.4
+2020-08-11	Omán	Asia	ia_7dias	51.46
+2020-08-11	Pakistán	Asia	casos_media_movil_7dias	675.7
+2020-08-11	Pakistán	Asia	ia_7dias	2.14
+2020-08-11	Territorios Palestinos	Asia	casos_media_movil_7dias	442.4
+2020-08-11	Territorios Palestinos	Asia	ia_7dias	60.71
+2020-08-11	Panamá	América	casos_media_movil_7dias	991.1
+2020-08-11	Panamá	América	ia_7dias	160.8
+2020-08-11	Papúa Nueva Guinea	Oceanía	casos_media_movil_7dias	14.7
+2020-08-11	Papúa Nueva Guinea	Oceanía	ia_7dias	1.15
+2020-08-11	Paraguay	América	casos_media_movil_7dias	215.7
+2020-08-11	Paraguay	América	ia_7dias	21.17
+2020-08-11	Perú	América	casos_media_movil_7dias	7147.6
+2020-08-11	Perú	América	ia_7dias	151.74
+2020-08-11	Filipinas	Asia	casos_media_movil_7dias	4329.7
+2020-08-11	Filipinas	Asia	ia_7dias	27.66
+2020-08-11	Polonia	Europa	casos_media_movil_7dias	705.9
+2020-08-11	Polonia	Europa	ia_7dias	13.06
+2020-08-11	Portugal	Europa	casos_media_movil_7dias	179.4
+2020-08-11	Portugal	Europa	ia_7dias	12.32
+2020-08-11	Puerto Rico	América	casos_media_movil_7dias	575.3
+2020-08-11	Puerto Rico	América	ia_7dias	140.76
+2020-08-11	Qatar	Asia	casos_media_movil_7dias	277.1
+2020-08-11	Qatar	Asia	ia_7dias	67.34
+2020-08-11	Rumanía	Europa	casos_media_movil_7dias	1219.7
+2020-08-11	Rumanía	Europa	ia_7dias	44.38
+2020-08-11	Rusia	Europa	casos_media_movil_7dias	5905
+2020-08-11	Rusia	Europa	ia_7dias	28.32
+2020-08-11	Ruanda	África	casos_media_movil_7dias	8.6
+2020-08-11	Ruanda	África	ia_7dias	0.46
+2020-08-11	Arabia Saudí	Asia	casos_media_movil_7dias	1407.7
+2020-08-11	Arabia Saudí	Asia	ia_7dias	28.3
+2020-08-11	Senegal	África	casos_media_movil_7dias	132.3
+2020-08-11	Senegal	África	ia_7dias	5.53
+2020-08-11	Serbia	Europa	casos_media_movil_7dias	258.7
+2020-08-11	Serbia	Europa	ia_7dias	26.61
+2020-08-11	Sierra Leona	África	casos_media_movil_7dias	9.9
+2020-08-11	Sierra Leona	África	ia_7dias	0.86
+2020-08-11	Singapur	Asia	casos_media_movil_7dias	320.1
+2020-08-11	Singapur	Asia	ia_7dias	38.31
+2020-08-11	Eslovaquia	Europa	casos_media_movil_7dias	35
+2020-08-11	Eslovaquia	Europa	ia_7dias	4.49
+2020-08-11	Eslovenia	Europa	casos_media_movil_7dias	10.6
+2020-08-11	Eslovenia	Europa	ia_7dias	3.56
+2020-08-11	Somalia	África	casos_media_movil_7dias	1
+2020-08-11	Somalia	África	ia_7dias	0.04
+2020-08-11	Sudáfrica	África	casos_media_movil_7dias	6676.6
+2020-08-11	Sudáfrica	África	ia_7dias	78.8
+2020-08-11	Corea del Sur	Asia	casos_media_movil_7dias	33.9
+2020-08-11	Corea del Sur	Asia	ia_7dias	0.46
+2020-08-11	Sudán del Sur	África	casos_media_movil_7dias	5.9
+2020-08-11	Sudán del Sur	África	ia_7dias	0.37
+2020-08-11	Sri Lanka	Asia	casos_media_movil_7dias	6.1
+2020-08-11	Sri Lanka	Asia	ia_7dias	0.2
+2020-08-11	Sudán	África	casos_media_movil_7dias	31.1
+2020-08-11	Sudán	África	ia_7dias	0.5
+2020-08-11	Suazilandia	África	casos_media_movil_7dias	67.3
+2020-08-11	Suazilandia	África	ia_7dias	40.6
+2020-08-11	Suecia	Europa	casos_media_movil_7dias	280
+2020-08-11	Suecia	Europa	ia_7dias	19.41
+2020-08-11	Suiza	Europa	casos_media_movil_7dias	156
+2020-08-11	Suiza	Europa	ia_7dias	12.62
+2020-08-11	Siria	Asia	casos_media_movil_7dias	48.7
+2020-08-11	Siria	Asia	ia_7dias	1.95
+2020-08-11	Taiwán	Asia	casos_media_movil_7dias	0.6
+2020-08-11	Taiwán	Asia	ia_7dias	0.02
+2020-08-11	Tayikistán	Asia	casos_media_movil_7dias	41.3
+2020-08-11	Tayikistán	Asia	ia_7dias	3.03
+2020-08-11	Tanzania	África	casos_media_movil_7dias	0
+2020-08-11	Tanzania	África	ia_7dias	0
+2020-08-11	Tailandia	Asia	casos_media_movil_7dias	4.3
+2020-08-11	Tailandia	Asia	ia_7dias	0.04
+2020-08-11	Timor Oriental	Asia	casos_media_movil_7dias	0.1
+2020-08-11	Timor Oriental	Asia	ia_7dias	0.08
+2020-08-11	Togo	África	casos_media_movil_7dias	13
+2020-08-11	Togo	África	ia_7dias	1.1
+2020-08-11	Trinidad y Tobago	América	casos_media_movil_7dias	14.1
+2020-08-11	Trinidad y Tobago	América	ia_7dias	7.07
+2020-08-11	Túnez	África	casos_media_movil_7dias	21.7
+2020-08-11	Túnez	África	ia_7dias	1.29
+2020-08-11	Turquía	Asia	casos_media_movil_7dias	1163.7
+2020-08-11	Turquía	Asia	ia_7dias	9.66
+2020-08-11	Uganda	África	casos_media_movil_7dias	14.6
+2020-08-11	Uganda	África	ia_7dias	0.22
+2020-08-11	Ucrania	Europa	casos_media_movil_7dias	1422.4
+2020-08-11	Ucrania	Europa	ia_7dias	22.77
+2020-08-11	Emiratos Árabes Unidos	Asia	casos_media_movil_7dias	220.1
+2020-08-11	Emiratos Árabes Unidos	Asia	ia_7dias	15.58
+2020-08-11	Reino Unido	Europa	casos_media_movil_7dias	859.7
+2020-08-11	Reino Unido	Europa	ia_7dias	8.86
+2020-08-11	Estados Unidos	América	casos_media_movil_7dias	54404.6
+2020-08-11	Estados Unidos	América	ia_7dias	115.05
+2020-08-11	Uruguay	América	casos_media_movil_7dias	10.4
+2020-08-11	Uruguay	América	ia_7dias	2.1
+2020-08-11	Uzbekistán	Asia	casos_media_movil_7dias	713.6
+2020-08-11	Uzbekistán	Asia	ia_7dias	14.92
+2020-08-11	Venezuela	América	casos_media_movil_7dias	799.9
+2020-08-11	Venezuela	América	ia_7dias	19.69
+2020-08-11	Vietnam	Asia	casos_media_movil_7dias	27.7
+2020-08-11	Vietnam	Asia	ia_7dias	0.2
+2020-08-11	Yemen	Asia	casos_media_movil_7dias	13.4
+2020-08-11	Yemen	Asia	ia_7dias	0.32
+2020-08-11	Zambia	África	casos_media_movil_7dias	232.9
+2020-08-11	Zambia	África	ia_7dias	8.87
+2020-08-11	Zimbabue	África	casos_media_movil_7dias	96.1
+2020-08-11	Zimbabue	África	ia_7dias	4.53
