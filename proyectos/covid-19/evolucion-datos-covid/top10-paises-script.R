@@ -13,4 +13,4 @@ top_paises <- datos_largo %>%
     select(fecha_buena, pais_esp, var_casos) %>% 
     arrange(-var_casos)
 
-write_csv(top_paises)
+write_csv(top_paises, "top10-paises-datos.csv")
