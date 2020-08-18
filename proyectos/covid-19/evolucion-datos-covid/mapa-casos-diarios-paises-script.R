@@ -1,3 +1,18 @@
+## establecer carpeta predefinida
+setwd("proyectos/covid-19/evolucion-datos-covid/")
+
+source("importar_datos.R")
+
+variacion_diaria <- datos_ancho %>%  
+    group_by(pais, fecha=fecha_buena, pais_esp, lat=lat_pais, long=long_pais) %>% 
+    summarise(casos_total=sum(casos)) %>% 
+    mutate(var_casos=casos_total-dplyr::lag(casos_total))
+
+variacion_diaria_final <- variacion_diaria %>% 
+    mutate(casos_anterior=dplyrlag(pais))
+
+
+
 ## cargar librerías e importar datos originales
 library(tidyverse)
 library(lubridate)
