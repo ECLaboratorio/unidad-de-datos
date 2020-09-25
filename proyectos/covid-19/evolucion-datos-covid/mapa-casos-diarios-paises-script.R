@@ -8,11 +8,11 @@ datos_anterior <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COV
 datos_ultimo <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/09-21-2020.csv")
 
 datos_anterior <- datos_anterior %>% 
-    mutate(fecha_buena="2020-09-20") %>% # cambiar fecha
+    mutate(fecha_buena="2020-09-23") %>% # cambiar fecha
     select(Country_Region, Confirmed, Deaths, Recovered, fecha_buena)
 
 datos_ultimo <- datos_ultimo %>% 
-    mutate(fecha_buena="2020-09-21") %>% # cambiar fecha
+    mutate(fecha_buena="2020-09-24") %>% # cambiar fecha
     select(Country_Region, Confirmed, Deaths, Recovered, fecha_buena)
 
 
@@ -26,7 +26,7 @@ datos <- rbind(datos_anterior, datos_ultimo) %>%
 
 
 # traer columnas de países en español y latitudes de países
-paises <- read_delim("dictionaries/paises.csv", delim = ";", locale = locale(encoding = "ISO-8859-1"))
+paises <- read_delim("./paises.csv", delim = ";", locale = locale(encoding = "ISO-8859-1"))
 
 variacion_diaria_ultima <- left_join(datos, paises,
                                      by = "pais") %>% 
@@ -37,6 +37,6 @@ variacion_diaria_ultima <- left_join(datos, paises,
     filter(var_casos>0) %>%
     filter(!is.na(var_casos)) %>%
     arrange(pais_esp, fecha_buena) %>% 
-    filter(fecha_buena=="2020-09-21") # filtrar fecha por la más reciente
+    filter(fecha_buena=="2020-09-24") # filtrar fecha por la más reciente
 
 write.table(variacion_diaria_ultima, "clipboard-20000", sep="\t", row.names=FALSE, col.names=TRUE)
