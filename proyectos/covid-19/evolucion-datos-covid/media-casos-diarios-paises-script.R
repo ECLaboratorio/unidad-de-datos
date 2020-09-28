@@ -4,7 +4,7 @@ library(lubridate)
 library(zoo)
 
 ## establecer carpeta predefinida
-setwd("proyectos/covid-19/evolucion-datos-covid/")
+#setwd("proyectos/covid-19/evolucion-datos-covid/")
 
 source("importar_datos.R")
 
