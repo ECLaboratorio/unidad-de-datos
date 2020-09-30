@@ -1,5 +1,5 @@
 ## establecer carpeta predefinida
-setwd("proyectos/covid-19/evolucion-datos-covid/")
+# setwd("proyectos/covid-19/evolucion-datos-covid/")
 
 source("importar_datos.R")
 
@@ -9,7 +9,7 @@ top_paises <- datos_largo %>%
     group_by(pais_esp, fecha_buena) %>%
     summarise(casos=sum(valor)) %>% 
     mutate(var_casos=casos-lag(casos)) %>% 
-    filter(fecha_buena=="2020-09-27", !is.na(pais_esp)) %>% ## cambiar fecha cada día por la más reciente
+    filter(fecha_buena=="2020-09-29", !is.na(pais_esp)) %>% ## cambiar fecha cada día por la más reciente (un día antes de cuando ejecutemos el script)
     select(fecha_buena, pais_esp, var_casos) %>% 
     arrange(-var_casos)
 
