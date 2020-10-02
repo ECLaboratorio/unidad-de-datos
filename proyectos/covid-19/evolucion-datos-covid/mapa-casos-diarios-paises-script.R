@@ -9,11 +9,11 @@ datos_anterior <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COV
 datos_ultimo <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/09-21-2020.csv")
 
 datos_anterior <- datos_anterior %>% 
-    mutate(fecha_buena="2020-09-28") %>% # cambiar fecha
+    mutate(fecha_buena="2020-09-30") %>% # cambiar fecha
     select(Country_Region, Confirmed, Deaths, Recovered, fecha_buena)
 
 datos_ultimo <- datos_ultimo %>% 
-    mutate(fecha_buena="2020-09-29") %>% # cambiar fecha
+    mutate(fecha_buena="2020-10-01") %>% # cambiar fecha
     select(Country_Region, Confirmed, Deaths, Recovered, fecha_buena)
 
 
@@ -38,6 +38,6 @@ variacion_diaria_ultima <- left_join(datos, paises,
     filter(var_casos>0) %>%
     filter(!is.na(var_casos)) %>%
     arrange(pais_esp, fecha_buena) %>% 
-    filter(fecha_buena=="2020-09-29") # filtrar fecha por la más reciente
+    filter(fecha_buena=="2020-10-01") # filtrar fecha por la más reciente
 
 write.table(variacion_diaria_ultima, "clipboard-20000", sep="\t", row.names=FALSE, col.names=TRUE)
