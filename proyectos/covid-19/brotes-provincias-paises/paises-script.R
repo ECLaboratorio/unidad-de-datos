@@ -5,7 +5,7 @@ library(zoo)
 
 
 ## establecer carpeta predefinida
-setwd("../brotes-provincias-paises/")
+setwd("./proyectos/covid-19/brotes-provincias-paises/")
 
 ## importar datos de Out World in Data, modificar nombre continente y calcular
 ## media móvil de 7 días de casos diarios, casos acumulados en 7 días e IA 7 días para cada país
@@ -40,7 +40,7 @@ paises_final <- left_join(datos, paises,
     group_by(pais) %>%  ## filtar las primeras 7 fechas de cada país para eliminar 
     filter(fecha>=min(fecha)+7) %>%  ## datos procedentes de otros países por la media móvil
     pivot_longer(4:6, names_to = "indicador", values_to = "valor") %>%
-    filter(fecha>="2020-09-01") %>% 
+    filter(fecha>="2020-09-07") %>% 
     filter(indicador!="casos_diarios") %>%
     filter(!is.na(valor), continente!="Mundo") %>%
     arrange(fecha)
