@@ -10,9 +10,9 @@ muertes <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/m
 recuperados <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv")
 
 
-## reordenar data frames haciéndolos más largos y convertir columna fecha a formato fecha (script: 19/10; fecha último dato: 18/10)
+## reordenar data frames haciéndolos más largos y convertir columna fecha a formato fecha (script: 23/10; fecha último dato: 22/10)
 infectados_long <- infectados %>% 
-    pivot_longer(names_to = "fecha", values_to = "casos", cols = 5:275) %>% # añadir cada día una columna nueva
+    pivot_longer(names_to = "fecha", values_to = "casos", cols = 5:279) %>% # añadir cada día una columna nueva
     mutate(fecha_buena=mdy(fecha), # convertir columna fecha a formato fecha
            region=case_when(
                `Country/Region`=="China" ~ "China",
@@ -20,7 +20,7 @@ infectados_long <- infectados %>%
     select(provincia=`Province/State`, pais=`Country/Region`, region, lat=Lat, long=Long, fecha, fecha_buena, casos)
 
 muertes_long <- muertes %>% 
-    pivot_longer(names_to = "fecha", values_to = "muertes", cols = 5:275) %>% 
+    pivot_longer(names_to = "fecha", values_to = "muertes", cols = 5:279) %>% 
     mutate(fecha_buena=mdy(fecha), # convertir columna fecha a formato fecha
            region=case_when(
                `Country/Region`=="China" ~ "China",
@@ -28,7 +28,7 @@ muertes_long <- muertes %>%
     select(provincia=`Province/State`, pais=`Country/Region`, region, lat=Lat, long=Long, fecha, fecha_buena, muertes)
 
 recuperados_long <- recuperados %>% 
-    pivot_longer(names_to = "fecha", values_to = "recuperados", cols = 5:275) %>% 
+    pivot_longer(names_to = "fecha", values_to = "recuperados", cols = 5:279) %>% 
     mutate(fecha_buena=mdy(fecha), # convertir columna fecha a formato fecha
            region=case_when(
                `Country/Region`=="China" ~ "China",
