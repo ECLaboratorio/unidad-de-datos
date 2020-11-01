@@ -1,5 +1,5 @@
 name;abbreviation;name_esp;numero_representantes;lidera_2020;ganador_2020
-Alabama;AL;Alabama;9;rep;rep
+Alabama;AL;Alabama;9;rep;
 Alaska;AK;Alaska;3;;
 Arizona;AZ;Arizona;11;;
 Arkansas;AR;Arkansas;6;;
@@ -9,24 +9,24 @@ Connecticut;CT;Connecticut;7;;
 Delaware;DE;Delaware;3;;
 District Of Columbia;DC;Distrito de Columbia;3;;
 Florida;FL;Florida;29;;
-Georgia;GA;Georgia;16;;dem
+Georgia;GA;Georgia;16;;
 Hawaii;HI;Hawái;4;;
 Idaho;ID;Idaho;4;;rep
 Illinois;IL;Illinois;20;dem;
-Indiana;IN;Indiana;11;;
+Indiana;IN;Indiana;11;rep;
 Iowa;IA;Iowa;6;;
 Kansas;KS;Kansas;6;;
 Kentucky;KY;Kentucky;8;;
 Louisiana;LA;Luisiana;8;;
 Maine;ME;Maine;4;;
 Maryland;MD;Maryland;10;;
-Massachusetts;MA;Massachusetts;11;;dem
+Massachusetts;MA;Massachusetts;11;;
 Michigan;MI;Míchigan;16;;
 Minnesota;MN;Minnesota;10;;dem
 Mississippi;MS;Mississippi;6;;
 Missouri;MO;Misuri;10;;
 Montana;MT;Montana;3;;
-Nebraska;NE;Nebraska;5;;2dem_2rep_1battle
+Nebraska;NE;Nebraska;5;2dem_2rep_1battle;
 Nevada;NV;Nevada;6;;
 New Hampshire;NH;Nuevo Hampshire;4;;dem
 New Jersey;NJ;Nueva Jersey;14;;
