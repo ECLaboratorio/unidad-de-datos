@@ -9,7 +9,7 @@ Connecticut,CT,Connecticut,7,dem,dem,
 Delaware,DE,Delaware,3,dem,dem,
 District Of Columbia,DC,Distrito de Columbia,3,dem,dem,
 Florida,FL,Florida,29,dem,rep,
-Georgia,GA,Georgia,16,rep,rep,
+Georgia,GA,Georgia,16,rep,rep,dem
 Hawaii,HI,Hawái,4,dem,dem,
 Idaho,ID,Idaho,4,rep,rep,rep
 Illinois,IL,Illinois,20,dem,dem,
@@ -26,7 +26,7 @@ Minnesota,MN,Minnesota,10,dem,dem,dem
 Mississippi,MS,Mississippi,6,rep,rep,
 Missouri,MO,Misuri,10,rep,rep,
 Montana,MT,Montana,3,rep,rep,
-Nebraska,NE,Nebraska,5,rep,rep,
+Nebraska,NE,Nebraska,5,rep,rep,2dem_2rep_1battle
 Nevada,NV,Nevada,6,dem,dem,
 New Hampshire,NH,Nuevo Hampshire,4,dem,dem,dem
 New Jersey,NJ,Nueva Jersey,14,dem,dem,
