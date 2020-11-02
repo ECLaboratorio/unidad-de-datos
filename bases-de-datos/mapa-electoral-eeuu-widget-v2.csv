@@ -10,9 +10,9 @@ Delaware;DE;Delaware;3;;
 District Of Columbia;DC;Distrito de Columbia;3;;
 Florida;FL;Florida;29;;
 Georgia;GA;Georgia;16;;dem
-Hawaii;HI;Hawái;4;;
+Hawaii;HI;Hawai;4;;
 Idaho;ID;Idaho;4;;rep
-Illinois;IL;Illinois;20;;
+Illinois;IL;Illinois;20;dem;
 Indiana;IN;Indiana;11;;
 Iowa;IA;Iowa;6;;
 Kansas;KS;Kansas;6;;
@@ -21,7 +21,7 @@ Louisiana;LA;Luisiana;8;;
 Maine;ME;Maine;4;;
 Maryland;MD;Maryland;10;;
 Massachusetts;MA;Massachusetts;11;;dem
-Michigan;MI;Míchigan;16;;
+Michigan;MI;Michigan;16;;
 Minnesota;MN;Minnesota;10;;dem
 Mississippi;MS;Mississippi;6;;
 Missouri;MO;Misuri;10;;
@@ -30,7 +30,7 @@ Nebraska;NE;Nebraska;5;;2dem_2rep_1battle
 Nevada;NV;Nevada;6;;
 New Hampshire;NH;Nuevo Hampshire;4;;dem
 New Jersey;NJ;Nueva Jersey;14;;
-New Mexico;NM;Nuevo México;5;;
+New Mexico;NM;Nuevo Mexico;5;;
 New York;NY;Nueva York;29;;
 North Carolina;NC;Carolina del Norte;15;;rep
 North Dakota;ND;Dakota del Norte;3;;
@@ -46,7 +46,7 @@ Texas;TX;Texas;38;;
 Utah;UT;Utah;6;;
 Vermont;VT;Vermont;3;;dem
 Virginia;VA;Virginia;13;;
-Washington;WA;Alabama;12;;
+Washington;WA;Alabama;12;rep;
 West Virginia;WV;Virginia Occidental;5;;
 Wisconsin;WI;Wisconsin;10;;
 Wyoming;WY;Wyoming;3;;
