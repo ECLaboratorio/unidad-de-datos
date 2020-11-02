@@ -6,7 +6,7 @@ Arkansas,AR,Arkansas,6,rep,rep,
 California,CA,California,55,dem,dem,
 Colorado,CO,Colorado,9,dem,dem,
 Connecticut,CT,Connecticut,7,dem,dem,
-Delaware,DE,Delaware,3,dem,dem,
+Delaware,DE,Delaware,3,dem,dem,close
 District Of Columbia,DC,Distrito de Columbia,3,dem,dem,
 Florida,FL,Florida,29,dem,rep,
 Georgia,GA,Georgia,16,rep,rep,dem
@@ -20,10 +20,10 @@ Kentucky,KY,Kentucky,8,rep,rep,
 Louisiana,LA,Luisiana,8,rep,rep,
 Maine,ME,Maine,4,dem,3dem_1rep,
 Maryland,MD,Maryland,10,dem,dem,
-Massachusetts,MA,Massachusetts,11,dem,dem,dem
+Massachusetts,MA,Massachusetts,11,dem,dem,close
 Michigan,MI,Míchigan,16,dem,rep,
 Minnesota,MN,Minnesota,10,dem,dem,dem
-Mississippi,MS,Mississippi,6,rep,rep,
+Mississippi,MS,Mississippi,6,rep,rep,close
 Missouri,MO,Misuri,10,rep,rep,
 Montana,MT,Montana,3,rep,rep,
 Nebraska,NE,Nebraska,5,rep,rep,2dem_2rep_1close_0battle
@@ -33,7 +33,7 @@ New Jersey,NJ,Nueva Jersey,14,dem,dem,
 New Mexico,NM,Nuevo México,5,dem,dem,
 New York,NY,Nueva York,29,dem,dem,
 North Carolina,NC,Carolina del Norte,15,rep,rep,rep
-North Dakota,ND,Dakota del Norte,3,rep,rep,
+North Dakota,ND,Dakota del Norte,3,rep,rep,close
 Ohio,OH,Ohio,18,dem,rep,
 Oklahoma,OK,Oklahoma,7,rep,rep,
 Oregon,OR,Oregon,7,dem,dem,
