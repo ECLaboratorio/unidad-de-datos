@@ -37,7 +37,7 @@ North Dakota;ND;Dakota del Norte;3;;
 Ohio;OH;Ohio;18;;
 Oklahoma;OK;Oklahoma;7;;
 Oregon;OR;Oregon;7;;
-Pennsylvania;PA;Pensilvania;20;;dem
+Pennsylvania;PA;Pensilvania;20;dem;
 Rhode Island;RI;Rhode Island;4;;
 South Carolina;SC;Carolina del Sur;9;;
 South Dakota;SD;Dakota del Sur;3;;
@@ -46,7 +46,7 @@ Texas;TX;Texas;38;;
 Utah;UT;Utah;6;;
 Vermont;VT;Vermont;3;;dem
 Virginia;VA;Virginia;13;;
-Washington;WA;Alabama;12;rep;
+Washington;WA;Washington;12;rep;
 West Virginia;WV;Virginia Occidental;5;;
 Wisconsin;WI;Wisconsin;10;;
 Wyoming;WY;Wyoming;3;;
