@@ -1,182 +1,183 @@
 fecha_buena,pais_esp,var_casos
-2020-11-02,Estados Unidos,84089
-2020-11-02,España,55019
-2020-11-02,India,38310
-2020-11-02,Italia,22253
-2020-11-02,Suiza,21926
-2020-11-02,Reino Unido,18967
-2020-11-02,Rusia,18017
-2020-11-02,Alemania,17538
-2020-11-02,Polonia,15578
-2020-11-02,Colombia,9935
-2020-11-02,Argentina,9598
-2020-11-02,República Checa,9252
-2020-11-02,Brasil,8501
-2020-11-02,Países Bajos,8312
-2020-11-02,Irán,8289
-2020-11-02,Ucrania,6994
-2020-11-02,Bélgica,6337
-2020-11-02,Jordania,5877
-2020-11-02,Austria,4135
-2020-11-02,Rumanía,4041
-2020-11-02,México,3763
-2020-11-02,Hungría,3581
-2020-11-02,Canadá,3529
-2020-11-02,Irak,3413
-2020-11-02,Nepal,2933
-2020-11-02,Indonesia,2618
-2020-11-02,Marruecos,2526
-2020-11-02,Portugal,2506
-2020-11-02,Bulgaria,2427
-2020-11-02,Turquía,2302
-2020-11-02,Filipinas,2287
-2020-11-02,Luxemburgo,1967
-2020-11-02,Eslovaquia,1883
-2020-11-02,Georgia,1852
-2020-11-02,Francia,1746
-2020-11-02,Bangladesh,1736
-2020-11-02,Costa Rica,1286
-2020-11-02,Chile,1276
-2020-11-02,Emiratos Árabes Unidos,1234
-2020-11-02,Armenia,1194
-2020-11-02,Pakistán,1167
-2020-11-02,Croacia,1165
-2020-11-02,Grecia,1151
-2020-11-02,Líbano,1080
-2020-11-02,Kirguistán,1001
-2020-11-02,Dinamarca,942
-2020-11-02,Bielorrusia,941
-2020-11-02,Libia,862
-2020-11-02,Kosovo,851
-2020-11-02,Lituania,837
-2020-11-02,Malasia,834
-2020-11-02,Serbia,802
-2020-11-02,Túnez,791
-2020-11-02,Sudáfrica,772
-2020-11-02,Bosnia-Herzegovina,764
-2020-11-02,Kuwait,759
-2020-11-02,Irlanda,748
-2020-11-02,Kenia,724
-2020-11-02,Noruega,704
-2020-11-02,Israel,693
-2020-11-02,Azerbaiyán,596
-2020-11-02,Panamá,579
-2020-11-02,Macedonia del Norte,561
-2020-11-02,Eslovenia,557
-2020-11-02,Montenegro,496
-2020-11-02,Japón,488
-2020-11-02,Kazajistán,449
-2020-11-02,Paraguay,425
-2020-11-02,Omán,418
-2020-11-02,Arabia Saudí,381
-2020-11-02,Venezuela,380
-2020-11-02,Ecuador,368
-2020-11-02,Etiopía,359
-2020-11-02,Albania,321
-2020-11-02,Argelia,302
-2020-11-02,Sri Lanka,275
-2020-11-02,República Dominicana,259
-2020-11-02,Uganda,228
-2020-11-02,Malta,218
-2020-11-02,Bahrein,210
-2020-11-02,Chipre,197
-2020-11-02,Qatar,197
-2020-11-02,Moldavia,195
-2020-11-02,Angola,193
-2020-11-02,Honduras,193
-2020-11-02,Egipto,189
-2020-11-02,Mozambique,142
-2020-11-02,Afganistán,132
-2020-11-02,Letonia,132
-2020-11-02,Jamaica,126
-2020-11-02,Finlandia,109
-2020-11-02,Uzbekistán,98
-2020-11-02,Ghana,76
-2020-11-02,Corea del Sur,75
-2020-11-02,Nigeria,72
-2020-11-02,Andorra,63
-2020-11-02,Zambia,63
-2020-11-02,Estonia,61
-2020-11-02,China,55
-2020-11-02,Belice,47
-2020-11-02,Liechtenstein,47
-2020-11-02,Sudán,47
-2020-11-02,Tayikistán,42
-2020-11-02,Islandia,41
-2020-11-02,Maldivas,36
-2020-11-02,Cuba,35
-2020-11-02,Bolivia,34
-2020-11-02,Guyana,30
-2020-11-02,Namibia,24
-2020-11-02,Congo (Kinshasa),22
-2020-11-02,Guinea,18
-2020-11-02,Burkina Faso,17
-2020-11-02,Eritrea,17
-2020-11-02,Gabón,16
-2020-11-02,Uruguay,16
-2020-11-02,Zimbabue,15
-2020-11-02,Vietnam,12
-2020-11-02,Liberia,10
-2020-11-02,Tailandia,10
-2020-11-02,Yibuti,10
-2020-11-02,Australia,9
-2020-11-02,Mónaco,9
-2020-11-02,Ruanda,9
-2020-11-02,Lesotho,8
-2020-11-02,Mali,8
-2020-11-02,Senegal,7
-2020-11-02,Togo,7
-2020-11-02,Islas Salomón,5
-2020-11-02,Mauricio,5
-2020-11-02,Nueva Zelanda,5
-2020-11-02,Taiwán,5
-2020-11-02,Esuatini,4
-2020-11-02,Bután,2
-2020-11-02,Surinam,2
-2020-11-02,Barbados,1
-2020-11-02,Chad,1
-2020-11-02,Granada,1
-2020-11-02,Guinea Ecuatorial,1
-2020-11-02,Malaui,1
-2020-11-02,Mongolia,1
-2020-11-02,Níger,1
-2020-11-02,Papúa Nueva Guinea,1
-2020-11-02,Singapur,1
-2020-11-02,Antigua y Barbuda,0
-2020-11-02,Benín,0
-2020-11-02,Botsuana,0
-2020-11-02,Brunei,0
-2020-11-02,Burundi,0
-2020-11-02,Camboya,0
-2020-11-02,Camerún,0
-2020-11-02,Ciudad del Vaticano,0
-2020-11-02,Comoras,0
-2020-11-02,Congo (Brazzaville),0
-2020-11-02,Dominica,0
-2020-11-02,El Salvador,0
-2020-11-02,Fiyi,0
-2020-11-02,Gambia,0
-2020-11-02,Guatemala,0
-2020-11-02,Guinea-Bisáu,0
-2020-11-02,Haití,0
-2020-11-02,Islas Marshall,0
-2020-11-02,Madagascar,0
-2020-11-02,Mauritania,0
-2020-11-02,Nicaragua,0
-2020-11-02,Perú,0
-2020-11-02,República Centroafricana,0
-2020-11-02,Sahara Occidental,0
-2020-11-02,San Cristóbal y Nieves,0
-2020-11-02,San Marino,0
-2020-11-02,San Vicente y las Granadinas,0
-2020-11-02,Santa Lucía,0
-2020-11-02,Santo Tomé y Príncipe,0
-2020-11-02,Seychelles,0
-2020-11-02,Sierra Leona,0
-2020-11-02,Somalia,0
-2020-11-02,Sudán del Sur,0
-2020-11-02,Suecia,0
-2020-11-02,Tanzania,0
-2020-11-02,Timor Oriental,0
-2020-11-02,Trinidad y Tobago,0
-2020-11-02,Yemen,0
+2020-11-10,Estados Unidos,136325
+2020-11-10,India,44281
+2020-11-10,Italia,35090
+2020-11-10,Alemania,26547
+2020-11-10,Polonia,25454
+2020-11-10,Brasil,23973
+2020-11-10,Rusia,20765
+2020-11-10,Reino Unido,20451
+2020-11-10,Suecia,15779
+2020-11-10,República Checa,12699
+2020-11-10,Argentina,11977
+2020-11-10,México,10706
+2020-11-10,Ucrania,10391
+2020-11-10,Irán,10339
+2020-11-10,Rumanía,7304
+2020-11-10,Colombia,6292
+2020-11-10,Austria,6120
+2020-11-10,Jordania,5996
+2020-11-10,Suiza,5980
+2020-11-10,Marruecos,5214
+2020-11-10,Países Bajos,4724
+2020-11-10,Canadá,4445
+2020-11-10,Bulgaria,4390
+2020-11-10,Bélgica,4293
+2020-11-10,Hungría,4140
+2020-11-10,Portugal,3817
+2020-11-10,Indonesia,3779
+2020-11-10,Irak,3577
+2020-11-10,Georgia,2970
+2020-11-10,Serbia,2823
+2020-11-10,Nepal,2736
+2020-11-10,Turquía,2529
+2020-11-10,Grecia,2383
+2020-11-10,Sudáfrica,1729
+2020-11-10,Pakistán,1708
+2020-11-10,Bangladesh,1699
+2020-11-10,Bosnia-Herzegovina,1605
+2020-11-10,Líbano,1552
+2020-11-10,Croacia,1467
+2020-11-10,Túnez,1424
+2020-11-10,Azerbaiyán,1346
+2020-11-10,Kenia,1344
+2020-11-10,Filipinas,1300
+2020-11-10,Japón,1296
+2020-11-10,Armenia,1221
+2020-11-10,Perú,1194
+2020-11-10,Emiratos Árabes Unidos,1096
+2020-11-10,Eslovenia,1092
+2020-11-10,Lituania,1086
+2020-11-10,Dinamarca,1066
+2020-11-10,Eslovaquia,1051
+2020-11-10,Bielorrusia,1038
+2020-11-10,Chile,1028
+2020-11-10,Francia,1017
+2020-11-10,Costa Rica,979
+2020-11-10,Panamá,971
+2020-11-10,Kirguistán,970
+2020-11-10,Libia,970
+2020-11-10,Macedonia del Norte,947
+2020-11-10,Moldavia,915
+2020-11-10,Kuwait,903
+2020-11-10,Malasia,869
+2020-11-10,Guatemala,769
+2020-11-10,Argelia,753
+2020-11-10,Kosovo,596
+2020-11-10,Kazajistán,568
+2020-11-10,Albania,563
+2020-11-10,Noruega,562
+2020-11-10,Paraguay,549
+2020-11-10,Montenegro,546
+2020-11-10,República Dominicana,528
+2020-11-10,Luxemburgo,483
+2020-11-10,Israel,477
+2020-11-10,Arabia Saudí,471
+2020-11-10,Ecuador,442
+2020-11-10,Sri Lanka,430
+2020-11-10,Omán,381
+2020-11-10,Etiopía,345
+2020-11-10,Venezuela,296
+2020-11-10,Egipto,232
+2020-11-10,Honduras,231
+2020-11-10,Irlanda,230
+2020-11-10,Qatar,230
+2020-11-10,Finlandia,220
+2020-11-10,Letonia,208
+2020-11-10,Chipre,198
+2020-11-10,Belice,184
+2020-11-10,Bahrein,179
+2020-11-10,Afganistán,166
+2020-11-10,Malta,153
+2020-11-10,Nigeria,152
+2020-11-10,Corea del Sur,146
+2020-11-10,Angola,136
+2020-11-10,Uganda,130
+2020-11-10,Estonia,126
+2020-11-10,Bolivia,103
+2020-11-10,Ghana,100
+2020-11-10,Nicaragua,70
+2020-11-10,Mozambique,69
+2020-11-10,Uruguay,60
+2020-11-10,Lesotho,59
+2020-11-10,Zimbabue,49
+2020-11-10,Liechtenstein,45
+2020-11-10,Cuba,43
+2020-11-10,Tayikistán,41
+2020-11-10,Andorra,40
+2020-11-10,Togo,35
+2020-11-10,Congo (Kinshasa),34
+2020-11-10,Mali,33
+2020-11-10,Jamaica,31
+2020-11-10,Trinidad y Tobago,31
+2020-11-10,China,26
+2020-11-10,Zambia,26
+2020-11-10,Guinea,25
+2020-11-10,Mónaco,22
+2020-11-10,Maldivas,21
+2020-11-10,Ruanda,20
+2020-11-10,Mauritania,15
+2020-11-10,Mongolia,14
+2020-11-10,Islandia,13
+2020-11-10,Namibia,13
+2020-11-10,Esuatini,11
+2020-11-10,Vietnam,11
+2020-11-10,Chad,10
+2020-11-10,Guinea Ecuatorial,10
+2020-11-10,Níger,10
+2020-11-10,Liberia,9
+2020-11-10,Senegal,9
+2020-11-10,Singapur,9
+2020-11-10,Santa Lucía,7
+2020-11-10,Comoras,6
+2020-11-10,Guyana,6
+2020-11-10,Yibuti,6
+2020-11-10,República Centroafricana,4
+2020-11-10,Surinam,4
+2020-11-10,Tailandia,3
+2020-11-10,Australia,2
+2020-11-10,Taiwán,2
+2020-11-10,Burkina Faso,1
+2020-11-10,Burundi,1
+2020-11-10,Nueva Zelanda,1
+2020-11-10,Sierra Leona,1
+2020-11-10,Vanuatu,1
+2020-11-10,Antigua y Barbuda,0
+2020-11-10,Barbados,0
+2020-11-10,Benín,0
+2020-11-10,Botsuana,0
+2020-11-10,Brunei,0
+2020-11-10,Bután,0
+2020-11-10,Camboya,0
+2020-11-10,Camerún,0
+2020-11-10,Ciudad del Vaticano,0
+2020-11-10,Congo (Brazzaville),0
+2020-11-10,Dominica,0
+2020-11-10,El Salvador,0
+2020-11-10,Eritrea,0
+2020-11-10,España,0
+2020-11-10,Fiyi,0
+2020-11-10,Gabón,0
+2020-11-10,Gambia,0
+2020-11-10,Granada,0
+2020-11-10,Guinea-Bisáu,0
+2020-11-10,Haití,0
+2020-11-10,Islas Marshall,0
+2020-11-10,Islas Salomón,0
+2020-11-10,Madagascar,0
+2020-11-10,Malaui,0
+2020-11-10,Mauricio,0
+2020-11-10,Papúa Nueva Guinea,0
+2020-11-10,Sahara Occidental,0
+2020-11-10,San Cristóbal y Nieves,0
+2020-11-10,San Marino,0
+2020-11-10,San Vicente y las Granadinas,0
+2020-11-10,Santo Tomé y Príncipe,0
+2020-11-10,Seychelles,0
+2020-11-10,Somalia,0
+2020-11-10,Sudán,0
+2020-11-10,Sudán del Sur,0
+2020-11-10,Tanzania,0
+2020-11-10,Timor Oriental,0
+2020-11-10,Uzbekistán,0
+2020-11-10,Yemen,0
