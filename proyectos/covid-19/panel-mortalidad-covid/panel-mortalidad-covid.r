@@ -9,6 +9,7 @@ excesoEspanaFallecidos <- read.csv('https://docs.google.com/spreadsheets/d/e/2PA
 #excesoEuropaFallecidos <- read.csv()
 fallecidosEdad <- read.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQAbGmq1q9TYkM6Pi4ftN595EBTKLhk6oSR_lA3l_indS_zfYyV7TeFuNv2sGSHX0aIWAx9cE0INzQC/pub?gid=1214378008&single=true&output=csv', encoding = 'UTF-8')
 #fallecidosSexo <- read.csv()
+sumaSemanalFallecidos <- read.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQAbGmq1q9TYkM6Pi4ftN595EBTKLhk6oSR_lA3l_indS_zfYyV7TeFuNv2sGSHX0aIWAx9cE0INzQC/pub?gid=976155095&single=true&output=csv', encoding = 'UTF-8')
 
 ## En función de la carpeta que nos encontremos, escribimos el setwd de una forma u otra
 ## Descomentar la siguiente línea si estás en la carpeta 'unidad-de-datos'
@@ -23,3 +24,4 @@ write_csv(excesoEspanaFallecidos, 'fallecidos-exceso-espana-covid.csv')
 #write_csv(excesoEuropaFallecidos, 'exceso-europa-fallecidos-covid.csv')
 write_csv(fallecidosEdad, 'fallecidos-edad-covid.csv')
 #write_csv(fallecidosSexo, 'fallecidos-sexo-covid.csv')
+write_csv(sumaSemanalFallecidos, 'fallecidos-suma-semanal-covid.csv')
