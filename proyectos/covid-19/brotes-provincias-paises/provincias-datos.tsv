@@ -41975,3 +41975,162 @@ fecha	idpro	provincia	indicador	valor
 2020-11-13	ZA	Zamora	pcr_diario	27
 2020-11-13	ZA	Zamora	pcr_media_movil_7dias	82.6
 2020-11-13	ZA	Zamora	ia_7dias	336.77
+2020-11-14	A	Alicante	pcr_diario	147
+2020-11-14	A	Alicante	pcr_media_movil_7dias	199.3
+2020-11-14	A	Alicante	ia_7dias	74
+2020-11-14	AB	Albacete	pcr_diario	50
+2020-11-14	AB	Albacete	pcr_media_movil_7dias	86.6
+2020-11-14	AB	Albacete	ia_7dias	155.45
+2020-11-14	AL	Almería	pcr_diario	154
+2020-11-14	AL	Almería	pcr_media_movil_7dias	161.1
+2020-11-14	AL	Almería	ia_7dias	157.67
+2020-11-14	AV	Ávila	pcr_diario	22
+2020-11-14	AV	Ávila	pcr_media_movil_7dias	31.9
+2020-11-14	AV	Ávila	ia_7dias	140.31
+2020-11-14	B	Barcelona	pcr_diario	649
+2020-11-14	B	Barcelona	pcr_media_movil_7dias	1440.4
+2020-11-14	B	Barcelona	ia_7dias	178.93
+2020-11-14	BA	Badajoz	pcr_diario	119
+2020-11-14	BA	Badajoz	pcr_media_movil_7dias	156.9
+2020-11-14	BA	Badajoz	ia_7dias	163.69
+2020-11-14	BI	Bizkaia	pcr_diario	303
+2020-11-14	BI	Bizkaia	pcr_media_movil_7dias	365
+2020-11-14	BI	Bizkaia	ia_7dias	223.55
+2020-11-14	BU	Burgos	pcr_diario	37
+2020-11-14	BU	Burgos	pcr_media_movil_7dias	202.9
+2020-11-14	BU	Burgos	ia_7dias	399.13
+2020-11-14	C	A Coruña	pcr_diario	197
+2020-11-14	C	A Coruña	pcr_media_movil_7dias	173.1
+2020-11-14	C	A Coruña	ia_7dias	107.88
+2020-11-14	CA	Cádiz	pcr_diario	382
+2020-11-14	CA	Cádiz	pcr_media_movil_7dias	311.7
+2020-11-14	CA	Cádiz	ia_7dias	173.92
+2020-11-14	CC	Cáceres	pcr_diario	114
+2020-11-14	CC	Cáceres	pcr_media_movil_7dias	70
+2020-11-14	CC	Cáceres	ia_7dias	125.32
+2020-11-14	CE	Ceuta	pcr_diario	3
+2020-11-14	CE	Ceuta	pcr_media_movil_7dias	4.6
+2020-11-14	CE	Ceuta	ia_7dias	38.08
+2020-11-14	CO	Córdoba	pcr_diario	111
+2020-11-14	CO	Córdoba	pcr_media_movil_7dias	122.9
+2020-11-14	CO	Córdoba	ia_7dias	109.66
+2020-11-14	CR	Ciudad Real	pcr_diario	77
+2020-11-14	CR	Ciudad Real	pcr_media_movil_7dias	89.3
+2020-11-14	CR	Ciudad Real	ia_7dias	126.49
+2020-11-14	CS	Castellón	pcr_diario	90
+2020-11-14	CS	Castellón	pcr_media_movil_7dias	104.1
+2020-11-14	CS	Castellón	ia_7dias	126.8
+2020-11-14	CU	Cuenca	pcr_diario	35
+2020-11-14	CU	Cuenca	pcr_media_movil_7dias	54.3
+2020-11-14	CU	Cuenca	ia_7dias	190.16
+2020-11-14	ES	España	pcr_diario	6636
+2020-11-14	ES	España	pcr_media_movil_7dias	9991.7
+2020-11-14	ES	España	ia_7dias	147.78
+2020-11-14	GC	Las Palmas	pcr_diario	12
+2020-11-14	GC	Las Palmas	pcr_media_movil_7dias	19
+2020-11-14	GC	Las Palmas	ia_7dias	11.55
+2020-11-14	GI	Girona	pcr_diario	139
+2020-11-14	GI	Girona	pcr_media_movil_7dias	240.7
+2020-11-14	GI	Girona	ia_7dias	219.65
+2020-11-14	GR	Granada	pcr_diario	302
+2020-11-14	GR	Granada	pcr_media_movil_7dias	557.3
+2020-11-14	GR	Granada	ia_7dias	421.7
+2020-11-14	GU	Guadalajara	pcr_diario	21
+2020-11-14	GU	Guadalajara	pcr_media_movil_7dias	35.9
+2020-11-14	GU	Guadalajara	ia_7dias	95.65
+2020-11-14	H	Huelva	pcr_diario	86
+2020-11-14	H	Huelva	pcr_media_movil_7dias	122.4
+2020-11-14	H	Huelva	ia_7dias	162.29
+2020-11-14	HU	Huesca	pcr_diario	26
+2020-11-14	HU	Huesca	pcr_media_movil_7dias	61.7
+2020-11-14	HU	Huesca	ia_7dias	195.78
+2020-11-14	J	Jaén	pcr_diario	120
+2020-11-14	J	Jaén	pcr_media_movil_7dias	210
+2020-11-14	J	Jaén	ia_7dias	233.76
+2020-11-14	L	Lleida	pcr_diario	101
+2020-11-14	L	Lleida	pcr_media_movil_7dias	137.6
+2020-11-14	L	Lleida	ia_7dias	221.07
+2020-11-14	LE	León	pcr_diario	25
+2020-11-14	LE	León	pcr_media_movil_7dias	166.1
+2020-11-14	LE	León	ia_7dias	253.3
+2020-11-14	LO	La Rioja	pcr_diario	60
+2020-11-14	LO	La Rioja	pcr_media_movil_7dias	111.9
+2020-11-14	LO	La Rioja	ia_7dias	247.84
+2020-11-14	LU	Lugo	pcr_diario	60
+2020-11-14	LU	Lugo	pcr_media_movil_7dias	63.4
+2020-11-14	LU	Lugo	ia_7dias	135.3
+2020-11-14	M	Madrid	pcr_diario	166
+2020-11-14	M	Madrid	pcr_media_movil_7dias	470
+2020-11-14	M	Madrid	ia_7dias	48.76
+2020-11-14	MA	Málaga	pcr_diario	116
+2020-11-14	MA	Málaga	pcr_media_movil_7dias	154.6
+2020-11-14	MA	Málaga	ia_7dias	64.28
+2020-11-14	ME	Melilla	pcr_diario	10
+2020-11-14	ME	Melilla	pcr_media_movil_7dias	11
+2020-11-14	ME	Melilla	ia_7dias	91.13
+2020-11-14	MU	Murcia	pcr_diario	243
+2020-11-14	MU	Murcia	pcr_media_movil_7dias	385.4
+2020-11-14	MU	Murcia	ia_7dias	179.32
+2020-11-14	"NA"	Navarra	pcr_diario	91
+2020-11-14	"NA"	Navarra	pcr_media_movil_7dias	124.9
+2020-11-14	"NA"	Navarra	ia_7dias	133.13
+2020-11-14	O	Asturias	pcr_diario	366
+2020-11-14	O	Asturias	pcr_media_movil_7dias	483.6
+2020-11-14	O	Asturias	ia_7dias	332.26
+2020-11-14	OR	Ourense	pcr_diario	34
+2020-11-14	OR	Ourense	pcr_media_movil_7dias	34
+2020-11-14	OR	Ourense	ia_7dias	77.57
+2020-11-14	P	Palencia	pcr_diario	39
+2020-11-14	P	Palencia	pcr_media_movil_7dias	65.9
+2020-11-14	P	Palencia	ia_7dias	288.4
+2020-11-14	PM	Baleares	pcr_diario	118
+2020-11-14	PM	Baleares	pcr_media_movil_7dias	149.3
+2020-11-14	PM	Baleares	ia_7dias	86.31
+2020-11-14	PO	Pontevedra	pcr_diario	241
+2020-11-14	PO	Pontevedra	pcr_media_movil_7dias	226
+2020-11-14	PO	Pontevedra	ia_7dias	167.62
+2020-11-14	S	Cantabria	pcr_diario	236
+2020-11-14	S	Cantabria	pcr_media_movil_7dias	206.6
+2020-11-14	S	Cantabria	ia_7dias	248.3
+2020-11-14	SA	Salamanca	pcr_diario	23
+2020-11-14	SA	Salamanca	pcr_media_movil_7dias	79.3
+2020-11-14	SA	Salamanca	ia_7dias	167.65
+2020-11-14	SE	Sevilla	pcr_diario	308
+2020-11-14	SE	Sevilla	pcr_media_movil_7dias	447.6
+2020-11-14	SE	Sevilla	ia_7dias	160.08
+2020-11-14	SG	Segovia	pcr_diario	24
+2020-11-14	SG	Segovia	pcr_media_movil_7dias	31.7
+2020-11-14	SG	Segovia	ia_7dias	143.94
+2020-11-14	SO	Soria	pcr_diario	37
+2020-11-14	SO	Soria	pcr_media_movil_7dias	33.9
+2020-11-14	SO	Soria	ia_7dias	263.59
+2020-11-14	SS	Gipuzkoa	pcr_diario	300
+2020-11-14	SS	Gipuzkoa	pcr_media_movil_7dias	359.7
+2020-11-14	SS	Gipuzkoa	ia_7dias	351.42
+2020-11-14	T	Tarragona	pcr_diario	134
+2020-11-14	T	Tarragona	pcr_media_movil_7dias	231.3
+2020-11-14	T	Tarragona	ia_7dias	198.82
+2020-11-14	TE	Teruel	pcr_diario	11
+2020-11-14	TE	Teruel	pcr_media_movil_7dias	38.7
+2020-11-14	TE	Teruel	ia_7dias	203.31
+2020-11-14	TF	Santa Cruz de Tenerife	pcr_diario	71
+2020-11-14	TF	Santa Cruz de Tenerife	pcr_media_movil_7dias	45.4
+2020-11-14	TF	Santa Cruz de Tenerife	ia_7dias	29.28
+2020-11-14	TO	Toledo	pcr_diario	97
+2020-11-14	TO	Toledo	pcr_media_movil_7dias	167.6
+2020-11-14	TO	Toledo	ia_7dias	167.76
+2020-11-14	V	Valencia	pcr_diario	265
+2020-11-14	V	Valencia	pcr_media_movil_7dias	406.6
+2020-11-14	V	Valencia	ia_7dias	110.8
+2020-11-14	VA	Valladolid	pcr_diario	75
+2020-11-14	VA	Valladolid	pcr_media_movil_7dias	214.9
+2020-11-14	VA	Valladolid	ia_7dias	288.83
+2020-11-14	VI	Álava	pcr_diario	52
+2020-11-14	VI	Álava	pcr_media_movil_7dias	52.9
+2020-11-14	VI	Álava	ia_7dias	112.17
+2020-11-14	Z	Zaragoza	pcr_diario	118
+2020-11-14	Z	Zaragoza	pcr_media_movil_7dias	201.4
+2020-11-14	Z	Zaragoza	ia_7dias	144.39
+2020-11-14	ZA	Zamora	pcr_diario	19
+2020-11-14	ZA	Zamora	pcr_media_movil_7dias	69.7
+2020-11-14	ZA	Zamora	ia_7dias	284.33
