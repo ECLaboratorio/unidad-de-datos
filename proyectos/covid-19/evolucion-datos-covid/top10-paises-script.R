@@ -9,7 +9,7 @@ top_paises <- datos_largo %>%
     group_by(pais_esp, fecha_buena) %>%
     summarise(casos=sum(valor)) %>% 
     mutate(var_casos=casos-lag(casos)) %>% 
-    filter(fecha_buena=="2020-11-19", !is.na(pais_esp)) %>% ## cambiar fecha cada día por la más reciente (un día antes de cuando ejecutemos el script)
+    filter(fecha_buena=="2020-11-25", !is.na(pais_esp)) %>% ## cambiar fecha cada día por la más reciente (un día antes de cuando ejecutemos el script)
     select(fecha_buena, pais_esp, var_casos) %>% 
     arrange(-var_casos)
 
