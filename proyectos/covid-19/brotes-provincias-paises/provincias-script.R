@@ -6,7 +6,6 @@ library(zoo)
 datos <- read.csv("https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv", na.strings="")
 datos$fecha <- ymd(datos$fecha)
 
-
 ## establecer carpeta predefinida
 setwd("proyectos/covid-19/brotes-provincias-paises/")
 #setwd("../brotes-provincias-paises")
@@ -43,7 +42,7 @@ datos_pcr_espana <- datos_pcr %>%
            pcr_media_movil_7dias=round(rollmean(pcr, k=7, fill=NA, align = "right"),1),
            pcr_7dias=rollsum(pcr, k=7, fill=NA, align = "right"),
            ia_7dias=round(pcr_7dias/poblacion*100000, 2)) %>% 
-    filter(fecha>="2020-02-24" & fecha <= "2020-11-21") %>% 
+    filter(fecha>="2020-02-24" & fecha <= "2020-11-25") %>% 
     select(fecha, idpro, provincia, pcr_diario=pcr, pcr_media_movil_7dias, ia_7dias) %>% 
     pivot_longer(4:6, names_to="indicador", values_to = "valor") %>% 
     arrange(fecha, idpro)
@@ -54,7 +53,7 @@ datos_pcr_provincias <- datos_pcr %>%
     mutate(pcr_media_movil_7dias=round(rollmean(pcr, k=7, fill=NA, align = "right"),1),
            pcr_7dias=rollsum(pcr, k=7, fill=NA, align = "right"),
            ia_7dias=round(pcr_7dias/poblacion*100000, 2)) %>% 
-    filter(fecha>="2020-02-24" & fecha <= "2020-11-21") %>%
+    filter(fecha>="2020-02-24" & fecha <= "2020-11-25") %>%
     select(fecha, idpro=iso, provincia, pcr_diario=pcr, pcr_media_movil_7dias, ia_7dias) %>% 
     pivot_longer(4:6, names_to="indicador", values_to = "valor")
 
